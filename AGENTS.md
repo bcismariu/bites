@@ -70,9 +70,9 @@ row, recompute totals, commit as `log: YYYY-MM-DD fix — …`.
 # Thursday, 2026-08-07
 
 ## Breakfast
-| Food | Portion | kcal | Protein | Carbs | Fat | Fiber | Sugar |
-|---|---|---|---|---|---|---|---|
-| Apple (Golden) | 2 × 150 g | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 |
+| Food | Portion | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added |
+|---|---|---|---|---|---|---|---|---|
+| Apple (Golden) | 2 × 150 g | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 | 0 |
 
 ## Activity
 | Activity | Duration | Intensity | ~kcal |
@@ -80,11 +80,11 @@ row, recompute totals, commit as `log: YYYY-MM-DD fix — …`.
 | Run, easy pace | 40 min | moderate | ~420 (est.) |
 
 ## Day totals
-| | kcal | Protein | Carbs | Fat | Fiber | Sugar |
-|---|---|---|---|---|---|---|
-| **Eaten** | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 |
-| **Target** | 2700 | 140 | 340 | 85 | 35 | — |
-| **Remaining** | 2544 | 139.1 | 298.6 | 84.4 | 27.8 | — |
+| | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added |
+|---|---|---|---|---|---|---|---|
+| **Eaten** | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 | 0 |
+| **Target** | 2450 | 140 | 290 | 80 | 35 | — | <35 |
+| **Remaining** | 2294 | 139.1 | 248.6 | 79.4 | 27.8 | — | 35.0 |
 
 Micros covered: vitC, k
 
@@ -100,8 +100,19 @@ known, e.g. `## Snack (16:30)`.
 
 - Quantities in **grams** (ml for liquids, treated 1:1). Portion column shows
   the human framing plus grams: `1 slice (35 g)`, `2 × 150 g`.
-- Nutrients tracked per item: **kcal, protein, carbs, fat, fiber, sugar**
-  (sugar is informational — no target).
+- Nutrients tracked per item: **kcal, protein, carbs, fat, fiber, sugar,
+  added sugar**.
+- **Sugar** is total sugar; **Added** is the free-sugar part (WHO definition:
+  sugars added in production or preparation, plus honey, syrups and fruit
+  **juice**). Sugar naturally present in whole fruit, vegetables and milk
+  (lactose) is *not* added sugar and stays out of that column.
+  - Whole foods → `Added` is 0.
+  - Labelled products → read the ingredients: no sugar/syrup listed means the
+    declared sugars are intrinsic, so `Added` is 0.
+  - Sweetened drinks, sauces, dressings, baked goods → estimate the added
+    part; for a drink sweetened with sugar it is effectively all of it.
+- Total sugar has no target; **added sugar does: < 35 g/day** (see
+  `profile/targets.md`). Only the Added row gets a Remaining value.
 - kcal rounded to integers; macros to 0.1 g.
 - All nutrient values in log rows are for the portion eaten, not per 100 g.
 - Micronutrients are never counted numerically. The `Micros covered:` line
@@ -111,8 +122,8 @@ known, e.g. `## Snack (16:30)`.
 ## The food dictionary
 
 Every food that gets logged must exist in `foods/dictionary.md`, keyed by the
-name used in log rows. Entries store per-100 g values, the user's usual
-portion, and the source:
+name used in log rows. Entries store per-100 g values (including the
+`Added` split), the user's usual portion, and the source:
 
 - `label` — from a product label (link the file in `foods/labels/`)
 - `estimate` — Claude's generic nutritional knowledge (USDA-typical values)
