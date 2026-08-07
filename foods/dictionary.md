@@ -10,6 +10,11 @@ Log rows must use the exact name from this table.
 
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|
+| Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 180 g (1 medium) | — | estimate |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 200 g | iron, k | estimate |
+| Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 60 g (1 small) | — | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
+| Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 100 g (1 small) | — | estimate |
 | Green beans, sautéed | 55 | 1.9 | 7 | 2.5 | 3.2 | 2.3 | 175 g | vitC | estimate |
+| Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 120 g (2 eggs) | b12, vitD | estimate |
+| Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 120 g (1 medium) | vitC | estimate |
