@@ -10,4 +10,6 @@ Log rows must use the exact name from this table.
 
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|
-| _(grows with the first logged meal)_ | | | | | | | | | |
+| Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 200 g | iron, k | estimate |
+| Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
+| Green beans, sautéed | 55 | 1.9 | 7 | 2.5 | 3.2 | 2.3 | 175 g | vitC | estimate |
