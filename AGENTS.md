@@ -122,6 +122,37 @@ When the user sends a **label screenshot**, create
 serving size, and anything notable (additives, claims), then add or update the
 dictionary entry pointing to it. Label data always overrides estimates.
 
+## Estimating meals from photos
+
+When the user sends a meal photo, identify **what** is on the plate and
+estimate **how much** of each item — quantity matters as much as identity
+(100 g vs. 250 g of chicken breast is a different day). Method:
+
+1. **Scale first.** Anchor portion sizes to references in frame: plate
+   diameter (~26–27 cm for a dinner plate), cutlery, glasses, hands, product
+   packaging. Judge food height/thickness, not just coverage area.
+2. **Estimate per item, in grams**, rounded to sensible steps — 10 g for
+   small/dense items (cheese, nuts, dressing), 25 g for mains and sides. No
+   pharmacy precision, no hedging into uselessness either.
+3. **Count the invisible.** Cooking fat on pan-fried or roasted food
+   (~5–10 g oil/butter), dressings, sauces, sugar in drinks — unless the
+   preparation is known to be lean.
+4. **State assumptions with the numbers** in the reply: "chicken breast
+   ~200 g (covers a third of the plate, thick fillet), rice ~180 g, ~7 g oil
+   assumed for the pan." The user corrects what's off; corrections about
+   *their* usual portions go to `preferences.md`.
+5. **Ask at most one question**, only when the answer swings the meal
+   materially (fried or grilled? regular or zero cola?). Otherwise estimate
+   and flag.
+6. Log rows from photos are marked `(est.)` as usual. When the same dish
+   recurs, reuse its established portion from `preferences.md` /
+   `dictionary.md` and just sanity-check against the photo.
+
+If a photo is ambiguous but low-stakes (a side salad), estimate silently;
+if it is ambiguous and calorie-dense (a creamy pasta, a burger), lean toward
+the **higher** plausible estimate — under-logging is the systematic risk in
+food tracking.
+
 ## Activity & workouts
 
 Workouts and any significant physical activity go in the same day file, under
