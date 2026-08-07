@@ -11,6 +11,7 @@ Log rows must use the exact name from this table.
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 180 g (1 medium) | — | estimate |
+| Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 120 g (1 medium, peeled) | k, mg | estimate |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 200 g | iron, k | estimate |
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 60 g (1 small) | — | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
