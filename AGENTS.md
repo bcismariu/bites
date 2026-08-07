@@ -18,7 +18,8 @@ steady energy levels.
 | `README.md` | Human-facing intro. |
 | `profile/preferences.md` | Food preferences: usual brands/varieties, portion habits, likes, dislikes, allergies. **Check this before logging anything ambiguous.** |
 | `profile/targets.md` | Daily kcal & macro targets and the goal behind them. |
-| `foods/dictionary.md` | The personal food dictionary: per-100 g nutrients + usual portion for every food that has appeared in the log. Source of truth for repeated foods. |
+| `foods/dictionary.md` | The personal food dictionary: per-100 g nutrients, usual portion and key-micro tags for every food that has appeared in the log. Source of truth for repeated foods. |
+| `foods/micronutrients.md` | The tracked micronutrient list: tags, daily needs, rhythms, best sources. Micros are tracked as **coverage, not counts**. |
 | `foods/labels/` | One file per labelled product, summarized from label screenshots the user provides. Referenced from the dictionary. |
 | `log/YYYY/MM/YYYY-MM-DD.md` | One file per day: meals, portions, nutrients, day totals — plus workouts and notable activity. |
 | `summaries/` | Generated reviews (weekly `YYYY-Www.md`, monthly `YYYY-MM.md`). Written on request; derived data, never the source of truth. |
@@ -85,6 +86,8 @@ row, recompute totals, commit as `log: YYYY-MM-DD fix — …`.
 | **Target** | 2700 | 140 | 340 | 85 | 35 | — |
 | **Remaining** | 2544 | 139.1 | 298.6 | 84.4 | 27.8 | — |
 
+Micros covered: vitC, k
+
 ## Notes
 Optional: energy levels, hunger, context the user mentions.
 ```
@@ -101,6 +104,9 @@ known, e.g. `## Snack (16:30)`.
   (sugar is informational — no target).
 - kcal rounded to integers; macros to 0.1 g.
 - All nutrient values in log rows are for the portion eaten, not per 100 g.
+- Micronutrients are never counted numerically. The `Micros covered:` line
+  under Day totals is the union of the day's dictionary tags
+  (see `foods/micronutrients.md`); update it with every logged meal.
 
 ## The food dictionary
 
@@ -133,12 +139,23 @@ marked `(est.)`.
 
 ## Suggestions
 
-When asked for meal/snack ideas: read today's log, `targets.md`, and
-`preferences.md`; suggest things that (a) the user demonstrably enjoys —
-preferences and log history, (b) fit the remaining budget, (c) close macro
-gaps (protein first), and (d) keep variety and pleasure high. Never suggest
-anything in the allergies/avoid list. Suggestions are conversation only —
-nothing is written until the user actually eats something.
+When asked for meal/snack ideas: read today's log, `targets.md`,
+`preferences.md`, and the recent days' `Micros covered:` lines; suggest
+things that (a) the user demonstrably enjoys — preferences and log history,
+(b) fit the remaining budget, (c) close macro gaps (protein first), and
+(d) close **micro gaps on the week's rhythm** — e.g. oily fish when omega-3
+is overdue, not just anything with protein — while (e) keeping variety and
+pleasure high. Never suggest anything in the allergies/avoid list.
+Suggestions are conversation only — nothing is written until the user
+actually eats something.
+
+## Weekly & monthly summaries
+
+On request (`summaries/YYYY-Www.md` or `YYYY-MM.md`): averages vs. targets
+for macros, notable days, and a **micro coverage table** — for each tracked
+micronutrient, on how many days a good source appeared and whether its rhythm
+was met, ending with 2–3 concrete additions for the coming week. Summaries
+are derived from day files; regenerate rather than hand-edit.
 
 ## Commit conventions
 
