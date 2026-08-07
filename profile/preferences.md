@@ -11,7 +11,10 @@ gets recorded here so it is never asked twice.
 
 ## Habits & routine
 
-- _(e.g. coffee: how many per day, with what; typical breakfast; eating window)_
+- Desk job, seated most of the day.
+- Walks to the office ~12–15 min each way (weekdays).
+- Walks to lunch ~8–10 min each way.
+- No gym currently (as of 2026-08).
 
 ## Likes
 
