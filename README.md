@@ -1,13 +1,14 @@
 # Bites 🍽️
 
-A personal food & nutrition tracker where **the git repo is the app**.
+A personal food, nutrition & activity tracker where **the git repo is the
+app**.
 
 Meals are logged by talking to Claude, which maintains plain-Markdown files
 and commits every change. The commit history is the activity feed; the files
 are the database. No build, no server, no lock-in — just readable text.
 
-- **What I eat** → `log/YYYY/MM/YYYY-MM-DD.md`, one file per day, with
-  nutrients and running totals.
+- **What I eat & how I move** → `log/YYYY/MM/YYYY-MM-DD.md`, one file per
+  day, with nutrients, workouts and running totals.
 - **What I like** → `profile/preferences.md`, so "two apples" always means
   *my* apples.
 - **What I aim for** → `profile/targets.md`.

@@ -1,10 +1,10 @@
 # Bites — Operating Manual
 
-This repository **is** the app. It is a personal food & nutrition tracker for
-Bogdan, operated by Claude in conversation. There is no code, no build, no
-deployment: the user reports what they eat, Claude updates plain-Markdown
-files, and every change is committed to git. The git history is the activity
-log; the files are the state.
+This repository **is** the app. It is a personal food, nutrition & activity
+tracker for Bogdan, operated by Claude in conversation. There is no code, no
+build, no deployment: the user reports what they eat (and how they move),
+Claude updates plain-Markdown files, and every change is committed to git.
+The git history is the activity log; the files are the state.
 
 Goals, in order: effortless tracking, good shape, great culinary experience,
 steady energy levels.
@@ -14,12 +14,13 @@ steady energy levels.
 | Path | Purpose |
 |---|---|
 | `AGENTS.md` | This manual. Keep it current when conventions change. |
+| `CLAUDE.md` | Quick-reference checklist; imports this manual. |
 | `README.md` | Human-facing intro. |
 | `profile/preferences.md` | Food preferences: usual brands/varieties, portion habits, likes, dislikes, allergies. **Check this before logging anything ambiguous.** |
 | `profile/targets.md` | Daily kcal & macro targets and the goal behind them. |
 | `foods/dictionary.md` | The personal food dictionary: per-100 g nutrients + usual portion for every food that has appeared in the log. Source of truth for repeated foods. |
 | `foods/labels/` | One file per labelled product, summarized from label screenshots the user provides. Referenced from the dictionary. |
-| `log/YYYY/MM/YYYY-MM-DD.md` | One file per day: meals, portions, nutrients, day totals. |
+| `log/YYYY/MM/YYYY-MM-DD.md` | One file per day: meals, portions, nutrients, day totals — plus workouts and notable activity. |
 | `summaries/` | Generated reviews (weekly `YYYY-Www.md`, monthly `YYYY-MM.md`). Written on request; derived data, never the source of truth. |
 
 ## Core workflow: logging food
@@ -54,12 +55,17 @@ row, recompute totals, commit as `log: YYYY-MM-DD fix — …`.
 |---|---|---|---|---|---|---|---|
 | Apple (Golden) | 2 × 150 g | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 |
 
+## Activity
+| Activity | Duration | Intensity | ~kcal |
+|---|---|---|---|
+| Run, easy pace | 40 min | moderate | ~420 (est.) |
+
 ## Day totals
 | | kcal | Protein | Carbs | Fat | Fiber | Sugar |
 |---|---|---|---|---|---|---|
 | **Eaten** | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 |
-| **Target** | 2200 | 120 | 250 | 75 | 30 | — |
-| **Remaining** | 2044 | 119.1 | 208.6 | 74.4 | 22.8 | — |
+| **Target** | 2700 | 140 | 340 | 85 | 35 | — |
+| **Remaining** | 2544 | 139.1 | 298.6 | 84.4 | 27.8 | — |
 
 ## Notes
 Optional: energy levels, hunger, context the user mentions.
@@ -92,6 +98,21 @@ When the user sends a **label screenshot**, create
 serving size, and anything notable (additives, claims), then add or update the
 dictionary entry pointing to it. Label data always overrides estimates.
 
+## Activity & workouts
+
+Workouts and any significant physical activity go in the same day file, under
+an `## Activity` section (after the meals, before Day totals). One row per
+activity: what, duration, perceived intensity, and an estimated kcal burn
+marked `(est.)`.
+
+- Activity is **informational**: it does not change the day's food targets or
+  the Remaining row. The fixed targets already assume a moderately active
+  life (`profile/targets.md`); if training volume changes durably, revisit
+  the targets themselves rather than adjusting day by day.
+- Recurring workout habits (usual routes, class schedules, gym routine)
+  belong in `profile/preferences.md` like any other habit, so "my usual run"
+  resolves without questions.
+
 ## Suggestions
 
 When asked for meal/snack ideas: read today's log, `targets.md`, and
@@ -107,13 +128,15 @@ One logical change per commit, message prefixed by area:
 
 - `log: 2026-08-07 lunch — chicken salad, bread`
 - `log: 2026-08-07 fix — apples were 3, not 2`
+- `activity: 2026-08-07 — 40 min easy run`
 - `food: add Lidl skyr natural (label)`
 - `profile: apples default to Golden ~150 g`
 - `summary: 2026-W32`
 - `meta: <manual/README/structure changes>`
 
-Push to the working branch after committing. Do not rewrite history of
-logged days; corrections are new commits.
+Work directly on **`main`** — no feature branches — and push after
+committing. Do not rewrite history of logged days; corrections are new
+commits.
 
 ## Principles
 
