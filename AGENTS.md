@@ -23,6 +23,24 @@ steady energy levels.
 | `log/YYYY/MM/YYYY-MM-DD.md` | One file per day: meals, portions, nutrients, day totals — plus workouts and notable activity. |
 | `summaries/` | Generated reviews (weekly `YYYY-Www.md`, monthly `YYYY-MM.md`). Written on request; derived data, never the source of truth. |
 
+## What gets stored — facts only
+
+Conversation is chatty; the repo is not. Questions, suggestions, hypotheticals
+and planning ("what should I eat tonight?", "thinking of ordering pizza")
+leave **no trace** in the files. The only things ever committed are confirmed
+facts:
+
+- food the user confirms they **ate** (or drank)
+- activity the user confirms they **did**
+- clarified preferences and habits
+- product label data, weight/stats updates, target changes
+- notes the user explicitly asks to have recorded
+
+**Photos are never committed.** When the user sends a photo — a meal to
+estimate or a product label to read — extract the information (into the log,
+`foods/dictionary.md`, or `foods/labels/`) and discard the image. The
+extracted text is the record.
+
 ## Core workflow: logging food
 
 When the user reports eating something (e.g. *"I had two apples and a yogurt"*):

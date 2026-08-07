@@ -15,5 +15,7 @@ The always-do checklist:
 5. Anything the user clarifies once (brand, portion, habit) is written to
    `profile/preferences.md` immediately — never ask twice.
 6. Keep files tidy and phone-readable; keep diffs small.
+7. Commit **confirmed facts only** — chat, questions and suggestions leave no
+   trace; photos are never stored, only the data extracted from them.
 
 @AGENTS.md
