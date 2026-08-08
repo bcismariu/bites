@@ -38,6 +38,9 @@ The two pulling exercises are the priority — they counteract the desk job.
 Progression rule: raise the weight when the last 2 reps of a set come up
 clean; hold it when form breaks. Gym is at Life Fitness machines.
 
+**The pool at the gym is 18 m per length** — always convert lengths to
+metres with this, never assume 25 m or 50 m.
+
 ## Likes
 
 - _(foods and cuisines to lean into for suggestions)_
