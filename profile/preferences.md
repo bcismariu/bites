@@ -18,6 +18,7 @@ gets recorded here so it is never asked twice.
 - Walks to the office ~12–15 min each way (weekdays).
 - Walks to lunch ~8–10 min each way.
 - No gym currently (as of 2026-08).
+- **Never drinks coffee** — no caffeine at all. Doesn't smoke.
 
 ## Likes
 
