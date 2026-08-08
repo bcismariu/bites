@@ -33,7 +33,7 @@ Log rows must use the exact name from this table.
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
-| Portokalopita (Greek orange phyllo cake) | 330 | 4 | 45 | 15 | 1 | 28 | 25 | 100 g (1 bucată) | — | estimate |
+| Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Sour cherry jam (dulceață de vișine) | 250 | 0.5 | 62 | 0 | 0.8 | 60 | 50 | 30 g (1 lingură) | — | estimate |
