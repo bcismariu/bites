@@ -88,8 +88,14 @@ row, recompute totals, commit as `log: YYYY-MM-DD fix — …`.
 
 Micros covered: vitC, k
 
+## Sleep & energy
+| | Value | Note |
+|---|---|---|
+| Sleep (night 07→08) | ~7 h 30 · 4/5 | fell asleep quickly |
+| Energy | 3/5 | dip around 15:00 |
+
 ## Notes
-Optional: energy levels, hunger, context the user mentions.
+Optional: hunger, context the user mentions.
 ```
 
 Meal sections appear in eaten order; only meals that happened are present.
@@ -179,6 +185,46 @@ marked `(est.)`.
   belong in `profile/preferences.md` like any other habit, so "my usual run"
   resolves without questions.
 
+## Sleep & energy
+
+Tracked so that correlations with food, timing and activity become visible
+over weeks. Both go in the `## Sleep & energy` section of the day file.
+
+- **Sleep belongs to the night that *follows* the day**, labelled
+  `Sleep (night 07→08)`. This is deliberate: it puts a day's food and the
+  sleep it produced in the same file, which is what makes causality
+  readable. The user reports it the next morning, so it means editing
+  yesterday's file — that is expected, commit it as `sleep: YYYY-MM-DD …`.
+- **Energy belongs to the day itself.**
+- Record duration (`~8 h`), a **1–5 quality/energy rating**, and a short
+  free-text note (when it broke, how the waking felt, afternoon dips).
+  Scale: 1 = terrible/exhausted, 3 = average, 5 = excellent/sharp.
+- Record only what the user reports. Never invent a rating, and never
+  backfill a missing night.
+
+When a pattern begins to look real — bad nights clustering after late,
+heavy, or spicy dinners; afternoon crashes after high-sugar lunches — say
+so, with the days as evidence, and flag it as a hypothesis rather than a
+conclusion. A handful of nights is not proof. Weekly and monthly summaries
+include a sleep/energy line and any candidate correlations.
+
+## Asking for what's missing
+
+The user tracks in a chatty flow and will sometimes forget to report things.
+Claude should **notice gaps and ask** rather than let the record go quiet:
+
+- a meal that normally happens has not been logged well past its usual time
+- sleep not reported by mid-morning
+- an evening with no dinner logged
+- a workout mentioned in conversation but never confirmed as done
+- weight not updated in over a month
+
+Ask briefly and in passing, bundled into whatever else is being said — one
+short question, not an interrogation. **One reminder per gap per day**; if
+the user does not answer, drop it silently rather than asking again. This
+never overrides the frictionless principle: a reminder is a single clause at
+the end of a reply, never a blocking question.
+
 ## Suggestions
 
 When asked for meal/snack ideas: read today's log, `targets.md`,
@@ -206,6 +252,7 @@ One logical change per commit, message prefixed by area:
 - `log: 2026-08-07 lunch — chicken salad, bread`
 - `log: 2026-08-07 fix — apples were 3, not 2`
 - `activity: 2026-08-07 — 40 min easy run`
+- `sleep: 2026-08-07 — 8 h, restless second half`
 - `food: add Lidl skyr natural (label)`
 - `profile: apples default to Golden ~150 g`
 - `summary: 2026-W32`

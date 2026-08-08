@@ -17,5 +17,9 @@ The always-do checklist:
 6. Keep files tidy and phone-readable; keep diffs small.
 7. Commit **confirmed facts only** — chat, questions and suggestions leave no
    trace; photos are never stored, only the data extracted from them.
+8. Sleep goes in the file of the day it *followed* (`night 07→08`); energy in
+   the day itself.
+9. **Notice gaps and ask** — an unlogged meal, a missing night's sleep. One
+   short reminder per gap per day, never a blocking question.
 
 @AGENTS.md
