@@ -19,10 +19,13 @@ Log rows must use the exact name from this table.
 | Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 0 | 120 g (1 medium, peeled) | k, mg | estimate |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
+| Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
 | Cottage cheese (brânză de vaci) | 110 | 12 | 3.5 | 5.5 | 0 | 3.5 | 0 | 50 g | ca, b12 | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
+| Chicken breast, pan-grilled | 190 | 30 | 0 | 7.5 | 0 | 0 | 0 | 170 g (1 fillet) | b12, zn | estimate |
+| Couscous salad with vegetables | 130 | 3.5 | 21 | 3.5 | 2.0 | 2.0 | 0 | 200 g | vitC, k | estimate |
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
