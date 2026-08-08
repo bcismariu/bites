@@ -75,9 +75,10 @@ row, recompute totals, commit as `log: YYYY-MM-DD fix — …`.
 | Apple (Golden) | 2 × 150 g | 156 | 0.9 | 41.4 | 0.6 | 7.2 | 31.2 | 0 |
 
 ## Activity
-| Activity | Duration | Intensity | ~kcal |
+| Activity | Detail | Intensity | ~kcal |
 |---|---|---|---|
 | Run, easy pace | 40 min | moderate | ~420 (est.) |
+| Leg press, seated | 3 × 12 @ 35 kg | moderate | ~25 (est.) |
 
 ## Day totals
 | | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added |
@@ -174,8 +175,14 @@ food tracking.
 
 Workouts and any significant physical activity go in the same day file, under
 an `## Activity` section (after the meals, before Day totals). One row per
-activity: what, duration, perceived intensity, and an estimated kcal burn
-marked `(est.)`.
+activity: what, the detail that matters, perceived intensity, and an
+estimated kcal burn marked `(est.)`.
+
+- **Cardio** puts duration (and pace/incline in the name) in `Detail`.
+- **Strength** puts `sets × reps @ weight` in `Detail` — that is the
+  progression record, and it is the point of logging weights at all. One row
+  per exercise. Per-set calorie estimates are noise; keep them small and
+  don't pretend precision.
 
 - Activity is **informational**: it does not change the day's food targets or
   the Remaining row. The fixed targets already assume a moderately active
