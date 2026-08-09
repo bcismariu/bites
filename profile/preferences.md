@@ -18,6 +18,13 @@ gets recorded here so it is never asked twice.
 - Walks to the office ~12–15 min each way (weekdays).
 - Walks to lunch ~8–10 min each way.
 - **Never drinks coffee** — no caffeine at all. Doesn't smoke.
+- **Bran (tărâțe):** a doctor suggested 3 tbsp in boiled water, sipped
+  through the day, for transit. A general recommendation, not treatment for
+  a diagnosed condition. Calibrated down to **1–2 tbsp**, because his diet
+  already supplies 21–24 g of fiber and 3 tbsp (~19 g) would push the day to
+  40–45 g — past the 35 g target, where bloating and phytate binding of iron
+  and zinc start to matter. Keep it between meals, away from the day's main
+  iron/protein meals.
 - Gym: restarted **2026-08-08** after ~2 months off. Aim: 2× per week.
 
 ## Workout routine
