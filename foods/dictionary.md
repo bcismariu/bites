@@ -47,6 +47,7 @@ Log rows must use the exact name from this table.
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Salmon, smoked | 180 | 18 | 0 | 12 | 0 | 0 | 0 | 30 g | ω3, vitD, b12 | estimate |
+| Skyr natur (Miil) | 61 | 12 | 3.0 | 0.1 | 0 | 3.0 | 0 | 150 g (1 pahar, presupus) | ca, b12 | [label](labels/miil-skyr-natur.md) |
 | Sour cherry jam (dulceață de vișine) | 250 | 0.5 | 62 | 0 | 0.8 | 60 | 50 | 30 g (1 lingură) | — | estimate |
 | Tobă (head cheese), commercial | 250 | 15 | 1 | 20 | 0 | 0.5 | 0 | 60 g (2 bucăți mici) | b12, zn | estimate |
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
