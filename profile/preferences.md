@@ -56,6 +56,19 @@ clean; hold it when form breaks. Gym is at Life Fitness machines.
 **The pool at the gym is 18 m per length** — always convert lengths to
 metres with this, never assume 25 m or 50 m.
 
+**Sauna is a standard part of a gym visit** (~10 min wet, a few minutes dry).
+Assume it happened; he only reports it when it did *not*, or when it was
+unusually long. Its calorie burn is noise (~1.6 kcal/min) — it is logged
+only because heat exposure in the evening is a plausible variable in the
+sleep analysis.
+
+## Report exceptions, not routine
+
+Anything stable enough to live in this file does not need reporting every
+time. Claude assumes the routine and asks only when something looks off.
+The user reports **deviations**: a skipped session, a different portion, a
+new food, an unusual duration.
+
 ## Likes
 
 - _(foods and cuisines to lean into for suggestions)_
