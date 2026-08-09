@@ -8,8 +8,9 @@
 | Height | 187 cm |
 | Weight | **80.8 kg** _(measured 2026-08-09, morning, after the toilet, naked)_ |
 | BMI | 23.1 — healthy range |
-| Body fat | ~18–22 % _(photo estimate, 2026-08-08 — replace with a real measurement)_ |
-| Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~73–75 kg), then reassess. |
+| Body fat | **~22.6 %** _(bioimpedance scale, 2026-08-09)_ → fat ~18.3 kg, lean ~62.7 kg |
+| Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
+| Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
 The 86 kg in the first version of this file was the user's own rough guess;
 the scale says 80.8 kg. All targets below are recomputed from the real
@@ -35,16 +36,37 @@ it is what protects muscle from being burned alongside the fat.
 | Fiber | 35 g |
 | Added sugar | < 35 g (limit) |
 
-Reaching ~12 % body fat means losing roughly **6–9 kg**: at this pace, about
-**3–4.5 months**, not the 6–8 originally estimated from the guessed weight.
-Fat loss is not linear — weeks where the scale stalls are normal and not a
-reason to cut further.
+Reaching ~12 % body fat means losing roughly **8–10 kg** of fat: at this
+pace, about **4–5 months**. Fat loss is not linear — weeks where the scale
+stalls are normal and not a reason to cut further.
 
 ## Weight log
 
-| Date | Weight | Note |
-|---|---|---|
-| 2026-08-09 | 80.8 kg | first real measurement; morning, after toilet, naked |
+| Date | Weight | Body fat | Note |
+|---|---|---|---|
+| 2026-08-09 | 80.8 kg | — | first real measurement; morning, after toilet, naked |
+| 2026-08-09 | 81.0 kg | 22.6 % | bioimpedance scale, 08:33 (visceral 11, water 53 %) |
+
+## On the bioimpedance scale
+
+Useful for **trends under identical conditions**, not for absolute truth.
+Read it this way:
+
+- **Body fat %** — believe the direction, not the decimal. BIA error is
+  typically ±3–5 points, and hydration moves it. Always measure at the same
+  time of day, before eating or drinking.
+- **Visceral fat 11** — the most meaningful number on that screen if roughly
+  right, since visceral fat is the metabolically risky kind. It is also the
+  crudest estimate BIA makes. Worth watching as it falls; not worth alarm.
+- **Basal metabolism 1582 kcal** — ignore. Mifflin-St Jeor gives ~1780 and
+  Katch-McArdle on the scale's own lean-mass figure gives ~1720; the scale's
+  number is an outlier from a proprietary formula. Targets stay based on
+  ~2400 TDEE.
+- **Water 53 %** — not a problem. 50–65 % is the normal male range, and a
+  higher body-fat percentage mechanically lowers it. The "insufficient" tag
+  is the app's own threshold.
+- **Bone mass 3.19 kg, "body type", "body score"** — ignore entirely. BIA
+  cannot measure bone, and the scores are gamification.
 
 ## Notes
 
