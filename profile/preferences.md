@@ -25,6 +25,10 @@ gets recorded here so it is never asked twice.
   40–45 g — past the 35 g target, where bloating and phytate binding of iron
   and zinc start to matter. Keep it between meals, away from the day's main
   iron/protein meals.
+  **Preparation:** hydrate one spoonful fresh in hot water per serving rather
+  than making a day's batch. A cooled cereal mixture left at room temperature
+  grows *Bacillus cereus* from spores that survive boiling, and its toxin is
+  heat-stable. If a batch is made, refrigerate it and use within 24 h.
 - Gym: restarted **2026-08-08** after ~2 months off. Aim: 2× per week.
 
 ## Workout routine
