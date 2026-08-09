@@ -46,5 +46,6 @@ Log rows must use the exact name from this table.
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Salmon, smoked | 180 | 18 | 0 | 12 | 0 | 0 | 0 | 30 g | ω3, vitD, b12 | estimate |
 | Sour cherry jam (dulceață de vișine) | 250 | 0.5 | 62 | 0 | 0.8 | 60 | 50 | 30 g (1 lingură) | — | estimate |
+| Tobă (head cheese), commercial | 250 | 15 | 1 | 20 | 0 | 0.5 | 0 | 60 g (2 bucăți mici) | b12, zn | estimate |
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
