@@ -35,7 +35,15 @@ The two pulling exercises are the priority — they counteract the desk job.
 | 5 | Shoulder press | 3 × 12 | 5 kg |
 | 6 | Plank | 3 × 30 sec | — |
 
-Progression rule: raise the weight when the last 2 reps of a set come up
+**Effort rule:** stop each set with **1–3 clean reps still in reserve**. The
+last two reps should be hard but with intact form; never to failure.
+Soreness is not the target — muscle damage is a side effect, not the driver
+of growth, and being too sore to train within 2–3 days costs more frequency
+than the extra effort was worth. This matters double in a calorie deficit,
+where recovery capacity is reduced and the point of lifting is to *keep* the
+59.5 kg of muscle, not to build new.
+
+**Progression rule:** raise the weight when the last 2 reps of a set come up
 clean; hold it when form breaks. Gym is at Life Fitness machines.
 
 **The pool at the gym is 18 m per length** — always convert lengths to
