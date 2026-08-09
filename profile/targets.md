@@ -9,6 +9,7 @@
 | Weight | **80.8 kg** _(measured 2026-08-09, morning, after the toilet, naked)_ |
 | BMI | 23.1 — healthy range |
 | Body fat | **~22.6 %** _(bioimpedance scale, 2026-08-09)_ → fat ~18.3 kg, lean ~62.7 kg |
+| Muscle mass | **59.5 kg** _(2026-08-09)_ — the number to protect during the cut |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -36,9 +37,14 @@ it is what protects muscle from being burned alongside the fat.
 | Fiber | 35 g |
 | Added sugar | < 35 g (limit) |
 
-Reaching ~12 % body fat means losing roughly **8–10 kg** of fat: at this
-pace, about **4–5 months**. Fat loss is not linear — weeks where the scale
-stalls are normal and not a reason to cut further.
+Stated precisely, the whole plan is one sentence:
+
+> **Fat: 18.3 kg → ~8.5 kg. Muscle: 59.5 kg → 59.5 kg.**
+
+That lands at ~71–72 kg and ~12 % body fat, roughly **4–5 months** at this
+pace. Fat loss is not linear — weeks where the scale stalls are normal and
+not a reason to cut further. If muscle mass falls with the fat, the deficit
+is too aggressive or protein is too low.
 
 ## Weight log
 
@@ -65,8 +71,18 @@ Read it this way:
 - **Water 53 %** — not a problem. 50–65 % is the normal male range, and a
   higher body-fat percentage mechanically lowers it. The "insufficient" tag
   is the app's own threshold.
+- **Muscle 59.46 kg, protein 20.3 %** — genuinely good for this height and
+  weight, and internally consistent (62.7 kg lean − 3.19 kg "bone" = 59.5).
+  Track muscle mass alongside fat: holding it while fat falls is the whole
+  point of the cut.
 - **Bone mass 3.19 kg, "body type", "body score"** — ignore entirely. BIA
   cannot measure bone, and the scores are gamification.
+
+The screen shows nine figures, but the device only measured **two**: body
+weight and electrical impedance. Everything else — fat %, muscle, water,
+protein, visceral, bone, BMR — is computed from those two by proprietary
+formulas. They agree with each other by construction, so their consistency
+is not evidence that any of them is right.
 
 ## Notes
 
