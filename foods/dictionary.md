@@ -25,6 +25,7 @@ Log rows must use the exact name from this table.
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
+| Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
 | Clătită, plain | 215 | 6 | 28 | 8.5 | 1.0 | 3 | 1 | 60 g (1 buc) | — | estimate |
 | Cottage cheese (brânză de vaci) | 110 | 12 | 3.5 | 5.5 | 0 | 3.5 | 0 | 50 g | ca, b12 | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
@@ -42,6 +43,7 @@ Log rows must use the exact name from this table.
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
+| Omelette with spinach, no oil | 122 | 10.5 | 1.8 | 8.4 | 0.6 | 0.9 | 0 | 160 g (2 eggs + 40 g spanac) | b12, vitD, iron | estimate |
 | Olive paste (pastă de măsline) | 350 | 1.5 | 5 | 35 | 3.0 | 0.5 | 0 | 15 g | — | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
