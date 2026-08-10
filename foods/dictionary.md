@@ -40,6 +40,7 @@ Log rows must use the exact name from this table.
 | Green bean soup with vegetables | 45 | 1.2 | 6.0 | 1.8 | 1.5 | 1.5 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Green beans, sautéed | 55 | 1.9 | 7 | 2.5 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
+| Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
@@ -49,11 +50,14 @@ Log rows must use the exact name from this table.
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
+| Rice, white, cooked | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 180 g | — | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
+| Shawarma chicken | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 100 g | b12, zn | estimate |
 | Salmon, smoked | 180 | 18 | 0 | 12 | 0 | 0 | 0 | 30 g | ω3, vitD, b12 | estimate |
 | Skyr natur (Miil) | 61 | 12 | 3.0 | 0.1 | 0 | 3.0 | 0 | 150 g (1 pahar, presupus) | ca, b12 | [label](labels/miil-skyr-natur.md) |
 | Sour cherry jam (dulceață de vișine) | 250 | 0.5 | 62 | 0 | 0.8 | 60 | 50 | 30 g (1 lingură) | — | estimate |
 | Spinach sauté, de post (spanac sote) | 76 | 3.0 | 3.8 | 6.3 | 2.4 | 0.3 | 0 | 200 g (1 porție) | iron, k, mg | estimate |
+| Tabbouleh salad with pomegranate | 95 | 2.0 | 8.7 | 5.7 | 3.0 | 3.3 | 0 | 150 g | vitC | estimate |
 | Tobă (head cheese), commercial | 250 | 15 | 1 | 20 | 0 | 0.5 | 0 | 60 g (2 bucăți mici) | b12, zn | estimate |
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
