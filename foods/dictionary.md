@@ -35,6 +35,7 @@ Log rows must use the exact name from this table.
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
+| Greek yogurt 2% (Olympus) | 65 | 8 | 3.8 | 2.0 | 0 | 3.8 | 0 | 200 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-2.md) |
 | Greek yogurt 10% (Munte Athos) | 132 | 6 | 4.5 | 10 | 0 | 4 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/munte-athos-iaurt-grecesc-10.md) |
 | Grapes | 69 | 0.7 | 18 | 0.2 | 0.9 | 16 | 0 | 100 g | k | estimate |
 | Green bean soup with vegetables | 45 | 1.2 | 6.0 | 1.8 | 1.5 | 1.5 | 0 | 400 ml (1 bol) | vitC, k | estimate |
