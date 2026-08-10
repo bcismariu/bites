@@ -13,6 +13,33 @@ added.
 
 Log rows must use the exact name from this table.
 
+## Protein density — the shortlist
+
+During the cutting phase the binding constraint is **protein per 100 kcal**,
+not protein per 100 g. Reach for the top of this list when the day is short
+on protein and short on calories. Ready-to-eat items are marked ▪ — they
+work at the office, where no cooking is possible.
+
+| Food | kcal/100 g | Protein/100 g | **Protein/100 kcal** |
+|---|---|---|---|
+| ▪ Tuna, canned in water | 116 | 26 | **22.4 g** |
+| ▪ Skyr natur | 61 | 12 | 19.7 g |
+| Chicken breast, grilled | 165 | 31 | 18.8 g |
+| ▪ Turkey breast slices (good quality) | 110 | 20 | 18.2 g |
+| ▪ Sardines, canned in water | 140 | 22 | 15.7 g |
+| ▪ Cottage cheese, lean | 90 | 13 | 14.4 g |
+| ▪ Yogurt 2 %, lactose-reduced (Zuzu) | 61 | 8 | 13.1 g |
+| ▪ Greek yogurt 2 % (Olympus) | 65 | 8 | 12.3 g |
+| ▪ Smoked salmon | 180 | 18 | 10.0 g |
+| ▪ Eggs, boiled | 155 | 13 | 8.4 g |
+| ▪ Hummus | 166 | 7.9 | 4.8 g |
+| ▪ Greek yogurt 10 % (Munte Athos) | 132 | 6 | 4.5 g |
+
+**Canned oily fish is the best single choice when omega-3 or vitamin D are
+also overdue** — sardines close three gaps at once (protein, ω3, calcium
+from the bones) even though their ratio is below tuna's. Do not narrow the
+search to dairy just because the conversation started there.
+
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
