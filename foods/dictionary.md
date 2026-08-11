@@ -49,6 +49,7 @@ search to dairy just because the conversation started there.
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
+| Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
@@ -86,6 +87,7 @@ search to dairy just because the conversation started there.
 | Shawarma chicken | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 100 g | b12, zn | estimate |
 | Salmon, smoked | 180 | 18 | 0 | 12 | 0 | 0 | 0 | 30 g | ω3, vitD, b12 | estimate |
 | Skyr natur (Miil) | 61 | 12 | 3.0 | 0.1 | 0 | 3.0 | 0 | 150 g (1 pahar, presupus) | ca, b12 | [label](labels/miil-skyr-natur.md) |
+| Small fish, fried whole (șprot) | 240 | 19 | 3.0 | 16 | 0.1 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
 | Sour cherry jam (dulceață de vișine) | 250 | 0.5 | 62 | 0 | 0.8 | 60 | 50 | 30 g (1 lingură) | — | estimate |
 | Spinach sauté, de post (spanac sote) | 76 | 3.0 | 3.8 | 6.3 | 2.4 | 0.3 | 0 | 200 g (1 porție) | iron, k, mg | estimate |
 | Tabbouleh salad with pomegranate | 95 | 2.0 | 8.7 | 5.7 | 3.0 | 3.3 | 0 | 150 g | vitC | estimate |
