@@ -45,6 +45,7 @@ search to dairy just because the conversation started there.
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
 | Avocado | 160 | 2.0 | 8.5 | 15 | 6.7 | 0.7 | 0 | 30 g (1 felie) | k, mg | estimate |
 | Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 0 | 120 g (1 medium, peeled) | k, mg | estimate |
+| Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
 | Bell pepper (ardei gras) | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 120 g (1 buc) | vitC | estimate |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
@@ -66,6 +67,7 @@ search to dairy just because the conversation started there.
 | Greek yogurt 2% (Olympus) | 65 | 8 | 3.8 | 2.0 | 0 | 3.8 | 0 | 200 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-2.md) |
 | Yogurt 2%, lactose-reduced (Zuzu) | 61 | 8 | 2.7 | 2.0 | 0 | 2.6 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/zuzu-iaurt-2-lactoza-redusa.md) |
 | Greek yogurt 10% (Munte Athos) | 132 | 6 | 4.5 | 10 | 0 | 4 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/munte-athos-iaurt-grecesc-10.md) |
+| Frigăruie de pui cu legume la cuptor | 129 | 12.8 | 7.9 | 4.9 | 1.2 | 1.4 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Grapes | 69 | 0.7 | 18 | 0.2 | 0.9 | 16 | 0 | 100 g | k | estimate |
 | Green bean soup with vegetables | 45 | 1.2 | 6.0 | 1.8 | 1.5 | 1.5 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Green beans, sautéed | 55 | 1.9 | 7 | 2.5 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
