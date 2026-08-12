@@ -54,6 +54,7 @@ search to dairy just because the conversation started there.
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
+| Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
 | Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
 | Clătită, plain | 215 | 6 | 28 | 8.5 | 1.0 | 3 | 1 | 60 g (1 buc) | — | estimate |
 | Cottage cheese (brânză de vaci) | 110 | 12 | 3.5 | 5.5 | 0 | 3.5 | 0 | 50 g | ca, b12 | estimate |
@@ -82,10 +83,13 @@ search to dairy just because the conversation started there.
 | Omelette with spinach, no oil | 122 | 10.5 | 1.8 | 8.4 | 0.6 | 0.9 | 0 | 160 g (2 eggs + 40 g spanac) | b12, vitD, iron | estimate |
 | Pasta with shrimp and mussels | 165 | 9.7 | 20.4 | 5.1 | 1.1 | 0.7 | 0 | 300 g (1 porție) | iron, b12, zn, ω3 | estimate |
 | Olive paste (pastă de măsline) | 350 | 1.5 | 5 | 35 | 3.0 | 0.5 | 0 | 15 g | — | estimate |
+| Cantaloupe (pepene galben) | 34 | 0.8 | 8.0 | 0.2 | 0.9 | 7.9 | 0 | 150 g | vitC, k | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
+| Potato purée (piure) | 110 | 2.0 | 15 | 4.5 | 1.2 | 1.0 | 0 | 200 g | k | estimate |
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
+| Trout, cooked | 168 | 24 | 0 | 7.5 | 0 | 0 | 0 | 180 g (carne de la 1 păstrăv) | ω3, vitD, b12 | estimate |
 | Rice, white, cooked | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 180 g | — | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Shawarma chicken | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 100 g | b12, zn | estimate |
