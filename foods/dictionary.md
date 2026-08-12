@@ -61,6 +61,7 @@ search to dairy just because the conversation started there.
 | Chicken breast, grilled (restaurant) | 180 | 31 | 0 | 5.5 | 0 | 0 | 0 | 130 g (1 porție) | b12, zn | estimate |
 | Chicken breast, pan-grilled | 190 | 30 | 0 | 7.5 | 0 | 0 | 0 | 170 g (1 fillet) | b12, zn | estimate |
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
+| Duck breast salad (avocado, roșii, portocală, migdale, glazură balsamică) | 158 | 8.1 | 7.1 | 11.4 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, iron | estimate |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
@@ -74,6 +75,7 @@ search to dairy just because the conversation started there.
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
+| Lentil cream soup (supă cremă de linte roșie) | 85 | 3.5 | 11 | 3.0 | 2.5 | 1.4 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Olives, large (colosal), in brine | 145 | 1.0 | 4.0 | 15 | 3.3 | 0 | 0 | 28 g (4 măsline) | — | estimate |
@@ -95,5 +97,6 @@ search to dairy just because the conversation started there.
 | Tabbouleh salad with pomegranate | 95 | 2.0 | 8.7 | 5.7 | 3.0 | 3.3 | 0 | 150 g | vitC | estimate |
 | Tobă (head cheese), commercial | 250 | 15 | 1 | 20 | 0 | 0.5 | 0 | 60 g (2 bucăți mici) | b12, zn | estimate |
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
+| Tortilla chips, fried | 500 | 6.7 | 60 | 26.8 | 3.2 | 1.0 | 0 | 25 g | — | estimate |
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
