@@ -48,6 +48,7 @@ search to dairy just because the conversation started there.
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
 | Bell pepper (ardei gras) | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 120 g (1 buc) | vitC | estimate |
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
+| Sardines in tomato sauce (Fish Market) | 140 | 19 | 0.8 | 6.7 | 0 | 0.7 | 0 | 120 g (1 cutie) | ω3, ca, vitD, b12 | [label](labels/fish-market-sardine-sos-tomate.md) |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
