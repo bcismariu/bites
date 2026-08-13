@@ -87,7 +87,6 @@ search to dairy just because the conversation started there.
 | Olive paste (pastă de măsline) | 350 | 1.5 | 5 | 35 | 3.0 | 0.5 | 0 | 15 g | — | estimate |
 | Cantaloupe (pepene galben) | 34 | 0.8 | 8.0 | 0.2 | 0.9 | 7.9 | 0 | 150 g | vitC, k | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
-| Pork loin, grilled | 190 | 28 | 0 | 8.0 | 0 | 0 | 0 | 180 g (2 bucăți) | b12, zn | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
 | Potato purée (piure) | 110 | 2.0 | 15 | 4.5 | 1.2 | 1.0 | 0 | 200 g | k | estimate |
