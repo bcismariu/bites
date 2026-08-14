@@ -89,6 +89,7 @@ search to dairy just because the conversation started there.
 | Olive paste (pastă de măsline) | 350 | 1.5 | 5 | 35 | 3.0 | 0.5 | 0 | 15 g | — | estimate |
 | Cantaloupe (pepene galben) | 34 | 0.8 | 8.0 | 0.2 | 0.9 | 7.9 | 0 | 150 g | vitC, k | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
+| Pork chop, grilled (cotlet cu os) | 230 | 28 | 0 | 13 | 0 | 0 | 0 | 160 g (carne de la 1 cotlet) | b12, zn | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
 | Potato purée (piure) | 110 | 2.0 | 15 | 4.5 | 1.2 | 1.0 | 0 | 200 g | k | estimate |
@@ -107,4 +108,5 @@ search to dairy just because the conversation started there.
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
 | Tortilla chips, fried | 500 | 6.7 | 60 | 26.8 | 3.2 | 1.0 | 0 | 25 g | — | estimate |
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
+| Varză călită | 85 | 1.5 | 8.0 | 5.0 | 2.5 | 3.0 | 0 | 250 g | vitC, k | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
