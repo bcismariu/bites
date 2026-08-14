@@ -45,6 +45,7 @@ search to dairy just because the conversation started there.
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
 | Avocado | 160 | 2.0 | 8.5 | 15 | 6.7 | 0.7 | 0 | 30 g (1 felie) | k, mg | estimate |
 | Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 0 | 120 g (1 medium, peeled) | k, mg | estimate |
+| Bar, vegetable protein & coffee, 40 g | 366 | 23.6 | 26.3 | 16.3 | 20.1 | 1.2 | 0 | 40 g (1 baton) | — | [label](labels/baton-proteine-vegetale-cafea.md) |
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
 | Bell pepper (ardei gras) | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 120 g (1 buc) | vitC | estimate |
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
@@ -61,6 +62,7 @@ search to dairy just because the conversation started there.
 | Clătită, plain | 215 | 6 | 28 | 8.5 | 1.0 | 3 | 1 | 60 g (1 buc) | — | estimate |
 | Cottage cheese (brânză de vaci) | 110 | 12 | 3.5 | 5.5 | 0 | 3.5 | 0 | 50 g | ca, b12 | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
+| Chia seeds (Solaris) | 490 | 15.6 | 6.1 | 30.8 | 37.7 | 0 | 0 | 20 g (1 lingură) | mg, ca, ω3 | [label](labels/solaris-seminte-chia.md) |
 | Chicken breast, grilled (restaurant) | 180 | 31 | 0 | 5.5 | 0 | 0 | 0 | 130 g (1 porție) | b12, zn | estimate |
 | Chicken breast, pan-grilled | 190 | 30 | 0 | 7.5 | 0 | 0 | 0 | 170 g (1 fillet) | b12, zn | estimate |
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
