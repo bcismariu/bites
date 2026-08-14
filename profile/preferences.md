@@ -25,17 +25,19 @@ gets recorded here so it is never asked twice.
 Full-body on machines, 2× per week, ~40 min. "My usual workout" means this.
 The two pulling exercises are the priority — they counteract the desk job.
 
-| # | Exercise | Sets × reps | Working weight (2026-08-11) | Next |
+| # | Exercise | Sets × reps | Working weight (2026-08-14) | Next |
 |---|---|---|---|---|
 | 0 | Treadmill warm-up, 8.8 km/h, no incline | 5 min | — | — |
-| 1 | Leg press, seated | 3 × 12 | **55 kg** | room to go up |
-| 2 | Chest press, seated | 3 × 12 | **35 kg** | hold — at RIR 0–1 |
-| 3 | **Seated row, dual pulley** | 3 × 12 | **20 kg** | hold — at RIR 0–1 |
-| 4 | **Lat pulldown** | 3 × 12 | **16.5 kg** | try 20 kg when 16.5 feels easy |
-| 5 | Shoulder press | 3 × 12 | **7.5 kg** | hold — at RIR 0–1 |
-| 6 | Plank | 3 × 40 sec | — | +5–10 sec |
+| 1 | Leg press, seated | 3 × 12 | **63 kg** | assess — has climbed fast |
+| 2 | Chest press, seated | 3 × 12 | **35 kg** | hold — still at RIR 0–1 after 2 sessions |
+| 3 | **Seated row, dual pulley** | 3 × 12 | **20 kg** | try 22.5 kg — felt moderate on 08-14 |
+| 4 | **Lat pulldown** | 3 × 12 | **16.5 kg**, one set at **20 kg** | all 3 sets at 20 kg |
+| 5 | Shoulder press | 3 × 12 | **7.5 kg** | **10 kg** — 7.5 was easy on 08-14 |
+| 6 | Plank | 3 × 45 sec | — | +5–10 sec |
 
-_Session 1 (2026-08-08) started at 35 / 25 / 16.5 / 13 / 5 kg and 3 × 30 sec._
+_Progression: session 1 (08-08) 35 / 25 / 16.5 / 13 / 5 kg, 3 × 30 sec →
+session 2 (08-11) 55 / 35 / 20 / 16.5 / 7.5 kg, 3 × 40 sec →
+session 3 (08-14) 63 / 35 / 20 / 20 / 7.5 kg, 3 × 45 sec._
 
 **Effort rule:** stop each set with **1–3 clean reps still in reserve**. The
 last two reps should be hard but with intact form; never to failure.
