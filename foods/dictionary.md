@@ -40,6 +40,32 @@ also overdue** — sardines close three gaps at once (protein, ω3, calcium
 from the bones) even though their ratio is below tuna's. Do not narrow the
 search to dairy just because the conversation started there.
 
+## The yogurt shelf, settled
+
+Compared in store on 2026-08-14. Ranked by protein per 100 kcal — the metric
+that matters in a deficit. **Do not re-litigate this at the shelf.**
+
+| Product | kcal/100 g | Protein | **Protein/100 kcal** |
+|---|---|---|---|
+| **Skyr natur (Miil)** | 61 | 12 g | **19.7 g** 🥇 |
+| **Iaurt grecesc 0 % (Olympus)** | 48 | 8 g | **16.7 g** 🥈 |
+| Iaurt grecesc (Eurofarma, GR) | 71 | 9.8 g | 13.8 g |
+| Iaurt stors 2 %, lactose-reduced (Zuzu) | 61 | 8 g | 13.1 g |
+| Iaurt grecesc autentic (GR) | 62 | 7.9 g | 12.7 g |
+| Iaurt grecesc 2 % (Olympus) | 65 | 8 g | 12.3 g |
+| Iaurt grecesc Bio 2 % (Olympus) | 65 | 8 g | 12.3 g |
+| **Iaurt 0,1 % (Zuzu)** | 33 | 3.6 g | **10.9 g** ❌ |
+| Iaurt grecesc 10 % (Munte Athos) | 132 | 6 g | 4.5 g ❌ |
+
+**Decision rule:** skyr if it is on the shelf; otherwise Olympus greek 0 %;
+otherwise Zuzu stors if lactose ever becomes an issue. Everything else is
+within noise of each other — pick on taste and price.
+
+**The trap:** fewest calories ≠ most protein. Zuzu 0,1 % is the lightest pot
+on the shelf and the worst protein source on it — it is plain skimmed
+yogurt, diluted rather than concentrated. Strained or protein-fortified is
+what matters, not the fat percentage.
+
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
