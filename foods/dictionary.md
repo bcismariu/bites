@@ -121,6 +121,7 @@ what matters, not the fat percentage.
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Pilaf cu legume | 145 | 3.0 | 24 | 4.5 | 1.5 | 1.0 | 0 | 200 g | k | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
+| Psyllium (coji măcinate) | 186 | 2.5 | 0 | 0.5 | 78 | 0 | 0 | 5 g (1 linguriță) | — | [label](labels/psyllium.md) |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
 | Potato purée (piure) | 110 | 2.0 | 15 | 4.5 | 1.2 | 1.0 | 0 | 200 g | k | estimate |
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
