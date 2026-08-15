@@ -114,6 +114,7 @@ what matters, not the fat percentage.
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
 | Kürtőskalács (colac secuiesc) | 380 | 7 | 55 | 14 | 1.5 | 25 | 23 | 180 g (1 buc) | — | estimate |
+| Kürtőskalács, fără zahăr | 330 | 8 | 45 | 14 | 1.8 | 5 | 3 | 180 g (1 buc) | — | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
 | Lentil cream soup (supă cremă de linte roșie) | 85 | 3.5 | 11 | 3.0 | 2.5 | 1.4 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
 | Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
