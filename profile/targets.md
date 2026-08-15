@@ -56,12 +56,12 @@ is too aggressive or protein is too low.
 
 ## Waist log
 
-Measured **just above the navel**, morning, before eating. Always measure at
-the same site — consistency matters more than the exact landmark.
+Measured **at navel level** — the standard site — in the morning, before
+eating. Always measure at the same place.
 
 | Date | Waist | Waist/height | Note |
 |---|---|---|---|
-| 2026-08-15 | **91 cm** | **0.487** | baseline |
+| 2026-08-15 | **91 cm** | **0.487** | baseline, at the navel |
 
 Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
 increased. The simple rule is waist under half your height — 0.5 for 187 cm
