@@ -48,10 +48,26 @@ is too aggressive or protein is too low.
 
 ## Weight log
 
-| Date | Weight | Body fat | Note |
-|---|---|---|---|
-| 2026-08-09 | 80.8 kg | — | first real measurement; morning, after toilet, naked |
-| 2026-08-09 | 81.0 kg | 22.6 % | bioimpedance scale, 08:33 (visceral 11, water 53 %) |
+| Date | Weight | Body fat | Muscle | Visceral | Note |
+|---|---|---|---|---|---|
+| 2026-08-09 | 80.8 kg | — | — | — | first real measurement; morning, after toilet, naked |
+| 2026-08-09 | 81.00 kg | 22.6 % | 59.46 kg | 11 | bioimpedance, 08:33 |
+| 2026-08-15 | **80.85 kg** | 22.6 % | 59.34 kg | 11 | bioimpedance, 07:02 — **−0.15 kg in 6 days** |
+
+**The scale confirmed the food log.** Average intake over 10–14 Aug was
+2177 kcal against an estimated TDEE of ~2400, i.e. a deficit of ~225 kcal/day
+≈ 1100 kcal over the period ≈ **0.14 kg of fat**. The scale moved 0.15 kg.
+The arithmetic and the measurement agree, which means both the logging and
+the TDEE estimate are close to right.
+
+It also confirms the rate is **~0.17 kg/week, roughly a third of the 0.5 kg
+planned**. At this pace phase 1 would take about a year rather than 4–5
+months.
+
+Body fat %, muscle and visceral did not move — as expected. A 0.15 kg change
+is far below what bioimpedance can resolve (its error on body fat is ±3–5
+percentage points), and visceral fat responds over 8–12 weeks, not six days.
+**At this magnitude only the weight number carries information.**
 
 ## On the bioimpedance scale
 
