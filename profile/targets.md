@@ -54,6 +54,27 @@ is too aggressive or protein is too low.
 | 2026-08-09 | 81.00 kg | 22.6 % | 59.46 kg | 11 | bioimpedance, 08:33 |
 | 2026-08-15 | **80.85 kg** | 22.6 % | 59.34 kg | 11 | bioimpedance, 07:02 — **−0.15 kg in 6 days** |
 
+## Waist log
+
+Measured **just above the navel**, morning, before eating. Always measure at
+the same site — consistency matters more than the exact landmark.
+
+| Date | Waist | Waist/height | Note |
+|---|---|---|---|
+| 2026-08-15 | **91 cm** | **0.487** | baseline |
+
+Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
+increased. The simple rule is waist under half your height — 0.5 for 187 cm
+is 93.5 cm.
+
+**91 cm is inside both.** This is a direct measurement and a better proxy for
+visceral fat than the scale's computed index of 11, which is derived from
+impedance rather than measured. The two are not in real conflict: he is near
+the boundary, on the good side of it.
+
+At the phase-1 target of ~73 kg the waist should land around 80–83 cm
+(ratio ~0.44). Re-measure monthly.
+
 **The scale confirmed the food log.** Average intake over 10–14 Aug was
 2177 kcal against an estimated TDEE of ~2400, i.e. a deficit of ~225 kcal/day
 ≈ 1100 kcal over the period ≈ **0.14 kg of fat**. The scale moved 0.15 kg.
