@@ -72,6 +72,7 @@ what matters, not the fat percentage.
 | Avocado | 160 | 2.0 | 8.5 | 15 | 6.7 | 0.7 | 0 | 30 g (1 felie) | k, mg | estimate |
 | Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 0 | 120 g (1 medium, peeled) | k, mg | estimate |
 | Bar, vegetable protein & coffee, 40 g | 366 | 23.6 | 26.3 | 16.3 | 20.1 | 1.2 | 0 | 40 g (1 baton) | — | [label](labels/baton-proteine-vegetale-cafea.md) |
+| Anchovies, fried whole (hamsii) | 265 | 20 | 3.0 | 18 | 0 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
 | Bell pepper (ardei gras) | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 120 g (1 buc) | vitC | estimate |
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
@@ -79,6 +80,7 @@ what matters, not the fat percentage.
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
+| Bread with potato (pâine cu cartofi) | 250 | 7 | 47 | 3.0 | 2.5 | 3 | 0 | 50 g (1 felie) | — | estimate |
 | Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
@@ -91,6 +93,9 @@ what matters, not the fat percentage.
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
 | Chia seeds (Solaris) | 490 | 15.6 | 6.1 | 30.8 | 37.7 | 0 | 0 | 20 g (1 lingură) | mg, ca, ω3 | [label](labels/solaris-seminte-chia.md) |
 | Chicken breast, grilled (restaurant) | 180 | 31 | 0 | 5.5 | 0 | 0 | 0 | 130 g (1 porție) | b12, zn | estimate |
+| Chicken skewer (frigăruie) | 180 | 26 | 0 | 8.0 | 0 | 0 | 0 | 120 g | b12, zn | estimate |
+| Chips, deep-fried | 312 | 3.4 | 41 | 15 | 3.8 | 0.3 | 0 | 150 g | k | estimate |
+| Coca-Cola | 42 | 0 | 10.6 | 0 | 0 | 10.6 | 10.6 | 330 ml | — | estimate |
 | Chicken breast, pan-grilled | 190 | 30 | 0 | 7.5 | 0 | 0 | 0 | 170 g (1 fillet) | b12, zn | estimate |
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
 | Seared tuna salad (avocado, roșii, portocală, migdale, glazură balsamică) | 134 | 11.2 | 7.1 | 7.3 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, ω3 | estimate |
@@ -110,7 +115,9 @@ what matters, not the fat percentage.
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
 | Lentil cream soup (supă cremă de linte roșie) | 85 | 3.5 | 11 | 3.0 | 2.5 | 1.4 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
+| Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
+| Mustard, sweet (muștar dulce) | 130 | 4.0 | 15 | 6.0 | 0.8 | 10 | 8.0 | 30 g | — | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Olives, large (colosal), in brine | 145 | 1.0 | 4.0 | 15 | 3.3 | 0 | 0 | 28 g (4 măsline) | — | estimate |
