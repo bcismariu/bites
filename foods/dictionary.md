@@ -81,8 +81,10 @@ what matters, not the fat percentage.
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
 | Bread with potato (pâine cu cartofi) | 250 | 7 | 47 | 3.0 | 2.5 | 3 | 0 | 50 g (1 felie) | — | estimate |
+| Borș de văcuță (restaurant) | 65 | 5.0 | 3.4 | 3.3 | 0.55 | 1.1 | 0 | 400 ml (1 bol) | iron, k, b12, zn | estimate |
 | Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
+| Vegetables, grilled, light oil (ardei, dovlecel, vinete) | 49 | 1.5 | 6.0 | 2.3 | 2.25 | 3.5 | 0 | 200 g | vitC, k, mg | estimate |
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
