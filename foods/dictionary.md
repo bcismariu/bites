@@ -101,6 +101,8 @@ what matters, not the fat percentage.
 | Chicken breast, pan-grilled | 190 | 30 | 0 | 7.5 | 0 | 0 | 0 | 170 g (1 fillet) | b12, zn | estimate |
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
 | Seared tuna salad (avocado, roșii, portocală, migdale, glazură balsamică) | 134 | 11.2 | 7.1 | 7.3 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, ω3 | estimate |
+| Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, vitD, b12, zn | estimate |
+| Tuna, canned in water, drained | 116 | 26 | 0 | 1.0 | 0 | 0 | 0 | 100 g (1 cutie scursă) | ω3, vitD, b12, zn | estimate |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
