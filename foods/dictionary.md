@@ -22,7 +22,8 @@ work at the office, where no cooking is possible.
 
 | Food | kcal/100 g | Protein/100 g | **Protein/100 kcal** |
 |---|---|---|---|
-| ▪ Tuna, canned in water | 116 | 26 | **22.4 g** |
+| ▪ **Ton albacora în suc propriu (Frinsa)** | 117 | 28 | **23.9 g** 🥇 |
+| ▪ Ton alb în suc propriu (Frinsa) | 142 | 29 | 20.4 g |
 | ▪ Skyr natur | 61 | 12 | 19.7 g |
 | Chicken breast, grilled | 165 | 31 | 18.8 g |
 | ▪ Turkey breast slices (good quality) | 110 | 20 | 18.2 g |
@@ -39,6 +40,12 @@ work at the office, where no cooking is possible.
 also overdue** — sardines close three gaps at once (protein, ω3, calcium
 from the bones) even though their ratio is below tuna's. Do not narrow the
 search to dairy just because the conversation started there.
+
+**But canned tuna is a weak ω3 source, not a strong one.** The Frinsa labels
+declare **0.1 g EPA+DHA per 100 g** — about 120 mg per drained can, against
+a 250–500 mg daily need. It qualifies for the tag and no more. When omega-3
+is the actual gap, reach for sardines, mackerel or salmon; tuna is the
+protein play.
 
 ## The yogurt shelf, settled
 
@@ -104,8 +111,9 @@ what matters, not the fat percentage.
 | Chicken breast, pan-grilled | 190 | 30 | 0 | 7.5 | 0 | 0 | 0 | 170 g (1 fillet) | b12, zn | estimate |
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
 | Seared tuna salad (avocado, roșii, portocală, migdale, glazură balsamică) | 134 | 11.2 | 7.1 | 7.3 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, ω3 | estimate |
-| Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, vitD, b12, zn | estimate |
-| Tuna, canned in water, drained | 116 | 26 | 0 | 1.0 | 0 | 0 | 0 | 100 g (1 cutie scursă) | ω3, vitD, b12, zn | estimate |
+| Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
+| Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
+| Ton alb în suc propriu (Frinsa) | 142 | 29 | 0 | 2.9 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-alb-suc-propriu.md) |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
