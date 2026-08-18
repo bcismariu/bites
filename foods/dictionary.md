@@ -50,7 +50,7 @@ search to dairy just because the conversation started there.
 | Produs | Bază | kcal | Proteine | **P / 100 kcal** |
 |---|---|---|---|---|
 | Frinsa albacora | scurs | 117 | 28 g | **23.9** |
-| Cutie bleu, 76 kcal | net | 76 | 18 g | 23.7 |
+| Calvo, varianta 76 kcal | net | 76 | 18 g | 23.7 |
 | Ton bucăți MSC | scurs | 102 | 24 g | 23.5 |
 | Calvo chunks in water | net | 88 | 20 g | 22.7 |
 | Ton mărunțit Darinne | scurs | 86 | 18.5 g | 21.5 |
