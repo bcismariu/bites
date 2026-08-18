@@ -43,13 +43,38 @@ also overdue** — sardines close three gaps at once (protein, ω3, calcium
 from the bones) even though their ratio is below tuna's. Do not narrow the
 search to dairy just because the conversation started there.
 
-**Raftul de ton, comparat pe 2026-08-18.** Patru conserve în suc propriu, per
-100 g scurs: Frinsa albacora **117 kcal / 28 g** (23.9), ton bucăți MSC
-**102 / 24** (23.5), ton mărunțit Darinne **86 / 18.5** (21.5), Frinsa ton alb
-**142 / 29** (20.4). Regula: **orice ton în suc propriu e o alegere bună; ia
-albacora sau bucățile MSC dacă sunt pe raft, evită tonul în ulei și pe cel în
-sos de roșii** (zahăr și ulei de floarea-soarelui în sos). Tonul alb
-(albacore) e ultimul și pe mercur.
+### Raftul de ton, comparat pe 2026-08-18
+
+Șase conserve în suc propriu, ordonate după proteine / 100 kcal:
+
+| Produs | Bază | kcal | Proteine | **P / 100 kcal** |
+|---|---|---|---|---|
+| Frinsa albacora | scurs | 117 | 28 g | **23.9** |
+| Cutie bleu, 76 kcal | net | 76 | 18 g | 23.7 |
+| Ton bucăți MSC | scurs | 102 | 24 g | 23.5 |
+| Calvo chunks in water | net | 88 | 20 g | 22.7 |
+| Ton mărunțit Darinne | scurs | 86 | 18.5 g | 21.5 |
+| Frinsa ton alb | scurs | 142 | 29 g | 20.4 |
+
+**Concluzia onestă: alegerea dintre ele aproape nu contează.** Tot intervalul
+e 20–24 g proteine la 100 kcal; pe o cutie, diferența dintre primul și
+ultimul e ~4 g de proteină. Ce contează cu adevărat, în ordine:
+
+1. **În suc propriu, nu în ulei** — 0,6 g grăsime față de 10 g la 100 g.
+2. **Nu în sos de roșii** — sosul Calvo are ulei de floarea-soarelui, zahăr
+   și amidon modificat, și doar 65 % pește.
+3. **Skipjack (*Katsuwonus pelamis*) dacă tonul se mănâncă des** — cel mai
+   puțin mercur. Albacora (yellowfin) e la mijloc, tonul alb (albacore) e cel
+   mai încărcat, limitat la ~1 porție/săptămână.
+4. **Proteina pe cutie**, care ține de gramajul scurs: Frinsa albacora dă
+   33,6 g, Calvo chunks 28,4 g.
+
+⚠️ **Capcana bazei de raportare.** Conservele Frinsa declară valorile
+**per 100 g scurs**; cutiile Calvo le declară **per 100 g produs net**
+(pește + apă). Cifrele nu sunt direct comparabile — 88 kcal „net" nu e mai
+puțin decât 117 kcal „scurs", e altă bază. **Raportul proteine/100 kcal e
+singura mărime comparabilă între ele.** Verifică întotdeauna dacă scrie
+„scurs" / „drained" / „net" înainte de a loga o cutie.
 
 **But canned tuna is a weak ω3 source, not a strong one.** The Frinsa labels
 declare **0.1 g EPA+DHA per 100 g** — about 120 mg per drained can, against
