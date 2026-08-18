@@ -23,6 +23,8 @@ work at the office, where no cooking is possible.
 | Food | kcal/100 g | Protein/100 g | **Protein/100 kcal** |
 |---|---|---|---|
 | ▪ **Ton albacora în suc propriu (Frinsa)** | 117 | 28 | **23.9 g** 🥇 |
+| ▪ Ton bucăți în suc propriu (MSC, 5949065046835) | 102 | 24 | **23.5 g** 🥈 |
+| ▪ Ton mărunțit în suc propriu (Darinne) | 86 | 18.5 | 21.5 g |
 | ▪ Ton alb în suc propriu (Frinsa) | 142 | 29 | 20.4 g |
 | ▪ Skyr natur | 61 | 12 | 19.7 g |
 | Chicken breast, grilled | 165 | 31 | 18.8 g |
@@ -40,6 +42,14 @@ work at the office, where no cooking is possible.
 also overdue** — sardines close three gaps at once (protein, ω3, calcium
 from the bones) even though their ratio is below tuna's. Do not narrow the
 search to dairy just because the conversation started there.
+
+**Raftul de ton, comparat pe 2026-08-18.** Patru conserve în suc propriu, per
+100 g scurs: Frinsa albacora **117 kcal / 28 g** (23.9), ton bucăți MSC
+**102 / 24** (23.5), ton mărunțit Darinne **86 / 18.5** (21.5), Frinsa ton alb
+**142 / 29** (20.4). Regula: **orice ton în suc propriu e o alegere bună; ia
+albacora sau bucățile MSC dacă sunt pe raft, evită tonul în ulei și pe cel în
+sos de roșii** (zahăr și ulei de floarea-soarelui în sos). Tonul alb
+(albacore) e ultimul și pe mercur.
 
 **But canned tuna is a weak ω3 source, not a strong one.** The Frinsa labels
 declare **0.1 g EPA+DHA per 100 g** — about 120 mg per drained can, against
@@ -114,6 +124,8 @@ what matters, not the fat percentage.
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
 | Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
 | Ton alb în suc propriu (Frinsa) | 142 | 29 | 0 | 2.9 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-alb-suc-propriu.md) |
+| Ton bucăți în suc propriu (MSC, 5949065046835) | 102 | 24 | 0 | 0.7 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-bucati-msc-5949065046835.md) |
+| Ton mărunțit în suc propriu (Darinne) | 86 | 18.5 | 0 | 1.3 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-maruntit-darinne.md) |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
