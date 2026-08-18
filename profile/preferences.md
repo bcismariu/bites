@@ -8,6 +8,8 @@ gets recorded here so it is never asked twice.
 | When I say | I mean | Usual portion |
 |---|---|---|
 | _(to be filled as we go — e.g. "apples" → Golden, ~150 g each)_ | | |
+| „chia" | Semințe de chia Solaris | **1 linguriță (~5 g)** — porție ținută mic voit: chia are 30,8 g grăsime / 100 g și mănâncă din bugetul de calorii. Nu presupune lingura de 20 g. |
+| „zuzu stors" | Iaurt Zuzu 2 %, lactoză redusă | 1 pahar (150 g) |
 
 ## Habits & routine
 
