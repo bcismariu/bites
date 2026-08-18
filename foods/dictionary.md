@@ -190,6 +190,7 @@ what matters, not the fat percentage.
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
 | Trout, cooked | 168 | 24 | 0 | 7.5 | 0 | 0 | 0 | 180 g (carne de la 1 păstrăv) | ω3, vitD, b12 | estimate |
 | Rice, white, cooked | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 180 g | — | estimate |
+| Ceafă de porc la grătar | 290 | 26 | 0 | 21 | 0 | 0 | 0 | 170 g (1 porție restaurant) | b12, zn | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Shawarma chicken | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 100 g | b12, zn | estimate |
 | Salmon, smoked | 180 | 18 | 0 | 12 | 0 | 0 | 0 | 30 g | ω3, vitD, b12 | estimate |
