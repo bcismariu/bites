@@ -82,6 +82,36 @@ a 250–500 mg daily need. It qualifies for the tag and no more. When omega-3
 is the actual gap, reach for sardines, mackerel or salmon; tuna is the
 protein play.
 
+## Fibre density — the shortlist
+
+Fibre is the target missed most consistently (24.4 g/day average against 35).
+The trap is intuitive but wrong: **leafy vegetables are not a fibre play.**
+Spinach has ~2.4 g per 100 g; a whole restaurant portion buys 6 g and, once
+it has been cooked in oil, costs 160 kcal to get them.
+
+| Food | kcal/100 g | Fibre/100 g | **Fibre/100 kcal** |
+|---|---|---|---|
+| **Psyllium (coji măcinate)** | 186 | 78 g | **41.9 g** 🥇 |
+| Broccoli & cauliflower, steamed | 30 | 2.9 g | 9.7 g |
+| Broccoli, steamed | 35 | 3.3 g | 9.4 g |
+| Chia seeds (Solaris) | 500 | 38 g | 7.6 g |
+| Bell pepper, raw | 31 | 2.1 g | 6.8 g |
+| Bar, vegetable protein & coffee | 366 | 20.1 g | 5.5 g |
+| Ciorbă de fasole albă | 85 | 4.0 g | 4.7 g |
+| Iahnie de fasole | 110 | 5.0 g | 4.5 g |
+| Mâncare de spanac (cu ulei) | 64 | 2.4 g | 3.8 g |
+
+**Two rules follow.**
+
+1. **Psyllium is the floor, legumes are the volume.** Psyllium's ratio is
+   unbeatable — 3.9 g of fibre for 9 kcal — but it comes a teaspoon at a
+   time. Beans and lentils are what actually move a day: one bowl of ciorbă
+   de fasole delivered 14 g on 2026-08-17, over half that day's fibre.
+2. **Oil halves the fibre density of any vegetable.** Steamed broccoli is
+   9.4 g of fibre per 100 kcal; the same vegetable sautéed drops toward 4.
+   The vegetable is not the problem — the frying pan is. When the goal is
+   fibre, ask for it steamed, boiled or raw.
+
 ## The yogurt shelf, settled
 
 Compared in store on 2026-08-14. Ranked by protein per 100 kcal — the metric
@@ -197,6 +227,7 @@ what matters, not the fat percentage.
 | Skyr natur (Miil) | 61 | 12 | 3.0 | 0.1 | 0 | 3.0 | 0 | 150 g (1 pahar, presupus) | ca, b12 | [label](labels/miil-skyr-natur.md) |
 | Small fish, fried whole (șprot) | 240 | 19 | 3.0 | 16 | 0.1 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
 | Sour cherry jam (dulceață de vișine) | 250 | 0.5 | 62 | 0 | 0.8 | 60 | 50 | 30 g (1 lingură) | — | estimate |
+| Mâncare de spanac (restaurant, ulei moderat) | 64 | 2.8 | 3.8 | 4.6 | 2.4 | 0.3 | 0 | 250 g (1 porție) | iron, k, mg | estimate |
 | Spinach sauté, de post (spanac sote) | 76 | 3.0 | 3.8 | 6.3 | 2.4 | 0.3 | 0 | 200 g (1 porție) | iron, k, mg | estimate |
 | Tabbouleh salad with pomegranate | 95 | 2.0 | 8.7 | 5.7 | 3.0 | 3.3 | 0 | 150 g | vitC | estimate |
 | Tobă (head cheese), commercial | 250 | 15 | 1 | 20 | 0 | 0.5 | 0 | 60 g (2 bucăți mici) | b12, zn | estimate |
