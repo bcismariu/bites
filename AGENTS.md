@@ -52,9 +52,18 @@ When the user reports eating something (e.g. *"I had two apples and a yogurt"*):
    record the answer in `preferences.md` so it never needs asking again.
 2. **Resolve nutrients.** Look the food up in `foods/dictionary.md`. If it is
    not there, add it (see below) before logging.
-3. **Determine the meal.** Use the meal the user names; otherwise infer from
-   local time (before 10:30 breakfast, 10:30–15:00 lunch, 15:00–18:00 snack,
-   after 18:00 dinner) and say which one was assumed.
+3. **Determine the meal — check the clock, never guess it.** Run
+   `TZ=Europe/Bucharest date` and use the meal the user names; otherwise infer
+   from local time (before 10:30 breakfast, 10:30–15:00 lunch, 15:00–18:00
+   snack, after 18:00 dinner) and say which one was assumed.
+
+   The user reports things **as they happen**, so the clock is reliable
+   evidence about when a meal or workout occurred. Claude is not: the system
+   prompt supplies the date but no time, the machine runs on **UTC** (2–3 h
+   behind Romania), and there is no sense of elapsed time between messages —
+   two turns can be five minutes or five hours apart and look identical.
+   Check the clock whenever a timestamp matters: meals, workouts, sauna,
+   anything feeding the sleep analysis.
 4. **Write the day file** `log/YYYY/MM/YYYY-MM-DD.md` (create directories as
    needed), following the template below. Recompute the **Day totals** section
    on every edit.

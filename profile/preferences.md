@@ -26,6 +26,10 @@ gets recorded here so it is never asked twice.
   cu 2–3 ore în urmă față de ora lui. Verifică întotdeauna cu
   `TZ=Europe/Bucharest date` înainte de a deduce masa după oră — ferestrele
   din `AGENTS.md` (10:30 / 15:00 / 18:00) sunt în ora locală.
+- **Raportează în timp real** (confirmat 2026-08-19): ce spune că a mâncat sau
+  a făcut, tocmai s-a întâmplat. Deci ceasul e o dovadă bună despre *când* —
+  verifică-l de fiecare dată când contează (mese, antrenamente, saună), nu
+  deduce din context. Când vrea precizie, dă el ora explicit („la 16:30…").
 
 ## Workout routine
 
