@@ -33,18 +33,17 @@ The two pulling exercises are the priority — they counteract the desk job.
 | 1 | Leg press, seated | 3 × 12 | **70 kg** | 77 kg — dublat în 3 săptămâni, încă urcă curat |
 | 2 | Chest press, seated | 3 × 12 | **35 kg** | hold — RIR 0–1 după 2 ședințe |
 | 3 | **Seated row, dual pulley** | 3 × 12 | **23.5 kg** | hold — urcare de 17.5 % pe 08-19 |
-| 4 | **Lat pulldown** | 3 × 12 | **16 kg** | 18 kg dacă există pe placă; altfel 16 × 14 rep |
+| 4 | **Lat pulldown** | 3 × 12 | **16.5 kg** | 18 kg dacă există pe placă; altfel 16.5 × 14 rep |
 | 5 | Shoulder press | 3 × 12 | **10 kg** | hold până iese 3 × 12 curat |
 | 6 | Plank | 3 × 50 sec | — | 3 × 50 fără cedare pe ultima |
 
 _Progression: session 1 (08-08) 35 / 25 / 16.5 / 13 / 5 kg, 3 × 30 sec →
 session 2 (08-11) 55 / 35 / 20 / 16.5 / 7.5 kg, 3 × 40 sec →
 session 3 (08-14) 63 / 35 / 20 / 20 / 7.5 kg, 3 × 45 sec →
-session 4 (08-19) 70 / — / 23.5 / 16 / 10 kg, 50+50+40 sec._
+session 4 (08-19) 70 / 35 / 23.5 / 16.5 / 10 kg, 50+50+40 sec._
 
-**Pașii aparatelor (verificați pe 2026-08-19):** seated row urcă 20 → **23.5**
-(nu 22.5); lat pulldown are **16**, nu 16.5. Nu prescrie greutăți care nu
-există pe placă.
+**Pașii aparatelor:** seated row urcă 20 → **23.5** (nu 22.5). Nu prescrie
+greutăți care nu există pe placă.
 
 **Jos zboară, sus nu.** Leg press s-a dublat în trei săptămâni (35 → 70 kg);
 row, lat pulldown și shoulder press urcă în pași mici și cedează des. E de
