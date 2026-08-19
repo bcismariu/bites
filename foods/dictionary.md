@@ -213,6 +213,7 @@ what matters, not the fat percentage.
 | Watermelon (pepene roșu) | 30 | 0.6 | 7.6 | 0.2 | 0.4 | 6.2 | 0 | 200 g (1 felie) | vitC, k | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Pilaf cu legume | 145 | 3.0 | 24 | 4.5 | 1.5 | 1.0 | 0 | 200 g | k | estimate |
+| Lasagna (carne, béchamel, cașcaval) | 165 | 9.0 | 13 | 8.4 | 1.0 | 2.5 | 0.3 | 350 g (1 porție) | iron, ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
 | Șnițel de pui, pané, prăjit (fast-food) | 270 | 15 | 15 | 15 | 1.0 | 0.5 | 0 | 50 g | b12 | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
