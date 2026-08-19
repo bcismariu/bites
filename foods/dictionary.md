@@ -234,7 +234,7 @@ what matters, not the fat percentage.
 | Tabbouleh salad with pomegranate | 95 | 2.0 | 8.7 | 5.7 | 3.0 | 3.3 | 0 | 150 g | vitC | estimate |
 | Tobă (head cheese), commercial | 250 | 15 | 1 | 20 | 0 | 0.5 | 0 | 60 g (2 bucăți mici) | b12, zn | estimate |
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
-| Salată de roșii, castraveți și ceapă roșie (cu ulei) | 41 | 0.8 | 4.2 | 2.6 | 1.1 | 2.5 | 0 | 200 g (1 bol) | vitC, k | estimate |
+| Salată de roșii, castraveți și ceapă roșie (ulei puțin) | 32 | 0.8 | 4.2 | 1.7 | 1.1 | 2.5 | 0 | 200 g (1 bol) | vitC, k | estimate |
 | Tortilla chips, fried | 500 | 6.7 | 60 | 26.8 | 3.2 | 1.0 | 0 | 25 g | — | estimate |
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
 | Varză călită | 85 | 1.5 | 8.0 | 5.0 | 2.5 | 3.0 | 0 | 250 g | vitC, k | estimate |
