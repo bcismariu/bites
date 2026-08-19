@@ -21,6 +21,11 @@ gets recorded here so it is never asked twice.
 - Walks to lunch ~8–10 min each way.
 - **Never drinks coffee** — no caffeine at all. Doesn't smoke.
 - Gym: restarted **2026-08-08** after ~2 months off. Aim: 2× per week.
+- **Fus orar: România — `Europe/Bucharest`.** Vara UTC+3 (EEST), iarna UTC+2
+  (EET). Mașina pe care rulează Claude e pe **UTC**, deci ora citită direct e
+  cu 2–3 ore în urmă față de ora lui. Verifică întotdeauna cu
+  `TZ=Europe/Bucharest date` înainte de a deduce masa după oră — ferestrele
+  din `AGENTS.md` (10:30 / 15:00 / 18:00) sunt în ora locală.
 
 ## Workout routine
 
