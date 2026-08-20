@@ -212,6 +212,7 @@ what matters, not the fat percentage.
 | Cantaloupe (pepene galben) | 34 | 0.8 | 8.0 | 0.2 | 0.9 | 7.9 | 0 | 150 g | vitC, k | estimate |
 | Watermelon (pepene roșu) | 30 | 0.6 | 7.6 | 0.2 | 0.4 | 6.2 | 0 | 200 g (1 felie) | vitC, k | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
+| Paste cu ton (conservă în ulei, scursă) | 148 | 10.2 | 14.7 | 3.3 | 0.8 | 0.7 | 0 | 300 g (1 porție) | ω3, b12 | estimate |
 | Pilaf cu legume | 145 | 3.0 | 24 | 4.5 | 1.5 | 1.0 | 0 | 200 g | k | estimate |
 | Lasagna (carne, béchamel, cașcaval) | 165 | 9.0 | 13 | 8.4 | 1.0 | 2.5 | 0.3 | 350 g (1 porție) | iron, ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
