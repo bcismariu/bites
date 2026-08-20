@@ -160,6 +160,8 @@ what matters, not the fat percentage.
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Ciuperci champignon la cuptor (cu ulei) | 52 | 3.1 | 3.7 | 3.7 | 1.0 | 1.2 | 0 | 150 g | k | estimate |
+| Covrig cu semințe de floarea-soarelui | 330 | 11.5 | 45 | 12 | 3.5 | 2.0 | 0 | 130 g (1 covrig mare) | mg | estimate |
+| Peach (piersică) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 150 g (1 medie) | vitC, k | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
