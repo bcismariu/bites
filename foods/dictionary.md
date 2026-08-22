@@ -210,7 +210,11 @@ what matters, not the fat percentage.
 | Mustard, sweet (muștar dulce) | 130 | 4.0 | 15 | 6.0 | 0.8 | 10 | 8.0 | 30 g | — | estimate |
 | Salată de varză (cu ulei) | 50 | 1.2 | 4.5 | 3.3 | 2.0 | 2.5 | 0 | 150 g | vitC | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
+| Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
+| Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
+| Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
+| Omelette, plain, with oil | 170 | 11.5 | 1.0 | 13.5 | 0 | 1.0 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Olives, large (colosal), in brine | 145 | 1.0 | 4.0 | 15 | 3.3 | 0 | 0 | 28 g (4 măsline) | — | estimate |
 | Omelette with spinach, no oil | 122 | 10.5 | 1.8 | 8.4 | 0.6 | 0.9 | 0 | 160 g (2 eggs + 40 g spanac) | b12, vitD, iron | estimate |
 | Pasta with shrimp and mussels | 165 | 9.7 | 20.4 | 5.1 | 1.1 | 0.7 | 0 | 300 g (1 porție) | iron, b12, zn, ω3 | estimate |
