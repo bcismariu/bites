@@ -169,6 +169,8 @@ what matters, not the fat percentage.
 | Peach (piersică) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 150 g (1 medie) | vitC, k | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
+| Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
+| Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
 | Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
 | Goffră din aluat de banana bread, fără zahăr (homemade) | 270 | 6.0 | 35 | 11 | 2.0 | 6.0 | 0 | 70 g (1 buc mică) | k | estimate |
