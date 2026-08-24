@@ -192,6 +192,8 @@ what matters, not the fat percentage.
 | Ton bucăți în suc propriu (MSC, 5949065046835) | 102 | 24 | 0 | 0.7 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-bucati-msc-5949065046835.md) |
 | Ton mărunțit în suc propriu (Darinne) | 86 | 18.5 | 0 | 1.3 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-maruntit-darinne.md) |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
+| Tocană de vinete cu ardei | 105 | 2.0 | 8.0 | 7.5 | 2.8 | 4.5 | 0 | 150 g (garnitură) | vitC, k | estimate |
+| Chicken drumstick, roasted, skin-on | 205 | 24 | 0 | 12 | 0 | 0 | 0 | 130 g (1 pulpă) | b12, zn | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
 | Greek yogurt 0% (Olympus) | 48 | 8 | 4.0 | 0 | 0 | 4.0 | 0 | 150 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-0.md) |
@@ -202,6 +204,7 @@ what matters, not the fat percentage.
 | Grapes | 69 | 0.7 | 18 | 0.2 | 0.9 | 16 | 0 | 100 g | k | estimate |
 | Green bean soup with vegetables | 45 | 1.2 | 6.0 | 1.8 | 1.5 | 1.5 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Green beans, sautéed | 55 | 1.9 | 7 | 2.5 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
+| Green beans, boiled, no oil | 33 | 1.8 | 7 | 0.2 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
