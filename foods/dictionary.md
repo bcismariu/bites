@@ -215,7 +215,8 @@ what matters, not the fat percentage.
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
 | Ayran | 36 | 1.6 | 2.0 | 2.0 | 0 | 2.0 | 0 | 250 ml (1 pahar) | ca | estimate |
 | Iskender kebab de vită, porție mare (cu pâine, sos roșii, unt topit, iaurt) | 173 | 11.9 | 11.6 | 9.1 | 0.4 | 1.1 | 0 | 550 g (1 porție mare) | iron, ca, b12, zn | estimate |
-| Vită Dristor cu sos de roșii, iaurt gras 10 %, roșii și murături (fără pâine) | 128 | 12.1 | 2.9 | 7.3 | 0.3 | 2.0 | 0 | 565 g (1 porție) | iron, ca, b12, zn, vitC | estimate |
+| Vită Dristor cu sos de roșii, iaurt gras 10 %, roșii și murături | 128 | 12.1 | 2.9 | 7.3 | 0.3 | 2.0 | 0 | 565 g (1 porție, fără pâine — vezi rândul de mai jos) | iron, ca, b12, zn, vitC | estimate |
+| Pâine (lipie/pită), sub carne, cu sos | 275 | 9.0 | 55 | 2.0 | 2.0 | 2.0 | 0 | 120 g (strat de la kebab) | — | estimate |
 | Lentil cream soup (supă cremă de linte roșie) | 85 | 3.5 | 11 | 3.0 | 2.5 | 1.4 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
 | Supă de linte (turcească, mercimek) | 47 | 2.6 | 7.2 | 1.0 | 1.6 | 0.5 | 0 | 350 ml (1 bol) | iron | estimate |
 | Crutoane de pâine (pentru supă) | 400 | 10 | 55 | 15 | 2.0 | 3.0 | 0 | 20 g (garnitură) | — | estimate |
