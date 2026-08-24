@@ -192,6 +192,7 @@ what matters, not the fat percentage.
 | Ton bucăți în suc propriu (MSC, 5949065046835) | 102 | 24 | 0 | 0.7 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-bucati-msc-5949065046835.md) |
 | Ton mărunțit în suc propriu (Darinne) | 86 | 18.5 | 0 | 1.3 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-maruntit-darinne.md) |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
+| Mâncare de ficăței de pui (cu ardei, roșii) | 151 | 17.0 | 5.3 | 7.0 | 0.7 | 2.0 | 0 | 150 g (porție) | iron, b12, vitC, zn | estimate |
 | Tocană de vinete cu ardei | 105 | 2.0 | 8.0 | 7.5 | 2.8 | 4.5 | 0 | 150 g (garnitură) | vitC, k | estimate |
 | Chicken drumstick, roasted, skin-on | 205 | 24 | 0 | 12 | 0 | 0 | 0 | 130 g (1 pulpă) | b12, zn | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
