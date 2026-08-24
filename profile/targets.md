@@ -63,6 +63,7 @@ eating. Always measure at the same place.
 | Date | Waist | Waist/height | Note |
 |---|---|---|---|
 | 2026-08-15 | **91 cm** | **0.487** | baseline, at the navel |
+| 2026-08-24 | **93 cm** | **0.497** | +2 cm în 9 zile — probabil aceeași contaminare ca la cântar (o zi după team building, sare și glicogen); de reconfirmat la remăsurătoarea din septembrie, nu tratată ca trend real |
 
 Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
 increased. The simple rule is waist under half your height — 0.5 for 187 cm
