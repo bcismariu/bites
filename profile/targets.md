@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **80.8 kg** _(measured 2026-08-09, morning, after the toilet, naked)_ |
-| BMI | 23.1 — healthy range |
-| Body fat | **~22.6 %** _(bioimpedance scale, 2026-08-09)_ → fat ~18.3 kg, lean ~62.7 kg |
-| Muscle mass | **59.5 kg** _(2026-08-09)_ — the number to protect during the cut |
+| Weight | **81.20 kg** _(measured 2026-08-24, 07:45, morning, after the toilet)_ |
+| BMI | 23.2 — healthy range |
+| Body fat | **~22.5 %** _(bioimpedance scale, 2026-08-24)_ → fat ~18.3 kg, lean ~62.9 kg |
+| Muscle mass | **59.68 kg** _(2026-08-24)_ — the number to protect during the cut |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -53,6 +53,7 @@ is too aggressive or protein is too low.
 | 2026-08-09 | 80.8 kg | — | — | — | first real measurement; morning, after toilet, naked |
 | 2026-08-09 | 81.00 kg | 22.6 % | 59.46 kg | 11 | bioimpedance, 08:33 |
 | 2026-08-15 | **80.85 kg** | 22.6 % | 59.34 kg | 11 | bioimpedance, 07:02 — **−0.15 kg in 6 days** |
+| 2026-08-24 | **81.20 kg** | 22.5 % | 59.68 kg | 11 | bioimpedance, 07:45 — **+0.35 kg în 9 zile**, la o zi după 3 zile de team building. Masa de grăsime calculată e neschimbată (18.27 kg în ambele măsurători); toată diferența e „lean". |
 
 ## Waist log
 
@@ -75,20 +76,40 @@ the boundary, on the good side of it.
 At the phase-1 target of ~73 kg the waist should land around 80–83 cm
 (ratio ~0.44). Re-measure monthly.
 
-**The scale confirmed the food log.** Average intake over 10–14 Aug was
-2177 kcal against an estimated TDEE of ~2400, i.e. a deficit of ~225 kcal/day
-≈ 1100 kcal over the period ≈ **0.14 kg of fat**. The scale moved 0.15 kg.
-The arithmetic and the measurement agree, which means both the logging and
-the TDEE estimate are close to right.
+## Ce spun cele trei măsurători
 
-It also confirms the rate is **~0.17 kg/week, roughly a third of the 0.5 kg
-planned**. At this pace phase 1 would take about a year rather than 4–5
-months.
+**9 → 15 august: cântarul a confirmat logul.** Aport mediu 10–14 aug: 2177 kcal
+față de TDEE ~2400, deficit ~225 kcal/zi ≈ 1100 kcal ≈ **0.14 kg de grăsime**.
+Cântarul a arătat −0.15 kg. Aritmetica și măsurătoarea au fost de acord — deci
+și logarea, și estimarea de TDEE sunt aproape de adevăr.
 
-Body fat %, muscle and visceral did not move — as expected. A 0.15 kg change
-is far below what bioimpedance can resolve (its error on body fat is ±3–5
-percentage points), and visceral fat responds over 8–12 weeks, not six days.
-**At this magnitude only the weight number carries information.**
+**15 → 24 august: măsurătoare contaminată, nu concludentă.** Aport mediu pe
+cele 9 zile: **2221 kcal**, deficit ~179/zi ≈ 1614 kcal ≈ **−0.21 kg
+prezis**. Cântarul a arătat **+0.35 kg**. Diferența de ~0.56 kg are o
+explicație directă: măsurătoarea a fost făcută **la o zi după trei zile de
+team building** cu 3945 kcal sâmbătă și 358 g de carbohidrați, plus sare
+mare (telemea, mezeluri, pastramă, bulz). Glicogenul se reface legând ~3 g
+de apă la fiecare gram — 1–2 kg de variație e normală.
+
+Indiciu că grăsimea chiar a scăzut: **masa de grăsime calculată de cântar e
+identică în ambele măsurători (18.27 kg)**, iar tot plusul e înregistrat ca
+„lean" — exact semnătura apei și a glicogenului, nu a mușchiului nou.
+**Dar asta e interpretare, nu dovadă.** Măsurătoarea următoare, după o
+săptămână de mâncare normală, e cea care decide.
+
+**Regula care iese de aici: nu te cântări la mai puțin de 3–4 zile după o
+perioadă de mâncat diferit.** O măsurătoare contaminată nu e doar inutilă —
+poate declanșa decizii greșite (tăiat calorii degeaba).
+
+Rata reală rămâne cea din prima perioadă: **~0.17 kg/săptămână, o treime din
+cele 0.5 kg planificate.**
+
+Body fat %, mușchi și visceral nu s-au mișcat semnificativ în niciuna dintre
+perioade — de așteptat. Variații de 0.1–0.35 kg sunt mult sub ce poate
+rezolva bioimpedanța (eroare ±3–5 puncte procentuale la grăsime), iar
+grăsimea viscerală răspunde în 8–12 săptămâni, nu în zile. **La magnitudinea
+asta, doar numărul de greutate poartă informație — și doar în condiții
+identice.**
 
 ## On the bioimpedance scale
 
