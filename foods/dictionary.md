@@ -213,7 +213,10 @@ what matters, not the fat percentage.
 | Kürtőskalács (colac secuiesc) | 380 | 7 | 55 | 14 | 1.5 | 25 | 23 | 180 g (1 buc) | — | estimate |
 | Kürtőskalács, fără zahăr | 330 | 8 | 45 | 14 | 1.8 | 5 | 3 | 180 g (1 buc) | — | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
+| Ayran | 36 | 1.6 | 2.0 | 2.0 | 0 | 2.0 | 0 | 250 ml (1 pahar) | ca | estimate |
+| Iskender kebab de vită, porție mare (cu pâine, sos roșii, unt topit, iaurt) | 173 | 11.9 | 11.6 | 9.1 | 0.4 | 1.1 | 0 | 550 g (1 porție mare) | iron, ca, b12, zn | estimate |
 | Lentil cream soup (supă cremă de linte roșie) | 85 | 3.5 | 11 | 3.0 | 2.5 | 1.4 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
+| Supă de linte (turcească, mercimek) | 47 | 2.6 | 7.2 | 1.0 | 1.6 | 0.5 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
 | Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
 | Gogoașă (cu zahăr) | 340 | 5.0 | 41 | 17 | 1.2 | 15 | 12 | 80 g (1 buc) | — | estimate |
