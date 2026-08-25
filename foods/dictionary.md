@@ -209,6 +209,7 @@ what matters, not the fat percentage.
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
+| Tigaie picantă cu pipote de curcan (ardei, morcov) | 128 | 11.4 | 6.0 | 6.3 | 1.2 | 2.8 | 0 | 250 g (1 bol) | iron, zn, b12, k, vitC | estimate |
 | Tocăniță de pipote de curcan cu cartofi | 122 | 10.3 | 9.7 | 4.5 | 1.2 | 1.7 | 0 | 300 g (1 bol) | iron, zn, b12, k | estimate |
 | Kürtőskalács (colac secuiesc) | 380 | 7 | 55 | 14 | 1.5 | 25 | 23 | 180 g (1 buc) | — | estimate |
 | Kürtőskalács, fără zahăr | 330 | 8 | 45 | 14 | 1.8 | 5 | 3 | 180 g (1 buc) | — | estimate |
