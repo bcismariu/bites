@@ -257,6 +257,7 @@ what matters, not the fat percentage.
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Psyllium (coji măcinate) | 186 | 2.5 | 0 | 0.5 | 78 | 0 | 0 | 5 g (1 linguriță) | — | [label](labels/psyllium.md) |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
+| Piure de conopidă cu broccoli | 55 | 3.0 | 5.5 | 2.5 | 3.0 | 2.0 | 0 | 150 g | vitC, k | estimate |
 | Potato purée (piure) | 110 | 2.0 | 15 | 4.5 | 1.2 | 1.0 | 0 | 200 g | k | estimate |
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
 | Trout, cooked | 168 | 24 | 0 | 7.5 | 0 | 0 | 0 | 180 g (carne de la 1 păstrăv) | ω3, vitD, b12 | estimate |
