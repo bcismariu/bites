@@ -201,6 +201,7 @@ what matters, not the fat percentage.
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
 | Greek yogurt 0% (Olympus) | 48 | 8 | 4.0 | 0 | 0 | 4.0 | 0 | 150 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-0.md) |
 | Greek yogurt 2% (Olympus) | 65 | 8 | 3.8 | 2.0 | 0 | 3.8 | 0 | 200 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-2.md) |
+| Greek yogurt Bio 2% (Olympus) | 65 | 8 | 3.8 | 2.0 | 0 | 3.8 | 0 | 150 g | ca, b12 | [label](labels/olympus-bio-natur-2.md) |
 | Yogurt 2%, lactose-reduced (Zuzu) | 61 | 8 | 2.7 | 2.0 | 0 | 2.6 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/zuzu-iaurt-2-lactoza-redusa.md) |
 | Greek yogurt 10% (Munte Athos) | 132 | 6 | 4.5 | 10 | 0 | 4 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/munte-athos-iaurt-grecesc-10.md) |
 | Frigăruie de pui cu legume la cuptor | 129 | 12.8 | 7.9 | 4.9 | 1.2 | 1.4 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
