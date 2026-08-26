@@ -228,6 +228,7 @@ what matters, not the fat percentage.
 | Înghețată la vafă, vanilie (50 g) | 198 | 2.8 | 27.9 | 8.3 | 0.2 | 20.8 | 17 | 50 g (1 buc) | — | [label](labels/inghetata-vafa-vanilie-50g.md) |
 | Mustard, plain (muștar) | 66 | 4.0 | 6.0 | 3.3 | 3.3 | 3.0 | 2.0 | 20 g | — | estimate |
 | Mustard, sweet (muștar dulce) | 130 | 4.0 | 15 | 6.0 | 0.8 | 10 | 8.0 | 30 g | — | estimate |
+| Coleslaw (varză și morcov) | 95 | 1.0 | 8.0 | 6.5 | 1.8 | 5.0 | 0 | 150 g | vitC | estimate |
 | Salată de varză (cu ulei) | 50 | 1.2 | 4.5 | 3.3 | 2.0 | 2.5 | 0 | 150 g | vitC | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
