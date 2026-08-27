@@ -248,6 +248,8 @@ what matters, not the fat percentage.
 | Pastramă de oaie, la grătar | 230 | 25 | 0.5 | 14 | 0 | 0 | 0 | 120 g (câteva bucăți) | iron, b12, zn | estimate |
 | Pate de ficat de pui, homemade | 290 | 13 | 2 | 25 | 0.2 | 1 | 0 | 25 g (strat pe o felie) | iron, b12 | estimate |
 | Bulz ciobănesc (mămăligă cu brânză) | 155 | 4.5 | 18 | 7.5 | 0.8 | 0.5 | 0 | 300 g (1 porție) | ca | estimate |
+| Mămăligă (simplă, fără unt) | 85 | 2.0 | 18 | 0.5 | 1.0 | 0 | 0 | 220 g (1 porție) | — | estimate |
+| Mazăre cu carne de porc | 147 | 8.9 | 10.3 | 7.7 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
 | Dulceață de casă fără zahăr | 60 | 0.4 | 14 | 0.2 | 1.5 | 12 | 0 | 20 g (strat pe o felie) | — | estimate |
