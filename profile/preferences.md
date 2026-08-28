@@ -90,6 +90,16 @@ new food, an unusual duration.
 
 - _(foods and cuisines to lean into for suggestions)_
 
+## Watch-outs (foods he over-eats past satiety)
+
+- **Homemade white bread.** Confirmed pattern (2026-08-27, 2026-08-28,
+  two days running): 3–4 slices alongside a rich main dish, described
+  himself as "liking it more than I should." Soft, warm, low-fibre —
+  fills the plate and the mouth before satiety catches up. Not a
+  willpower issue; a plating one. Suggested fix he agreed to try:
+  pre-portion a counted slice on a separate small plate instead of
+  cutting straight from the loaf.
+
 ## Dislikes
 
 - _(never suggest; if logged anyway, that's fine)_
