@@ -252,6 +252,8 @@ what matters, not the fat percentage.
 | Mămăligă (simplă, fără unt) | 85 | 2.0 | 18 | 0.5 | 1.0 | 0 | 0 | 220 g (1 porție) | — | estimate |
 | Mazăre cu carne de porc | 147 | 8.9 | 10.3 | 7.7 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
+| Musaca de casă (pui, puțin ulei) | 130 | 8.0 | 13 | 5.0 | 1.5 | 2.0 | 0 | 350 g (1 porție) | b12, zn | estimate |
+| Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
 | Dulceață de casă fără zahăr | 60 | 0.4 | 14 | 0.2 | 1.5 | 12 | 0 | 20 g (strat pe o felie) | — | estimate |
