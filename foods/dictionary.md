@@ -180,6 +180,8 @@ what matters, not the fat percentage.
 | Kataif kashta (kunafa cu smântână, sirop) | 342 | 5.0 | 35 | 20.8 | 1.0 | 20.8 | 20 | 120 g (1 bucată) | — | estimate |
 | Clătită, plain | 215 | 6 | 28 | 8.5 | 1.0 | 3 | 1 | 60 g (1 buc) | — | estimate |
 | Cottage cheese (brânză de vaci) | 110 | 12 | 3.5 | 5.5 | 0 | 3.5 | 0 | 50 g | ca, b12 | estimate |
+| Pulpă de găină, fiartă | 220 | 20 | 0 | 15 | 0 | 0 | 0 | 150 g (1 pulpă) | b12, zn | estimate |
+| Rice, steamed, plain | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 200 g (1 porție) | — | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
 | Chia seeds (Solaris) | 490 | 15.6 | 6.1 | 30.8 | 37.7 | 0 | 0 | 20 g (1 lingură) | mg, ca, ω3 | [label](labels/solaris-seminte-chia.md) |
 | Chicken breast, grilled (restaurant) | 180 | 31 | 0 | 5.5 | 0 | 0 | 0 | 130 g (1 porție) | b12, zn | estimate |
