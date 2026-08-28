@@ -168,6 +168,7 @@ what matters, not the fat percentage.
 | Plums (prune) | 46 | 0.7 | 11.4 | 0.3 | 1.4 | 9.9 | 0 | 70 g (1 mare) | vitC, k | estimate |
 | Strudel de mere | 274 | 3.3 | 37.5 | 12.5 | 2.0 | 16.7 | 10 | 120 g (1 porție) | — | estimate |
 | Peach (piersică) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 150 g (1 medie) | vitC, k | estimate |
+| Peach, flat (piersică plată) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 120 g (1 buc) | vitC | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
 | Ciorbă de ciolan cu tarhon (cu smântână/ou) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
