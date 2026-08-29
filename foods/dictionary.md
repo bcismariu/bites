@@ -239,6 +239,7 @@ what matters, not the fat percentage.
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
+| Hot dog mare (crenvurst, chiflă, sos) | 256 | 8.9 | 22.6 | 14.3 | 0.6 | 4.1 | 1.8 | 190 g (1 buc mare) | — | estimate |
 | Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Omelette, plain, with oil | 170 | 11.5 | 1.0 | 13.5 | 0 | 1.0 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
