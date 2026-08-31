@@ -243,6 +243,7 @@ what matters, not the fat percentage.
 | Salată de pui Dristor (bol) | 138 | 13.2 | 6.2 | 7.2 | 1.0 | 1.0 | 0 | 400 g (1 bol) | b12, zn, vitC | estimate |
 | Honey (miere) | 304 | 0 | 82 | 0 | 0 | 82 | 82 | 20 g (1 lingură) | — | estimate |
 | OSHEE Multifruit, izotonică | 18 | 0 | 4.1 | 0 | 0 | 4.0 | 4.0 | 750 ml (1 sticlă) | — | [label](labels/oshee-multifruit-izotonic.md) |
+| OSHEE baton cu arahide, fistic și ciocolată neagră | 551 | 22.1 | 17.4 | 43.7 | 6.8 | 7.4 | 7.0 | 40 g (1 baton) | mg | [label](labels/oshee-baton-arahide-fistic-ciocolata.md) |
 | Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Omelette, plain, with oil | 170 | 11.5 | 1.0 | 13.5 | 0 | 1.0 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
