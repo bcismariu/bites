@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **81.20 kg** _(measured 2026-08-24, 07:45, morning, after the toilet)_ |
-| BMI | 23.2 — healthy range |
-| Body fat | **~22.5 %** _(bioimpedance scale, 2026-08-24)_ → fat ~18.3 kg, lean ~62.9 kg |
-| Muscle mass | **59.68 kg** _(2026-08-24)_ — the number to protect during the cut |
+| Weight | **80.80 kg** _(measured 2026-08-31, 05:46, morning, after the toilet)_ |
+| BMI | 23.1 — healthy range |
+| Body fat | **~22.2 %** _(bioimpedance scale, 2026-08-31)_ → fat ~17.9 kg, lean ~62.9 kg |
+| Muscle mass | **59.61 kg** _(2026-08-31)_ — the number to protect during the cut |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -54,6 +54,7 @@ is too aggressive or protein is too low.
 | 2026-08-09 | 81.00 kg | 22.6 % | 59.46 kg | 11 | bioimpedance, 08:33 |
 | 2026-08-15 | **80.85 kg** | 22.6 % | 59.34 kg | 11 | bioimpedance, 07:02 — **−0.15 kg in 6 days** |
 | 2026-08-24 | **81.20 kg** | 22.5 % | 59.68 kg | 11 | bioimpedance, 07:45 — **+0.35 kg în 9 zile**, la o zi după 3 zile de team building. Masa de grăsime calculată e neschimbată (18.27 kg în ambele măsurători); toată diferența e „lean". |
+| 2026-08-31 | **80.80 kg** | 22.2 % | 59.61 kg | 11 | bioimpedance, 05:46 — **−0.40 kg în 7 zile**, condiții curate. Masa de grăsime calculată: **17.94 kg (−0.33 kg)**. Mușchiul practic neschimbat (−0.07 kg, sub pragul de rezoluție BIA). |
 
 ## Waist log
 
@@ -102,8 +103,18 @@ săptămână de mâncare normală, e cea care decide.
 perioadă de mâncat diferit.** O măsurătoare contaminată nu e doar inutilă —
 poate declanșa decizii greșite (tăiat calorii degeaba).
 
-Rata reală rămâne cea din prima perioadă: **~0.17 kg/săptămână, o treime din
-cele 0.5 kg planificate.**
+**24 → 31 august: ipoteza „apă, nu grăsime" s-a confirmat exact.** Aport mediu
+pe săptămâna 24–30 aug: **2024 kcal**, deficit ~376/zi ≈ 2632 kcal ≈ **−0.34 kg
+prezis**. Cântarul a arătat **−0.40 kg raw, −0.33 kg pe grăsimea calculată**.
+Predicția și măsurătoarea sunt practic identice — apa reținută de pe 24 august
+a dispărut cum era de așteptat, iar sub ea grăsimea chiar a scăzut cu rata
+prezisă de log. A doua confirmare directă a metodei, după cea din 9–15
+august, și cea mai bună potrivire de până acum.
+
+Rata reală, pe baza celor două măsurători curate (15 → 31 august, 16 zile,
+fără cea contaminată din 24 august): **18.27 kg → 17.94 kg, −0.33 kg în 16
+zile ≈ 0.144 kg/săptămână** — puțin sub cele 0.17 kg/săptămână din prima
+perioadă, dar în aceeași zonă. Tot o treime din cele 0.5 kg planificate.
 
 Body fat %, mușchi și visceral nu s-au mișcat semnificativ în niciuna dintre
 perioade — de așteptat. Variații de 0.1–0.35 kg sunt mult sub ce poate
