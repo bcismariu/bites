@@ -152,6 +152,7 @@ what matters, not the fat percentage.
 | Sardines in tomato sauce (Fish Market) | 140 | 19 | 0.8 | 6.7 | 0 | 0.7 | 0 | 120 g (1 cutie) | ω3, ca, vitD, b12 | [label](labels/fish-market-sardine-sos-tomate.md) |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Sfeclă roșie, fiartă, simplă | 44 | 1.7 | 10 | 0.2 | 2.0 | 7.0 | 0 | 150 g | iron, k | estimate |
+| Tartă de casă cu spanac, brânză și măsline | 275 | 7.5 | 22 | 18 | 2.0 | 2.0 | 0 | 200 g (1 bucată generoasă) | ca, vitC | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
 | Bread with potato (pâine cu cartofi) | 250 | 7 | 47 | 3.0 | 2.5 | 3 | 0 | 50 g (1 felie) | — | estimate |
