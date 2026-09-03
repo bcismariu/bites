@@ -223,6 +223,7 @@ what matters, not the fat percentage.
 | Fasole bătută cu ceapă caramelizată (restaurant) | 163 | 5.4 | 17.9 | 7.3 | 4.6 | 4.4 | 0 | 140 g (1 bol) | iron, mg | estimate |
 | Salmon, grilled | 208 | 20 | 0 | 13 | 0 | 0 | 0 | 150 g (1 file) | vitD, ω3, b12 | estimate |
 | Chiflă (pâine albă) | 270 | 9 | 52 | 3.0 | 2.0 | 3.0 | 0 | 35 g (1 buc) | — | estimate |
+| Ravioli de casă cu piept de pui, sos de roșii | 180 | 10.0 | 22.0 | 6.0 | 1.5 | 3.0 | 0 | 350 g (1 porție) | vitC, b12, zn | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
 | Tigaie picantă cu pipote de curcan (ardei, morcov) | 128 | 11.4 | 6.0 | 6.3 | 1.2 | 2.8 | 0 | 250 g (1 bol) | iron, zn, b12, k, vitC | estimate |
 | Tocăniță de pipote de curcan cu cartofi | 122 | 10.3 | 9.7 | 4.5 | 1.2 | 1.7 | 0 | 300 g (1 bol) | iron, zn, b12, k | estimate |
