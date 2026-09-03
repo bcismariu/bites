@@ -219,6 +219,9 @@ what matters, not the fat percentage.
 | Green beans, boiled, no oil | 33 | 1.8 | 7 | 0.2 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
+| Hummus cu ceapă caramelizată (restaurant) | 197 | 7.6 | 18.0 | 11.1 | 5.9 | 3.9 | 0 | 140 g (1 bol) | iron, mg | estimate |
+| Salmon, grilled | 208 | 20 | 0 | 13 | 0 | 0 | 0 | 150 g (1 file) | vitD, ω3, b12 | estimate |
+| Chiflă (pâine albă) | 270 | 9 | 52 | 3.0 | 2.0 | 3.0 | 0 | 35 g (1 buc) | — | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
 | Tigaie picantă cu pipote de curcan (ardei, morcov) | 128 | 11.4 | 6.0 | 6.3 | 1.2 | 2.8 | 0 | 250 g (1 bol) | iron, zn, b12, k, vitC | estimate |
 | Tocăniță de pipote de curcan cu cartofi | 122 | 10.3 | 9.7 | 4.5 | 1.2 | 1.7 | 0 | 300 g (1 bol) | iron, zn, b12, k | estimate |
