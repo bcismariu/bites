@@ -248,6 +248,7 @@ what matters, not the fat percentage.
 | Salată de varză (cu ulei) | 50 | 1.2 | 4.5 | 3.3 | 2.0 | 2.5 | 0 | 150 g | vitC | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
+| Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
