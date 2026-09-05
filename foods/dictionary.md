@@ -246,6 +246,7 @@ what matters, not the fat percentage.
 | Coleslaw (varză și morcov) | 95 | 1.0 | 8.0 | 6.5 | 1.8 | 5.0 | 0 | 150 g | vitC | estimate |
 | Salată de varză (cu ulei) | 50 | 1.2 | 4.5 | 3.3 | 2.0 | 2.5 | 0 | 150 g | vitC | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
+| Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
 | Hot dog mare (crenvurst, chiflă, sos) | 256 | 8.9 | 22.6 | 14.3 | 0.6 | 4.1 | 1.8 | 190 g (1 buc mare) | — | estimate |
