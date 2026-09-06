@@ -251,6 +251,9 @@ what matters, not the fat percentage.
 | Mustard, sweet (muștar dulce) | 130 | 4.0 | 15 | 6.0 | 0.8 | 10 | 8.0 | 30 g | — | estimate |
 | Coleslaw (varză și morcov) | 95 | 1.0 | 8.0 | 6.5 | 1.8 | 5.0 | 0 | 150 g | vitC | estimate |
 | Salată de varză (cu ulei) | 50 | 1.2 | 4.5 | 3.3 | 2.0 | 2.5 | 0 | 150 g | vitC | estimate |
+| Pui la grătar (bufet eveniment) | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 150 g (1 pulpă/piept) | b12, zn | estimate |
+| Costiță de porc la grătar | 320 | 20 | 0 | 26 | 0 | 0 | 0 | 150 g (1 porție) | b12, zn | estimate |
+| Cartofi copți/prăjiți (garnitură bufet) | 140 | 2.0 | 20 | 5.0 | 2.0 | 1.0 | 0 | 150 g | — | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
