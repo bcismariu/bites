@@ -146,6 +146,7 @@ what matters, not the fat percentage.
 | Bar, vegetable protein & coffee, 40 g | 366 | 23.6 | 26.3 | 16.3 | 20.1 | 1.2 | 0 | 40 g (1 baton) | — | [label](labels/baton-proteine-vegetale-cafea.md) |
 | Anchovies, fried whole (hamsii) | 265 | 20 | 3.0 | 18 | 0 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
+| Hugo, fără alcool (soc, sifon, mentă, lime, gheață) | 44 | 0 | 11.0 | 0 | 0 | 11.0 | 11.0 | 200 ml (1 pahar, cu gheață) | — | estimate |
 | File de șalău (pike-perch), la grătar/cuptor | 92 | 19.0 | 0 | 1.0 | 0 | 0 | 0 | 180 g (1 file) | b12 | estimate |
 | Bell pepper (ardei gras) | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 120 g (1 buc) | vitC | estimate |
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
