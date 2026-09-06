@@ -217,6 +217,8 @@ what matters, not the fat percentage.
 | Greek yogurt 10% (Munte Athos) | 132 | 6 | 4.5 | 10 | 0 | 4 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/munte-athos-iaurt-grecesc-10.md) |
 | Frigăruie de pui cu legume la cuptor | 129 | 12.8 | 7.9 | 4.9 | 1.2 | 1.4 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Grapes | 69 | 0.7 | 18 | 0.2 | 0.9 | 16 | 0 | 100 g | k | estimate |
+| Sărățele (biscuiți sărați) | 450 | 10 | 65 | 15 | 2.0 | 2.0 | 0 | 10 g (2 buc) | — | estimate |
+| Pineapple (ananas) | 50 | 0.5 | 13 | 0.1 | 1.4 | 10 | 0 | 80 g (1 felie) | vitC | estimate |
 | Green bean soup with vegetables | 45 | 1.2 | 6.0 | 1.8 | 1.5 | 1.5 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Green beans, sautéed | 55 | 1.9 | 7 | 2.5 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
 | Green beans, boiled, no oil | 33 | 1.8 | 7 | 0.2 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
