@@ -263,6 +263,8 @@ what matters, not the fat percentage.
 | OSHEE Multifruit, izotonică | 18 | 0 | 4.1 | 0 | 0 | 4.0 | 4.0 | 750 ml (1 sticlă) | — | [label](labels/oshee-multifruit-izotonic.md) |
 | OSHEE baton cu arahide, fistic și ciocolată neagră | 551 | 22.1 | 17.4 | 43.7 | 6.8 | 7.4 | 7.0 | 40 g (1 baton) | mg | [label](labels/oshee-baton-arahide-fistic-ciocolata.md) |
 | Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
+| Ciuperci gratinate cu brânză | 160 | 8.0 | 4.0 | 12.0 | 1.5 | 1.0 | 0 | 120 g (porție bufet) | — | estimate |
+| Pâine albă (bufet eveniment) | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 60 g (~1.5 felii) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Omelette, plain, with oil | 170 | 11.5 | 1.0 | 13.5 | 0 | 1.0 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
 | Olives, large (colosal), in brine | 145 | 1.0 | 4.0 | 15 | 3.3 | 0 | 0 | 28 g (4 măsline) | — | estimate |
