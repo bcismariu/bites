@@ -213,6 +213,7 @@ what matters, not the fat percentage.
 | Grisine cu ovăz (Solaris) | 400 | 10 | 65 | 10 | 4.0 | 2.0 | 0 | 30 g (o mână) | — | estimate |
 | Greek yogurt Bio 2% (Olympus) | 65 | 8 | 3.8 | 2.0 | 0 | 3.8 | 0 | 150 g | ca, b12 | [label](labels/olympus-bio-natur-2.md) |
 | Yogurt 2%, lactose-reduced (Zuzu) | 61 | 8 | 2.7 | 2.0 | 0 | 2.6 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/zuzu-iaurt-2-lactoza-redusa.md) |
+| Iaurt 0.1% grăsime | 33 | 3.4 | 4.5 | 0.1 | 0 | 4.5 | 0 | 140 g (1 pahar) | ca | estimate |
 | Greek yogurt 10% (Munte Athos) | 132 | 6 | 4.5 | 10 | 0 | 4 | 0 | 150 g (1 pahar) | ca, b12 | [label](labels/munte-athos-iaurt-grecesc-10.md) |
 | Frigăruie de pui cu legume la cuptor | 129 | 12.8 | 7.9 | 4.9 | 1.2 | 1.4 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Grapes | 69 | 0.7 | 18 | 0.2 | 0.9 | 16 | 0 | 100 g | k | estimate |
