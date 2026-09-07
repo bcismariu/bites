@@ -149,6 +149,7 @@ what matters, not the fat percentage.
 | Hugo, fără alcool (soc, sifon, mentă, lime, gheață) | 44 | 0 | 11.0 | 0 | 0 | 11.0 | 11.0 | 200 ml (1 pahar, cu gheață) | — | estimate |
 | File de șalău (pike-perch), la grătar/cuptor | 92 | 19.0 | 0 | 1.0 | 0 | 0 | 0 | 180 g (1 file) | b12 | estimate |
 | Bell pepper (ardei gras) | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 120 g (1 buc) | vitC | estimate |
+| Ardei capia, crud | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 80 g (1 buc) | vitC | estimate |
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
 | Salam de biscuiți | 470 | 5.5 | 52 | 24 | 2.0 | 32 | 28 | 60 g (1 felie) | — | estimate |
 | Sardines in tomato sauce (Fish Market) | 140 | 19 | 0.8 | 6.7 | 0 | 0.7 | 0 | 120 g (1 cutie) | ω3, ca, vitD, b12 | [label](labels/fish-market-sardine-sos-tomate.md) |
