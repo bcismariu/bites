@@ -225,6 +225,7 @@ what matters, not the fat percentage.
 | Green beans, boiled, no oil | 33 | 1.8 | 7 | 0.2 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
+| Humus (Apetit, Mega Image) | 169 | 5.8 | 12.2 | 9.5 | 5.7 | 0.4 | 0 | 100 g | — | [label](labels/mega-image-apetit-humus.md) |
 | Hummus cu ceapă caramelizată (restaurant) | 197 | 7.6 | 18.0 | 11.1 | 5.9 | 3.9 | 0 | 140 g (1 bol) | iron, mg | estimate |
 | Fasole bătută cu ceapă caramelizată (restaurant) | 163 | 5.4 | 17.9 | 7.3 | 4.6 | 4.4 | 0 | 140 g (1 bol) | iron, mg | estimate |
 | Salmon, grilled | 208 | 20 | 0 | 13 | 0 | 0 | 0 | 150 g (1 file) | vitD, ω3, b12 | estimate |
