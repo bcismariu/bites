@@ -322,6 +322,7 @@ what matters, not the fat percentage.
 | Tomato, raw | 18 | 0.9 | 3.9 | 0.2 | 1.2 | 2.6 | 0 | 120 g (1 medium) | vitC | estimate |
 | Salată de roșii, castraveți și ceapă roșie (ulei puțin) | 32 | 0.8 | 4.2 | 1.7 | 1.1 | 2.5 | 0 | 200 g (1 bol) | vitC, k | estimate |
 | Tortilla chips, fried | 500 | 6.7 | 60 | 26.8 | 3.2 | 1.0 | 0 | 25 g | — | estimate |
+| Taralli multicereali (Tentazioni Pugliesi) | 430 | 11 | 63 | 14 | 6.0 | 1.4 | 0 | 30 g (o mână) | — | [label](labels/tentazioni-pugliesi-taralli-multicereali.md) |
 | Tort (felie, cremă) | 400 | 4.5 | 42 | 24 | 1.0 | 30 | 26 | 120 g (1 felie) | — | estimate |
 | Piftie de găină, de casă | 140 | 12 | 2.0 | 9.0 | 0 | 0 | 0 | 150 g (1 bucată) | b12, zn | estimate |
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
