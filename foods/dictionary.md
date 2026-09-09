@@ -182,6 +182,7 @@ what matters, not the fat percentage.
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
 | Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
 | Goffră din aluat de banana bread, fără zahăr (homemade) | 270 | 6.0 | 35 | 11 | 2.0 | 6.0 | 0 | 70 g (1 buc mică) | k | estimate |
+| Biscuite banana bread (comercial) | 460 | 5.0 | 60 | 22 | 2.0 | 28 | 20 | 30 g (1 buc) | — | estimate |
 | Kataif kashta (kunafa cu smântână, sirop) | 342 | 5.0 | 35 | 20.8 | 1.0 | 20.8 | 20 | 120 g (1 bucată) | — | estimate |
 | Clătită, plain | 215 | 6 | 28 | 8.5 | 1.0 | 3 | 1 | 60 g (1 buc) | — | estimate |
 | Cottage cheese (brânză de vaci) | 110 | 12 | 3.5 | 5.5 | 0 | 3.5 | 0 | 50 g | ca, b12 | estimate |
