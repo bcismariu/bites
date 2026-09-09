@@ -334,3 +334,5 @@ what matters, not the fat percentage.
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
 | Varză călită | 85 | 1.5 | 8.0 | 5.0 | 2.5 | 3.0 | 0 | 250 g | vitC, k | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
+| Mini ecler cu vanilie (cofetărie) | 350 | 5.0 | 35 | 20 | 0.5 | 20 | 16 | 30 g (1 buc) | — | estimate |
+| Macaron (cofetărie) | 420 | 6.0 | 58 | 18 | 2.0 | 50 | 45 | 10 g (1 buc) | — | estimate |
