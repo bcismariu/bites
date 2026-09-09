@@ -285,6 +285,7 @@ what matters, not the fat percentage.
 | Bulz ciobănesc (mămăligă cu brânză) | 155 | 4.5 | 18 | 7.5 | 0.8 | 0.5 | 0 | 300 g (1 porție) | ca | estimate |
 | Mămăligă (simplă, fără unt) | 85 | 2.0 | 18 | 0.5 | 1.0 | 0 | 0 | 220 g (1 porție) | — | estimate |
 | Mazăre cu carne de porc | 147 | 8.9 | 10.3 | 7.7 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
+| Mazăre cu carne de pui | 115 | 10.0 | 10.3 | 4.0 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Mazăre boabe, fiartă, simplă | 90 | 5.0 | 15 | 2.0 | 5.0 | 6.0 | 0 | 300 g (1 porție) | iron, k | estimate |
 | Gogonele murate (roșii verzi murate) | 18 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 150 g | — | estimate |
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
@@ -308,6 +309,7 @@ what matters, not the fat percentage.
 | Trout, cooked | 168 | 24 | 0 | 7.5 | 0 | 0 | 0 | 180 g (carne de la 1 păstrăv) | ω3, vitD, b12 | estimate |
 | Rice, white, cooked | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 180 g | — | estimate |
 | Ceafă de porc la grătar | 290 | 26 | 0 | 21 | 0 | 0 | 0 | 170 g (1 porție restaurant) | b12, zn | estimate |
+| Pulpă de pui dezosată, la grătar | 209 | 26 | 0 | 11 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Sarmăluțe în foi de viță (bufet eveniment) | 180 | 9 | 10 | 12 | 1.0 | 1.5 | 0 | 150 g (~5 buc mici) | — | estimate |
 | Smântână | 200 | 2.5 | 3.0 | 20 | 0 | 3.0 | 0 | 30 g (2 linguri) | — | estimate |
