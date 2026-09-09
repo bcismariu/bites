@@ -26,6 +26,9 @@ gets recorded here so it is never asked twice.
   cu 2–3 ore în urmă față de ora lui. Verifică întotdeauna cu
   `TZ=Europe/Bucharest date` înainte de a deduce masa după oră — ferestrele
   din `AGENTS.md` (10:30 / 15:00 / 18:00) sunt în ora locală.
+- **Piele de pui/pasăre**: de obicei o evită și o lasă în farfurie — dacă
+  apare pui cu piele într-o poză, presupune că nu e mâncată integral (doar
+  carnea), decât dacă spune explicit contrariul.
 - **Raportează în timp real** (confirmat 2026-08-19): ce spune că a mâncat sau
   a făcut, tocmai s-a întâmplat. Deci ceasul e o dovadă bună despre *când* —
   verifică-l de fiecare dată când contează (mese, antrenamente, saună), nu
