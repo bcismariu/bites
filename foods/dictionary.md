@@ -294,6 +294,7 @@ what matters, not the fat percentage.
 | Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
+| Coajă de psyllium | 300 | 0 | 88 | 0 | 85 | 0 | 0 | 10 g (1 linguriță) | — | estimate |
 | Dulceață de casă fără zahăr | 60 | 0.4 | 14 | 0.2 | 1.5 | 12 | 0 | 20 g (strat pe o felie) | — | estimate |
 | Zacuscă de vinete (homemade) | 100 | 1.8 | 8 | 7 | 3.0 | 4.5 | 0 | 30 g (strat pe o felie) | — | estimate |
 | Paste cu ton (conservă în ulei, scursă) | 148 | 10.2 | 14.7 | 3.3 | 0.8 | 0.7 | 0 | 300 g (1 porție) | ω3, b12 | estimate |
