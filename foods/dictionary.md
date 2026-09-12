@@ -263,6 +263,7 @@ what matters, not the fat percentage.
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
+| Mozzarella, bucățele (ciliegine) | 280 | 18 | 2.2 | 22 | 0 | 1.0 | 0 | 30 g (3 bucățele) | ca | estimate |
 | Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
 | Hot dog mare (crenvurst, chiflă, sos) | 256 | 8.9 | 22.6 | 14.3 | 0.6 | 4.1 | 1.8 | 190 g (1 buc mare) | — | estimate |
 | Salată de pui Dristor (bol) | 138 | 13.2 | 6.2 | 7.2 | 1.0 | 1.0 | 0 | 400 g (1 bol) | b12, zn, vitC | estimate |
