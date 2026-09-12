@@ -200,7 +200,7 @@ what matters, not the fat percentage.
 | Seared tuna salad (avocado, roșii, portocală, migdale, glazură balsamică) | 134 | 11.2 | 7.1 | 7.3 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, ω3 | estimate |
 | Salată cu ton, sos caesar (restaurant) | 180 | 9.0 | 8.0 | 13 | 1.5 | 2.0 | 0 | 300 g (1 porție) | b12 | estimate |
 | Supă cremă de roșii cu crutoane (restaurant) | 65 | 1.5 | 7.0 | 3.5 | 1.0 | 4.0 | 0 | 300 ml (1 bol) | vitC | estimate |
-| Focaccia (restaurant) | 290 | 8.0 | 45 | 8.0 | 2.0 | 2.0 | 0 | 50 g (1 felie) | — | estimate |
+| Focaccia (restaurant) | 290 | 8.0 | 45 | 8.0 | 2.0 | 2.0 | 0 | 17 g (1 felie triunghi mic, ~7-8 cm latură) | — | estimate |
 | Lemonade, restaurant, puțin zahăr | 20 | 0 | 5.0 | 0 | 0 | 4.5 | 4.5 | 400 ml (1 pahar) | — | estimate |
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
 | Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
