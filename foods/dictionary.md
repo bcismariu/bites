@@ -199,6 +199,8 @@ what matters, not the fat percentage.
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
 | Seared tuna salad (avocado, roșii, portocală, migdale, glazură balsamică) | 134 | 11.2 | 7.1 | 7.3 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, ω3 | estimate |
 | Salată cu ton, sos caesar (restaurant) | 180 | 9.0 | 8.0 | 13 | 1.5 | 2.0 | 0 | 300 g (1 porție) | b12 | estimate |
+| Fritto misto (restaurant) | 280 | 12 | 20 | 18 | 1.0 | 1.0 | 0 | 150 g (10 bucăți) | b12 | estimate |
+| Sweet chili sauce | 200 | 0.5 | 48 | 0 | 0.5 | 45 | 40 | 20 g (garnitură) | — | estimate |
 | Supă cremă de roșii cu crutoane (restaurant) | 65 | 1.5 | 7.0 | 3.5 | 1.0 | 4.0 | 0 | 300 ml (1 bol) | vitC | estimate |
 | Focaccia (restaurant) | 290 | 8.0 | 45 | 8.0 | 2.0 | 2.0 | 0 | 17 g (1 felie triunghi mic, ~7-8 cm latură) | — | estimate |
 | Lemonade, restaurant, puțin zahăr | 20 | 0 | 5.0 | 0 | 0 | 4.5 | 4.5 | 400 ml (1 pahar) | — | estimate |
