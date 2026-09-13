@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **80.80 kg** _(measured 2026-08-31, 05:46, morning, after the toilet)_ |
-| BMI | 23.1 — healthy range |
-| Body fat | **~22.2 %** _(bioimpedance scale, 2026-08-31)_ → fat ~17.9 kg, lean ~62.9 kg |
-| Muscle mass | **59.61 kg** _(2026-08-31)_ — the number to protect during the cut |
+| Weight | **79.00 kg** _(measured 2026-09-13, 08:44, morning, after the toilet)_ |
+| BMI | 22.6 — healthy range |
+| Body fat | **~21.5 %** _(bioimpedance scale, 2026-09-13)_ → fat ~16.99 kg, lean ~62.0 kg |
+| Muscle mass | **58.83 kg** _(2026-09-13)_ — down 0.78 kg since 08-31, see note below |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -55,6 +55,7 @@ is too aggressive or protein is too low.
 | 2026-08-15 | **80.85 kg** | 22.6 % | 59.34 kg | 11 | bioimpedance, 07:02 — **−0.15 kg in 6 days** |
 | 2026-08-24 | **81.20 kg** | 22.5 % | 59.68 kg | 11 | bioimpedance, 07:45 — **+0.35 kg în 9 zile**, la o zi după 3 zile de team building. Masa de grăsime calculată e neschimbată (18.27 kg în ambele măsurători); toată diferența e „lean". |
 | 2026-08-31 | **80.80 kg** | 22.2 % | 59.61 kg | 11 | bioimpedance, 05:46 — **−0.40 kg în 7 zile**, condiții curate. Masa de grăsime calculată: **17.94 kg (−0.33 kg)**. Mușchiul practic neschimbat (−0.07 kg, sub pragul de rezoluție BIA). |
+| 2026-09-13 | **79.00 kg** | 21.5 % | 58.83 kg | 11 | bioimpedance, 08:44 — **−1.80 kg în 13 zile**. Masa de grăsime calculată: **16.99 kg (−0.95 kg)**. **Mușchiul a scăzut 0.78 kg** — peste pragul de zgomot BIA (~0.1-0.2 kg), primul semnal real de pierdere musculară din tot cutul. Vezi analiza de mai jos. |
 
 ## Waist log
 
@@ -122,6 +123,33 @@ rezolva bioimpedanța (eroare ±3–5 puncte procentuale la grăsime), iar
 grăsimea viscerală răspunde în 8–12 săptămâni, nu în zile. **La magnitudinea
 asta, doar numărul de greutate poartă informație — și doar în condiții
 identice.**
+
+**31 august → 13 septembrie: prima scădere reală de mușchi din tot cutul.**
+Aport mediu pe cele 12 zile logate (1–12 sep): **1906 kcal/zi**, deficit
+~494/zi ≈ 5923 kcal ≈ **−0.77 kg de grăsime prezis**. Cântarul a arătat
+**−1.80 kg raw, −0.95 kg pe grăsimea calculată** — predicția și măsurătoarea
+sunt în aceeași zonă (diferența e în marja normală de eroare TDEE/BIA), deci
+partea de grăsime confirmă în continuare metoda.
+
+Diferența care contează: **mușchiul a scăzut de la 59.61 kg la 58.83 kg,
+−0.78 kg** — de 10x peste variațiile de 0.07 kg văzute până acum, deci nu
+mai poate fi pus pe seama zgomotului BIA. Conform regulii din acest fișier
+(*"if muscle mass falls with the fat, the deficit is too aggressive or
+protein is too low"*): deficitul mediu (494 kcal/zi) a fost aproape identic
+cu cel planificat (500), deci nu pare o problemă de agresivitate a
+deficitului. Explicația mai probabilă e **proteina cronic sub target** —
+media pe ambele săptămâni analizate (24 aug–7 sep, apoi 7–11 sep) a fost
+~105-108 g/zi, adică ~65% din ținta de 160 g, cu zile punctuale foarte slabe
+(2 septembrie: doar 59.6 g în toată ziua). Fără suficientă proteină și
+sinteză proteică susținută, o parte din deficit a "mușcat" din mușchi, nu
+doar din grăsime.
+
+**Nu e o urgență, dar e primul semnal clar de corectat**: ținta de 160 g
+proteină rămâne corectă (vezi discuția din conversație — nu e umflată "ca
+să fie sigur", e nivelul necesar pentru antrenament de forță în deficit);
+problema a fost execuția, nu targetul. Următoarea măsurătoare (după 2-3
+săptămâni cu proteina efectiv la target) va arăta dacă mușchiul se
+stabilizează.
 
 ## On the bioimpedance scale
 
