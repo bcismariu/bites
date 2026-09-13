@@ -144,12 +144,21 @@ media pe ambele săptămâni analizate (24 aug–7 sep, apoi 7–11 sep) a fost
 sinteză proteică susținută, o parte din deficit a "mușcat" din mușchi, nu
 doar din grăsime.
 
-**Nu e o urgență, dar e primul semnal clar de corectat**: ținta de 160 g
-proteină rămâne corectă (vezi discuția din conversație — nu e umflată "ca
-să fie sigur", e nivelul necesar pentru antrenament de forță în deficit);
-problema a fost execuția, nu targetul. Următoarea măsurătoare (după 2-3
-săptămâni cu proteina efectiv la target) va arăta dacă mușchiul se
-stabilizează.
+**A doua cauză, la fel de importantă: zero antrenament de forță în aceeași
+perioadă.** Ultima zi cu `## Activity` logată e 2026-08-31 — nicio ședință
+de sală în cele 13 zile de până la această măsurătoare. Fără stimulul de
+antrenament care să-i spună corpului "păstrează mușchiul ăsta, e folosit",
+proteina singură are mai puțin de lucru; cele două lipsuri se combină, nu
+acționează izolat. Regula din `preferences.md` (full-body 2×/săptămână) nu
+a fost respectată deloc în această fereastră.
+
+**Nu e o urgență, dar e primul semnal clar de corectat, pe două fronturi**:
+ținta de 160 g proteină rămâne corectă (vezi discuția din conversație — nu
+e umflată "ca să fie sigur", e nivelul necesar pentru antrenament de forță
+în deficit), iar rutina de sală rămâne cea din `preferences.md` — problema
+a fost execuția la ambele, nu targetul sau planul. Următoarea măsurătoare
+(după 2-3 săptămâni cu proteina la target **și** sala reluată la 2×/săpt.)
+va arăta dacă mușchiul se stabilizează.
 
 ## On the bioimpedance scale
 
