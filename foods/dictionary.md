@@ -166,6 +166,8 @@ what matters, not the fat percentage.
 | Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
 | Vegetables, grilled, light oil (ardei, dovlecel, vinete) | 49 | 1.5 | 6.0 | 2.3 | 2.25 | 3.5 | 0 | 200 g | vitC, k, mg | estimate |
+| Vegetables, la tigaie, fără ulei (ardei, dovlecel, ceapă) | 35 | 1.5 | 6.5 | 0.3 | 2.5 | 3.5 | 0 | 200 g | vitC, k | estimate |
+| Chicken breast, la tigaie, fără ulei | 165 | 31 | 0 | 3.6 | 0 | 0 | 0 | 180 g (1 piept) | b12, zn | estimate |
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Ciuperci champignon la cuptor (cu ulei) | 52 | 3.1 | 3.7 | 3.7 | 1.0 | 1.2 | 0 | 150 g | k | estimate |
