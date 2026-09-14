@@ -209,6 +209,7 @@ what matters, not the fat percentage.
 | Supă cremă de roșii cu crutoane (restaurant) | 65 | 1.5 | 7.0 | 3.5 | 1.0 | 4.0 | 0 | 300 ml (1 bol) | vitC | estimate |
 | Focaccia (restaurant) | 290 | 8.0 | 45 | 8.0 | 2.0 | 2.0 | 0 | 17 g (1 felie triunghi mic, ~7-8 cm latură) | — | estimate |
 | Lemonade, restaurant, puțin zahăr | 20 | 0 | 5.0 | 0 | 0 | 4.5 | 4.5 | 400 ml (1 pahar) | — | estimate |
+| Legume crude, mix (roșii, castraveți) | 20 | 1.0 | 4.0 | 0.2 | 1.2 | 2.5 | 0 | 100 g | vitC | estimate |
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
 | Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
 | Ton alb în suc propriu (Frinsa) | 142 | 29 | 0 | 2.9 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-alb-suc-propriu.md) |
