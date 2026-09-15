@@ -155,6 +155,7 @@ what matters, not the fat percentage.
 | Ardei capia, crud | 31 | 1.0 | 6.0 | 0.3 | 2.1 | 4.2 | 0 | 80 g (1 buc) | vitC | estimate |
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
 | Salam de biscuiți | 470 | 5.5 | 52 | 24 | 2.0 | 32 | 28 | 60 g (1 felie) | — | estimate |
+| Salam de biscuiți (mai gras, restaurant) | 490 | 5.0 | 48 | 30 | 2.0 | 30 | 26 | 60 g (1 felie subțire) | — | estimate |
 | Sardines in tomato sauce (Fish Market) | 140 | 19 | 0.8 | 6.7 | 0 | 0.7 | 0 | 120 g (1 cutie) | ω3, ca, vitD, b12 | [label](labels/fish-market-sardine-sos-tomate.md) |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Sfeclă roșie, fiartă, simplă | 44 | 1.7 | 10 | 0.2 | 2.0 | 7.0 | 0 | 150 g | iron, k | estimate |
