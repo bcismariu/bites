@@ -164,6 +164,7 @@ what matters, not the fat percentage.
 | Bread with potato (pâine cu cartofi) | 250 | 7 | 47 | 3.0 | 2.5 | 3 | 0 | 50 g (1 felie) | — | estimate |
 | Borș de văcuță (restaurant) | 65 | 5.0 | 3.4 | 3.3 | 0.55 | 1.1 | 0 | 400 ml (1 bol) | iron, k, b12, zn | estimate |
 | Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
+| Broccoli & cauliflower, la abur cu unt (restaurant) | 55 | 2.2 | 6.1 | 3.0 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
 | Vegetables, grilled, light oil (ardei, dovlecel, vinete) | 49 | 1.5 | 6.0 | 2.3 | 2.25 | 3.5 | 0 | 200 g | vitC, k, mg | estimate |
 | Vegetables, la tigaie, fără ulei (ardei, dovlecel, ceapă) | 35 | 1.5 | 6.5 | 0.3 | 2.5 | 3.5 | 0 | 200 g | vitC, k | estimate |
