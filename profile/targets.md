@@ -67,18 +67,18 @@ eating. Always measure at the same place.
 |---|---|---|---|
 | 2026-08-15 | **91 cm** | **0.487** | baseline, at the navel |
 | 2026-08-24 | **93 cm** | **0.497** | +2 cm în 9 zile — probabil aceeași contaminare ca la cântar (o zi după team building, sare și glicogen); de reconfirmat la remăsurătoarea din septembrie, nu tratată ca trend real |
+| 2026-09-16 | **90 cm** | **0.481** | prima remăsurătoare curată de la baseline — **−1 cm față de 15 august** (32 zile). Confirmă ipoteza: măsurătoarea de 93cm din 24 august a fost apă/glicogen, nu grăsime reală — talia a coborât sub baseline, nu doar s-a întors la ea. Progres real, consistent cu scăderea de grăsime de pe cântar. |
 
 Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
 increased. The simple rule is waist under half your height — 0.5 for 187 cm
 is 93.5 cm.
 
-**91 cm is inside both.** This is a direct measurement and a better proxy for
-visceral fat than the scale's computed index of 11, which is derived from
-impedance rather than measured. The two are not in real conflict: he is near
-the boundary, on the good side of it.
+**90 cm is inside both, and moving the right direction.** This is a direct
+measurement and a better proxy for visceral fat than the scale's computed
+index of 11, which is derived from impedance rather than measured.
 
 At the phase-1 target of ~73 kg the waist should land around 80–83 cm
-(ratio ~0.44). Re-measure monthly.
+(ratio ~0.44). Re-measure monthly — next due mid-October.
 
 ## Ce spun cele trei măsurători
 
