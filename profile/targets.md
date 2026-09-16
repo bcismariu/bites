@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **79.00 kg** _(measured 2026-09-13, 08:44, morning, after the toilet)_ |
-| BMI | 22.6 — healthy range |
-| Body fat | **~21.5 %** _(bioimpedance scale, 2026-09-13)_ → fat ~16.99 kg, lean ~62.0 kg |
-| Muscle mass | **58.83 kg** _(2026-09-13)_ — down 0.78 kg since 08-31, see note below |
+| Weight | **78.35 kg** _(measured 2026-09-16, 06:41, morning, after the toilet)_ |
+| BMI | 22.4 — healthy range |
+| Body fat | **~21.2 %** _(bioimpedance scale, 2026-09-16)_ → fat ~16.61 kg, lean ~61.7 kg |
+| Muscle mass | **58.53 kg** _(2026-09-16)_ — down another 0.30 kg since 09-13, see note below |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -56,6 +56,7 @@ is too aggressive or protein is too low.
 | 2026-08-24 | **81.20 kg** | 22.5 % | 59.68 kg | 11 | bioimpedance, 07:45 — **+0.35 kg în 9 zile**, la o zi după 3 zile de team building. Masa de grăsime calculată e neschimbată (18.27 kg în ambele măsurători); toată diferența e „lean". |
 | 2026-08-31 | **80.80 kg** | 22.2 % | 59.61 kg | 11 | bioimpedance, 05:46 — **−0.40 kg în 7 zile**, condiții curate. Masa de grăsime calculată: **17.94 kg (−0.33 kg)**. Mușchiul practic neschimbat (−0.07 kg, sub pragul de rezoluție BIA). |
 | 2026-09-13 | **79.00 kg** | 21.5 % | 58.83 kg | 11 | bioimpedance, 08:44 — **−1.80 kg în 13 zile**. Masa de grăsime calculată: **16.99 kg (−0.95 kg)**. **Mușchiul a scăzut 0.78 kg** — peste pragul de zgomot BIA (~0.1-0.2 kg), primul semnal real de pierdere musculară din tot cutul. Vezi analiza de mai jos. |
+| 2026-09-16 | **78.35 kg** | 21.2 % | 58.53 kg | 11 | bioimpedance, 06:41 — **−0.65 kg în 3 zile**. Masa de grăsime calculată: **16.61 kg (−0.38 kg)**. **Mușchiul a mai scăzut 0.30 kg** — proteina a fost corectată (134 g/zi medie), dar sala tot n-a fost reluată. Vezi analiza de mai jos. |
 
 ## Waist log
 
@@ -159,6 +160,24 @@ e umflată "ca să fie sigur", e nivelul necesar pentru antrenament de forță
 a fost execuția la ambele, nu targetul sau planul. Următoarea măsurătoare
 (după 2-3 săptămâni cu proteina la target **și** sala reluată la 2×/săpt.)
 va arăta dacă mușchiul se stabilizează.
+
+**13 → 16 septembrie: proteina s-a corectat, mușchiul a continuat totuși să
+scadă — confirmă a doua cauză.** Medie proteină pe cele 3 zile (13-15 sep):
+**134.2 g/zi**, un salt clar față de ~101-113 g/zi din fereastra anterioară
+— proteina a fost efectiv corectată. Cu toate astea, **mușchiul a mai
+scăzut 0.30 kg în doar 3 zile**, iar sala tot nu a fost reluată (zero zile
+cu `## Activity` logată). Fereastra e scurtă (3 zile), deci o parte din
+cifră poate fi zgomot BIA/hidratare, dar direcția — scădere în continuare,
+chiar cu proteina bună — e exact ce prezice ipoteza „lipsă de antrenament":
+proteina singură nu oprește pierderea de mușchi fără stimulul de
+antrenament care să-i spună corpului să-l păstreze. Partea de grăsime a
+continuat normal: −0.38 kg în 3 zile, consistentă cu aportul mediu de
+~1732 kcal/zi (deficit ~668/zi ≈ 2004 kcal ≈ −0.26 kg prezis — apropiat,
+diferența probabil hidratare).
+
+**Concluzie practică, actualizată**: proteina nu mai e variabila de
+corectat — următorul pas obligatoriu e reluarea sălii, altfel tiparul de
+pierdere musculară continuă indiferent cât de bine stă proteina.
 
 ## On the bioimpedance scale
 
