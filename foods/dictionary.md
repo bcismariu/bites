@@ -197,6 +197,7 @@ what matters, not the fat percentage.
 | Snack de carne (produs neidentificat, pungă 150 g) | 217 | 10 | 21 | 10.3 | 0 | 0.17 | 0 | 150 g (1 pungă) | — | [label](labels/snack-carne-neidentificat.md) |
 | Rice, steamed, plain | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 200 g (1 porție) | — | estimate |
 | Chicken, roasted, with skin | 215 | 24 | 0 | 13 | 0 | 0 | 0 | 180 g (meat off a leg quarter) | b12, zn | estimate |
+| Tartă/plăcintă cu pui și ceapă caramelizată (restaurant) | 260 | 9.0 | 22 | 15 | 1.0 | 5.0 | 0 | 200 g (1 porție) | b12 | estimate |
 | Chia seeds (Solaris) | 490 | 15.6 | 6.1 | 30.8 | 37.7 | 0 | 0 | 20 g (1 lingură) | mg, ca, ω3 | [label](labels/solaris-seminte-chia.md) |
 | Chicken breast, grilled (restaurant) | 180 | 31 | 0 | 5.5 | 0 | 0 | 0 | 130 g (1 porție) | b12, zn | estimate |
 | Chicken skewer (frigăruie) | 180 | 26 | 0 | 8.0 | 0 | 0 | 0 | 120 g | b12, zn | estimate |
