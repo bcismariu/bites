@@ -14,6 +14,10 @@ gets recorded here so it is never asked twice.
 
 ## Habits & routine
 
+- **Yogurt always comes with bread** — doesn't eat yogurt on its own, so a
+  suggestion of "just the yogurt" to save carbs isn't a workable option;
+  it's both together or neither (confirmed 2026-09-19).
+
 - Desk job, seated most of the day.
 - Weekday food context: no cooking possible at the office (can wash fruit at
   most). Lunch is either the nearby restaurant with cooked food, or
