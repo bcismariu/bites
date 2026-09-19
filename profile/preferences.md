@@ -83,6 +83,13 @@ unusually long. Its calorie burn is noise (~1.6 kcal/min) — it is logged
 only because heat exposure in the evening is a plausible variable in the
 sleep analysis.
 
+## Reporting style
+
+- **Chat replies after logging a meal/day: use a table** for the numbers
+  (what was logged, day totals vs. targets) instead of prose — confirmed
+  2026-09-19. This is about the chat reply, not the day-file format (which
+  was already tabular).
+
 ## Report exceptions, not routine
 
 Anything stable enough to live in this file does not need reporting every
