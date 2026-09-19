@@ -147,6 +147,7 @@ what matters, not the fat percentage.
 | Bar, vegetable protein & coffee, 40 g | 366 | 23.6 | 26.3 | 16.3 | 20.1 | 1.2 | 0 | 40 g (1 baton) | — | [label](labels/baton-proteine-vegetale-cafea.md) |
 | Anchovies, fried whole (hamsii) | 265 | 20 | 3.0 | 18 | 0 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
+| Burger de vită, cu cheese și sos (restaurant) | 252 | 13.7 | 14.1 | 14.8 | 0.7 | 2.2 | 1.2 | 270 g (1 burger) | b12, zn | estimate |
 | Coke zero zero | 0.2 | 0 | 0 | 0 | 0 | 0 | 0 | 330 ml (1 doză) | — | [label](labels/coca-cola-zero-zero.md) |
 | Mix aperitive (crackere și covrigei sărați, restaurant) | 460 | 9.0 | 64 | 18 | 2.0 | 2.0 | 0 | 70 g (1 bol) | — | estimate |
 | Hugo, fără alcool (soc, sifon, mentă, lime, gheață) | 44 | 0 | 11.0 | 0 | 0 | 11.0 | 11.0 | 200 ml (1 pahar, cu gheață) | — | estimate |
@@ -278,6 +279,7 @@ what matters, not the fat percentage.
 | Pui la grătar (bufet eveniment) | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 150 g (1 pulpă/piept) | b12, zn | estimate |
 | Costiță de porc la grătar | 320 | 20 | 0 | 26 | 0 | 0 | 0 | 150 g (1 porție) | b12, zn | estimate |
 | Cartofi copți/prăjiți (garnitură bufet) | 140 | 2.0 | 20 | 5.0 | 2.0 | 1.0 | 0 | 150 g | — | estimate |
+| Cartofi prăjiți cu parmezan (restaurant) | 308 | 6.0 | 35.4 | 15.2 | 2.8 | 0.5 | 0 | 195 g (1 porție) | ca | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
