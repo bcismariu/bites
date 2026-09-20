@@ -44,20 +44,23 @@ gets recorded here so it is never asked twice.
 Full-body on machines, 2× per week, ~40 min. "My usual workout" means this.
 The two pulling exercises are the priority — they counteract the desk job.
 
-| # | Exercise | Sets × reps | Working weight (2026-08-19) | Next |
+| # | Exercise | Sets × reps | Working weight (2026-09-20) | Next |
 |---|---|---|---|---|
 | 0 | Treadmill warm-up, 8.8 km/h, no incline | 5 min | — | — |
-| 1 | Leg press, seated | 3 × 12 | **70 kg** | 77 kg — dublat în 3 săptămâni, încă urcă curat |
-| 2 | Chest press, seated | 3 × 12 | **35 kg** | hold — RIR 0–1 după 2 ședințe |
-| 3 | **Seated row, dual pulley** | 3 × 12 | **23.5 kg** | hold — urcare de 17.5 % pe 08-19 |
+| 1 | Leg press, seated | 3 × 12 | **70 kg** | 77 kg — ținut conservator la revenire, ieșit curat |
+| 2 | Chest press, seated | 3 × 12 | **35 kg** | hold — ieșit curat la revenire |
+| 3 | **Seated row, dual pulley** | 3 × 12 | **23.5 kg** | hold — ieșit curat la revenire |
 | 4 | **Lat pulldown** | 3 × 12 | **16.5 kg** | 18 kg dacă există pe placă; altfel 16.5 × 14 rep |
-| 5 | Shoulder press | 3 × 12 | **10 kg** | hold până iese 3 × 12 curat |
-| 6 | Plank | 3 × 50 sec | — | 3 × 50 fără cedare pe ultima |
+| 5 | Shoulder press | 3 × 12 | **10 kg** | hold — ieșit curat la revenire |
+| 6 | Plank | 3 × 50 sec | — sărit pe 09-20 | reluat, 3 × 50 fără cedare pe ultima |
 
 _Progression: session 1 (08-08) 35 / 25 / 16.5 / 13 / 5 kg, 3 × 30 sec →
 session 2 (08-11) 55 / 35 / 20 / 16.5 / 7.5 kg, 3 × 40 sec →
 session 3 (08-14) 63 / 35 / 20 / 20 / 7.5 kg, 3 × 45 sec →
-session 4 (08-19) 70 / 35 / 23.5 / 16.5 / 10 kg, 50+50+40 sec._
+session 4 (08-19) 70 / 35 / 23.5 / 16.5 / 10 kg, 50+50+40 sec →
+**pauză de 3 săptămâni, fără antrenament** →
+session 5 (09-20) 70 / 35 / 23.5 / 16.5 / 10 kg, toate 3 × 12 curat, plank sărit —
+greutăți ținute voit conservator la revenire, nu s-a încercat urcarea._
 
 **Pașii aparatelor:** seated row urcă 20 → **23.5** (nu 22.5). Nu prescrie
 greutăți care nu există pe placă.
