@@ -315,6 +315,8 @@ what matters, not the fat percentage.
 | Mazăre boabe, fiartă, simplă | 90 | 5.0 | 15 | 2.0 | 5.0 | 6.0 | 0 | 300 g (1 porție) | iron, k | estimate |
 | Gogonele murate (roșii verzi murate) | 18 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 150 g | — | estimate |
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
+| Piept de pui la tigaie cu sparanghel, mozzarella și cheddar (restaurant) | 164 | 21.5 | 1.1 | 8.3 | 0.6 | 0.5 | 0 | 335 g (1 porție) | b12, zn, ca | estimate |
+| Salată de rucola cu roșii cherry și glazură de balsamic (restaurant) | 54 | 1.5 | 11.1 | 0.4 | 1.2 | 9.8 | 4.3 | 35 g (garnitură) | vitC | estimate |
 | Mâncare de năut cu piept de pui (cartof, dovlecel, roșii, puțin ulei) | 99 | 9.2 | 9.6 | 2.5 | 2.2 | 1.4 | 0 | 415 g (1 porție) | iron, b12, zn, k | estimate |
 | Musaca de casă (pui, puțin ulei) | 130 | 8.0 | 13 | 5.0 | 1.5 | 2.0 | 0 | 350 g (1 porție) | b12, zn | estimate |
 | Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
