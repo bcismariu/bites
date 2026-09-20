@@ -293,6 +293,8 @@ what matters, not the fat percentage.
 | OSHEE Multifruit, izotonică | 18 | 0 | 4.1 | 0 | 0 | 4.0 | 4.0 | 750 ml (1 sticlă) | — | [label](labels/oshee-multifruit-izotonic.md) |
 | OSHEE baton cu arahide, fistic și ciocolată neagră | 551 | 22.1 | 17.4 | 43.7 | 6.8 | 7.4 | 7.0 | 40 g (1 baton) | mg | [label](labels/oshee-baton-arahide-fistic-ciocolata.md) |
 | Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
+| Sandviș IKEA cu ou ochi, mezeluri și chiflă, cu puțin sos | 241 | 10.2 | 23.3 | 11.8 | 0.8 | 2.3 | 0.4 | 165 g (1 sandviș) | b12 | estimate |
+| Prăjitură tip cheesecake, puțin dulce (necunoscută) | 370 | 6.0 | 29.0 | 25.0 | 0.5 | 19.0 | 16.0 | 85 g (1 bucată) | ca | estimate |
 | Ciuperci gratinate cu brânză | 160 | 8.0 | 4.0 | 12.0 | 1.5 | 1.0 | 0 | 120 g (porție bufet) | — | estimate |
 | Pâine albă (bufet eveniment) | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 60 g (~1.5 felii) | — | estimate |
 | Omelette, plain, no oil | 155 | 13 | 1.1 | 11 | 0 | 1.1 | 0 | 120 g (2 eggs) | b12, vitD | estimate |
