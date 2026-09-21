@@ -320,6 +320,7 @@ what matters, not the fat percentage.
 | Piept de pui la tigaie cu sparanghel, mozzarella și cheddar (restaurant) | 164 | 21.5 | 1.1 | 8.3 | 0.6 | 0.5 | 0 | 335 g (1 porție) | b12, zn, ca | estimate |
 | Salată de rucola cu roșii cherry și glazură de balsamic (restaurant) | 54 | 1.5 | 11.1 | 0.4 | 1.2 | 9.8 | 4.3 | 35 g (garnitură) | vitC | estimate |
 | Mâncare de năut cu piept de pui (cartof, dovlecel, roșii, puțin ulei) | 99 | 9.2 | 9.6 | 2.5 | 2.2 | 1.4 | 0 | 415 g (1 porție) | iron, b12, zn, k | estimate |
+| Mâncare de năut cu somon (cartof, dovlecel, spanac, roșii, puțin ulei) | 104 | 6.7 | 9.3 | 4.4 | 2.2 | 1.3 | 0 | 435 g (1 porție) | ω3, vitD, b12, iron, k | estimate |
 | Musaca de casă (pui, puțin ulei) | 130 | 8.0 | 13 | 5.0 | 1.5 | 2.0 | 0 | 350 g (1 porție) | b12, zn | estimate |
 | Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
