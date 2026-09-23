@@ -184,6 +184,7 @@ what matters, not the fat percentage.
 | Peach (piersică) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 150 g (1 medie) | vitC, k | estimate |
 | Peach, flat (piersică plată) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 120 g (1 buc) | vitC | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
+| Brânză feta la cuptor, cu puțin ulei | 297 | 13.5 | 3.9 | 25.1 | 0 | 3.9 | 0 | 95 g (porție) | ca | estimate |
 | Ciorbă de ciolan cu tarhon (cu smântână/ou) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
