@@ -184,7 +184,6 @@ what matters, not the fat percentage.
 | Peach (piersică) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 150 g (1 medie) | vitC, k | estimate |
 | Peach, flat (piersică plată) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 120 g (1 buc) | vitC | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
-| Brânză feta la cuptor, cu puțin ulei | 297 | 13.5 | 3.9 | 25.1 | 0 | 3.9 | 0 | 95 g (porție) | ca | estimate |
 | Ciorbă de ciolan cu tarhon (cu smântână/ou) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
@@ -248,6 +247,7 @@ what matters, not the fat percentage.
 | Green beans, boiled, no oil | 33 | 1.8 | 7 | 0.2 | 3.2 | 2.3 | 0 | 175 g | vitC | estimate |
 | Hot pepper, raw | 40 | 1.9 | 9 | 0.4 | 1.5 | 5 | 0 | 15 g | vitC | estimate |
 | Hummus | 166 | 7.9 | 14 | 9.6 | 6.0 | 0.3 | 0 | 100 g | iron, mg | estimate |
+| Hummus de conopidă | 110 | 3.2 | 7.0 | 8.0 | 3.5 | 2.0 | 0 | 100 g | vitC | estimate |
 | Hummus cu rodie, pătrunjel și ulei de măsline (restaurant) | 191 | 7.3 | 13.7 | 12.5 | 5.7 | 1.0 | 0 | 198 g (1 bol) | iron, mg, vitC | estimate |
 | Humus (Apetit, Mega Image) | 169 | 5.8 | 12.2 | 9.5 | 5.7 | 0.4 | 0 | 100 g | — | [label](labels/mega-image-apetit-humus.md) |
 | Hummus cu ceapă caramelizată (restaurant) | 197 | 7.6 | 18.0 | 11.1 | 5.9 | 3.9 | 0 | 140 g (1 bol) | iron, mg | estimate |
@@ -332,6 +332,7 @@ what matters, not the fat percentage.
 | Dulceață de casă fără zahăr | 60 | 0.4 | 14 | 0.2 | 1.5 | 12 | 0 | 20 g (strat pe o felie) | — | estimate |
 | Zacuscă de vinete (homemade) | 100 | 1.8 | 8 | 7 | 3.0 | 4.5 | 0 | 30 g (strat pe o felie) | — | estimate |
 | Paste cu ton (conservă în ulei, scursă) | 148 | 10.2 | 14.7 | 3.3 | 0.8 | 0.7 | 0 | 300 g (1 porție) | ω3, b12 | estimate |
+| Paste cu brânză (cașcaval) | 188 | 6.3 | 22.9 | 7.3 | 0.3 | 0.3 | 0 | 185 g (porție) | ca | estimate |
 | Pilaf cu legume | 145 | 3.0 | 24 | 4.5 | 1.5 | 1.0 | 0 | 200 g | k | estimate |
 | Lasagna (carne, béchamel, cașcaval) | 165 | 9.0 | 13 | 8.4 | 1.0 | 2.5 | 0.3 | 350 g (1 porție) | iron, ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
