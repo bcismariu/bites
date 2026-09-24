@@ -223,6 +223,7 @@ what matters, not the fat percentage.
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
 | Mâncare de ficăței de pui (cu ardei, roșii) | 151 | 17.0 | 5.3 | 7.0 | 0.7 | 2.0 | 0 | 150 g (porție) | iron, b12, vitC, zn | estimate |
 | Tocană de vinete cu ardei | 105 | 2.0 | 8.0 | 7.5 | 2.8 | 4.5 | 0 | 150 g (garnitură) | vitC, k | estimate |
+| Tocăniță de carne cu ciuperci și ardei (sos de roșii) | 130 | 10 | 6.0 | 7.0 | 1.5 | 3.0 | 0 | 250 g (1 porție) | iron, zn, b12, vitC | estimate |
 | Chicken drumstick, roasted, skin-on | 205 | 24 | 0 | 12 | 0 | 0 | 0 | 130 g (1 pulpă) | b12, zn | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
