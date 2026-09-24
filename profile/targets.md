@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **78.05 kg** _(measured 2026-09-18, 07:12, morning, after the toilet)_ |
-| BMI | 22.3 — healthy range |
-| Body fat | **~21.2 %** _(bioimpedance scale, 2026-09-18)_ → fat ~16.55 kg, lean ~61.5 kg |
-| Muscle mass | **58.33 kg** _(2026-09-18)_ — down another 0.20 kg since 09-16; third consecutive drop, see note below |
+| Weight | **78.40 kg** _(measured 2026-09-24, 07:36, morning)_ |
+| BMI | 22.4 — healthy range |
+| Body fat | **~21.1 %** _(bioimpedance scale, 2026-09-24)_ → fat ~16.54 kg, lean ~61.86 kg |
+| Muscle mass | **58.67 kg** _(2026-09-24)_ — **up 0.34 kg since 09-18, first increase after three straight drops**, see note below |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -58,6 +58,7 @@ is too aggressive or protein is too low.
 | 2026-09-13 | **79.00 kg** | 21.5 % | 58.83 kg | 11 | bioimpedance, 08:44 — **−1.80 kg în 13 zile**. Masa de grăsime calculată: **16.99 kg (−0.95 kg)**. **Mușchiul a scăzut 0.78 kg** — peste pragul de zgomot BIA (~0.1-0.2 kg), primul semnal real de pierdere musculară din tot cutul. Vezi analiza de mai jos. |
 | 2026-09-16 | **78.35 kg** | 21.2 % | 58.53 kg | 11 | bioimpedance, 06:41 — **−0.65 kg în 3 zile**. Masa de grăsime calculată: **16.61 kg (−0.38 kg)**. **Mușchiul a mai scăzut 0.30 kg** — proteina a fost corectată (134 g/zi medie), dar sala tot n-a fost reluată. Vezi analiza de mai jos. |
 | 2026-09-18 | **78.05 kg** | 21.2 % | 58.33 kg | 11 | bioimpedance, 07:12 — **−0.30 kg în 2 zile**. Masa de grăsime calculată: **16.55 kg (−0.06 kg, practic neschimbată — normal pe fereastră de 2 zile)**. **Mușchiul a mai scăzut 0.20 kg — a treia scădere consecutivă.** Sala tot nu a fost reluată (zero `## Activity` din 08-31 încoace). Vezi analiza de mai jos. |
+| 2026-09-24 | **78.40 kg** | 21.1 % | 58.67 kg | 11 | bioimpedance, 07:36 — **+0.35 kg în 6 zile**. Masa de grăsime calculată: **16.54 kg (−0.01 kg, practic neschimbată)**. **Mușchiul a crescut 0.34 kg — prima creștere după trei scăderi consecutive.** Prima măsurătoare de după reluarea sălii pe 09-20 (prima ședință din ultimele 3 săptămâni). Vezi analiza de mai jos. |
 
 ## Waist log
 
@@ -191,6 +192,21 @@ rămasă neschimbată în tot intervalul e sala: zero zile de antrenament
 logat din 31 august. Nu mai e nevoie de altă măsurătoare ca să confirme
 ipoteza — dovada e deja suficientă. Reluarea antrenamentului de forță nu
 mai e opțională dacă obiectivul de păstrare a mușchiului contează.
+
+**18 → 24 septembrie: prima creștere de mușchi din tot cutul, chiar după
+o singură ședință.** Mușchi 58.33 kg → 58.67 kg, **+0.34 kg în 6 zile** —
+inversează direct seria de trei scăderi consecutive (13, 16, 18 sept).
+Singura schimbare reală față de fereastra anterioară: ședința de sală din
+2026-09-20, prima după 3 săptămâni de pauză, cu greutăți ținute voit
+conservator. Grăsimea a stat practic pe loc (16.55 kg → 16.54 kg,
+−0.01 kg) — normal, o singură ședință nu produce recompoziție vizibilă
+în 4 zile, dar confirmă că variația de mușchi nu vine din pierdere de
+grăsime mascată. E o singură măsurătoare, deci nu schimbă concluzia în
+sine, dar e exact rezultatul pe care îl prezicea ipoteza: proteina bună +
+antrenament de forță oprește (și aici pare să inverseze ușor) tiparul de
+pierdere musculară, în timp ce proteina bună fără antrenament (fereastra
+13→18 sept) nu a fost suficientă. Următoarea măsurătoare curată va arăta
+dacă tendința se confirmă cu o a doua ședință de sală la mijloc.
 
 ## On the bioimpedance scale
 
