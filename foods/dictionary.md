@@ -380,3 +380,5 @@ what matters, not the fat percentage.
 | Budincă de ovăz cu lapte de migdale (blender, fără zahăr) | 90 | 3.5 | 14 | 2.5 | 2.0 | 1.0 | 0 | 250 g (1 porție) | — | estimate |
 | Mini ecler cu vanilie (cofetărie) | 350 | 5.0 | 35 | 20 | 0.5 | 20 | 16 | 30 g (1 buc) | — | estimate |
 | Macaron (cofetărie) | 420 | 6.0 | 58 | 18 | 2.0 | 50 | 45 | 10 g (1 buc) | — | estimate |
+| Pui înăbușit cu sos (paprika/roșii) | 220 | 20 | 5.0 | 14 | 0.5 | 3.0 | 0 | 150 g (porție) | b12, zn | estimate |
+| Cartofi fierți, simpli (cu mărar) | 85 | 2.0 | 20 | 0.1 | 1.8 | 1.0 | 0 | 150 g (porție) | — | estimate |
