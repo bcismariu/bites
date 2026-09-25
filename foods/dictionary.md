@@ -382,3 +382,4 @@ what matters, not the fat percentage.
 | Macaron (cofetărie) | 420 | 6.0 | 58 | 18 | 2.0 | 50 | 45 | 10 g (1 buc) | — | estimate |
 | Chiftelute de pui cu sos, homemade | 180 | 18 | 6.0 | 9.0 | 0.5 | 3.0 | 0 | 150 g (porție) | b12, zn | estimate |
 | Cartofi fierți, simpli (cu mărar) | 85 | 2.0 | 20 | 0.1 | 1.8 | 1.0 | 0 | 150 g (porție) | — | estimate |
+| Biscuiți/covrigei cu brânză și rozmarin | 383 | 10.9 | 67.2 | 7.0 | 3.9 | 3.0 | 0 | 55 g (1 porție) | — | [label](labels/biscuiti-branza-rozmarin.md) |
