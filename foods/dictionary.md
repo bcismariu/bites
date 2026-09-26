@@ -385,3 +385,4 @@ what matters, not the fat percentage.
 | Biscuiți/covrigei cu brânză și rozmarin | 383 | 10.9 | 67.2 | 7.0 | 3.9 | 3.0 | 0 | 55 g (1 porție) | — | [label](labels/biscuiti-branza-rozmarin.md) |
 | Gulie, crudă | 27 | 1.7 | 6.2 | 0.1 | 3.6 | 2.6 | 0 | 100 g | vitC | estimate |
 | Gofră homemade (simplă) | 250 | 6.0 | 30 | 11 | 1.5 | 5.0 | 0 | 70 g (1 buc) | — | estimate |
+| Mix semințe Solaris (floarea-soarelui, tărâțe grâu, muștar, soia, nuci, susan) | 380 | 12.4 | 68 | 4.6 | 8.4 | 5.1 | 0 | ~20 g (garnitură) | — | [label](labels/mix-seminte-solaris.md) |
