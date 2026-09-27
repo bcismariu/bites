@@ -288,6 +288,7 @@ what matters, not the fat percentage.
 | Costiță de porc la grătar | 320 | 20 | 0 | 26 | 0 | 0 | 0 | 150 g (1 porție) | b12, zn | estimate |
 | Cartofi copți/prăjiți (garnitură bufet) | 140 | 2.0 | 20 | 5.0 | 2.0 | 1.0 | 0 | 150 g | — | estimate |
 | Cartofi prăjiți cu parmezan (restaurant) | 308 | 6.0 | 35.4 | 15.2 | 2.8 | 0.5 | 0 | 195 g (1 porție) | ca | estimate |
+| Cartofi prăjiți, tăiați gros (cartofi țărănești, restaurant) (est.) | 200 | 3.0 | 28.0 | 8.5 | 2.8 | 1.0 | 0 | 300 g (1 porție) | — | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
 | Chiftea de pui, homemade, coaptă/la abur (fără ulei) | 180 | 20.0 | 4.0 | 9.0 | 0.3 | 0.5 | 0 | 80 g (1 buc) | b12, zn | estimate |
