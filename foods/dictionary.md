@@ -280,6 +280,8 @@ what matters, not the fat percentage.
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
 | Gogoașă (cu zahăr) | 340 | 5.0 | 41 | 17 | 1.2 | 15 | 12 | 80 g (1 buc) | — | estimate |
 | Înghețată la vafă, vanilie (50 g) | 198 | 2.8 | 27.9 | 8.3 | 0.2 | 20.8 | 17 | 50 g (1 buc) | — | [label](labels/inghetata-vafa-vanilie-50g.md) |
+| Înghețată Betty Blue, cupă mică, vanilie (est.) | 200 | 3.5 | 23.0 | 11.0 | 0 | 21.0 | 18.0 | 60 g (1 cupă, 100 ml) | — | estimate |
+| Înghețată Betty Blue, cupă mică, twister (est.) | 190 | 3.0 | 26.0 | 8.0 | 0.2 | 23.0 | 20.0 | 60 g (1 cupă, 100 ml) | — | estimate |
 | Mustard, plain (muștar) | 66 | 4.0 | 6.0 | 3.3 | 3.3 | 3.0 | 2.0 | 20 g | — | estimate |
 | Mustard, sweet (muștar dulce) | 130 | 4.0 | 15 | 6.0 | 0.8 | 10 | 8.0 | 30 g | — | estimate |
 | Coleslaw (varză și morcov) | 95 | 1.0 | 8.0 | 6.5 | 1.8 | 5.0 | 0 | 150 g | vitC | estimate |
