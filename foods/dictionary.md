@@ -175,6 +175,7 @@ what matters, not the fat percentage.
 | Carrot, raw | 41 | 0.9 | 9.6 | 0.2 | 2.8 | 4.7 | 0 | 60 g (1 small) | — | estimate |
 | Cheese, cașcaval | 360 | 25 | 1 | 28 | 0 | 1 | 0 | 40 g (2 felii) | ca | estimate |
 | Ciuperci champignon la cuptor (cu ulei) | 52 | 3.1 | 3.7 | 3.7 | 1.0 | 1.2 | 0 | 150 g | k | estimate |
+| Ciuperci portobello, la grătar (est.) | 52 | 3.1 | 3.7 | 3.7 | 1.0 | 1.2 | 0 | 80 g (2 buc) | k | estimate |
 | Castravete murat | 11 | 0.5 | 2.2 | 0.1 | 0.7 | 1.1 | 0 | 100 g (1 buc) | — | estimate |
 | Covrig cu semințe de floarea-soarelui | 330 | 11.5 | 45 | 12 | 3.5 | 2.0 | 0 | 130 g (1 covrig mare) | mg | estimate |
 | Covrig simplu (cu ou) | 300 | 10 | 59 | 3.1 | 2.0 | 2.0 | 0 | 80 g (1 buc) | — | estimate |
@@ -315,6 +316,7 @@ what matters, not the fat percentage.
 | Cantaloupe (pepene galben) | 34 | 0.8 | 8.0 | 0.2 | 0.9 | 7.9 | 0 | 150 g | vitC, k | estimate |
 | Watermelon (pepene roșu) | 30 | 0.6 | 7.6 | 0.2 | 0.4 | 6.2 | 0 | 200 g (1 felie) | vitC, k | estimate |
 | Onion, red, raw (ceapă roșie) | 40 | 1.1 | 9.3 | 0.1 | 1.7 | 4.2 | 0 | 30 g (1/4 ceapă) | — | estimate |
+| Ceapă roșie, la grătar (est.) | 48 | 1.3 | 11.0 | 0.1 | 2.0 | 5.0 | 0 | 40 g (2 felii) | — | estimate |
 | Pastramă de oaie, la grătar | 230 | 25 | 0.5 | 14 | 0 | 0 | 0 | 120 g (câteva bucăți) | iron, b12, zn | estimate |
 | Pate de ficat de pui, homemade | 290 | 13 | 2 | 25 | 0.2 | 1 | 0 | 25 g (strat pe o felie) | iron, b12 | estimate |
 | Bulz ciobănesc (mămăligă cu brânză) | 155 | 4.5 | 18 | 7.5 | 0.8 | 0.5 | 0 | 300 g (1 porție) | ca | estimate |
@@ -326,6 +328,7 @@ what matters, not the fat percentage.
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
 | Piept de pui la tigaie cu sparanghel, mozzarella și cheddar (restaurant) | 164 | 21.5 | 1.1 | 8.3 | 0.6 | 0.5 | 0 | 335 g (1 porție) | b12, zn, ca | estimate |
 | Salată de rucola cu roșii cherry și glazură de balsamic (restaurant) | 54 | 1.5 | 11.1 | 0.4 | 1.2 | 9.8 | 4.3 | 35 g (garnitură) | vitC | estimate |
+| Glazură de balsamic (reducție dulce-acrișoară) (est.) | 250 | 0.5 | 60.0 | 0 | 0 | 55.0 | 30.0 | 10 g (drizzle) | — | estimate |
 | Mâncare de năut cu piept de pui (cartof, dovlecel, roșii, puțin ulei) | 99 | 9.2 | 9.6 | 2.5 | 2.2 | 1.4 | 0 | 415 g (1 porție) | iron, b12, zn, k | estimate |
 | Mâncare de năut cu piept de pui și spanac (cartof, dovlecel, roșii, puțin ulei) | 96 | 9.0 | 9.3 | 2.4 | 2.2 | 1.3 | 0 | 435 g (1 porție) | iron, b12, zn, k | estimate |
 | Musaca de casă (pui, puțin ulei) | 130 | 8.0 | 13 | 5.0 | 1.5 | 2.0 | 0 | 350 g (1 porție) | b12, zn | estimate |
