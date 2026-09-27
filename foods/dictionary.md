@@ -337,6 +337,7 @@ what matters, not the fat percentage.
 | Zacuscă de vinete (homemade) | 100 | 1.8 | 8 | 7 | 3.0 | 4.5 | 0 | 30 g (strat pe o felie) | — | estimate |
 | Paste cu ton (conservă în ulei, scursă) | 148 | 10.2 | 14.7 | 3.3 | 0.8 | 0.7 | 0 | 300 g (1 porție) | ω3, b12 | estimate |
 | Paste cu brânză (cașcaval) | 188 | 6.3 | 22.9 | 7.3 | 0.3 | 0.3 | 0 | 185 g (porție) | ca | estimate |
+| Macaroane cu brânză, la cuptor (budincă, cu ou) (est.) | 190 | 8.5 | 18.0 | 9.0 | 1.2 | 1.5 | 0 | ~220 g (o bucată) | ca, b12 | estimate |
 | Pilaf cu legume | 145 | 3.0 | 24 | 4.5 | 1.5 | 1.0 | 0 | 200 g | k | estimate |
 | Lasagna (carne, béchamel, cașcaval) | 165 | 9.0 | 13 | 8.4 | 1.0 | 2.5 | 0.3 | 350 g (1 porție) | iron, ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
