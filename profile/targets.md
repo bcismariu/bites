@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **78.40 kg** _(measured 2026-09-24, 07:36, morning)_ |
-| BMI | 22.4 — healthy range |
-| Body fat | **~21.1 %** _(bioimpedance scale, 2026-09-24)_ → fat ~16.54 kg, lean ~61.86 kg |
-| Muscle mass | **58.67 kg** _(2026-09-24)_ — **up 0.34 kg since 09-18, first increase after three straight drops**, see note below |
+| Weight | **78.90 kg** _(measured 2026-09-28, 05:23, morning)_ |
+| BMI | 22.6 — healthy range |
+| Body fat | **~21.1 %** _(bioimpedance scale, 2026-09-28)_ → fat ~16.65 kg, lean ~62.25 kg |
+| Muscle mass | **59.04 kg** _(2026-09-28)_ — **up 0.37 kg since 09-24, second consecutive increase**, see note below |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -59,6 +59,7 @@ is too aggressive or protein is too low.
 | 2026-09-16 | **78.35 kg** | 21.2 % | 58.53 kg | 11 | bioimpedance, 06:41 — **−0.65 kg în 3 zile**. Masa de grăsime calculată: **16.61 kg (−0.38 kg)**. **Mușchiul a mai scăzut 0.30 kg** — proteina a fost corectată (134 g/zi medie), dar sala tot n-a fost reluată. Vezi analiza de mai jos. |
 | 2026-09-18 | **78.05 kg** | 21.2 % | 58.33 kg | 11 | bioimpedance, 07:12 — **−0.30 kg în 2 zile**. Masa de grăsime calculată: **16.55 kg (−0.06 kg, practic neschimbată — normal pe fereastră de 2 zile)**. **Mușchiul a mai scăzut 0.20 kg — a treia scădere consecutivă.** Sala tot nu a fost reluată (zero `## Activity` din 08-31 încoace). Vezi analiza de mai jos. |
 | 2026-09-24 | **78.40 kg** | 21.1 % | 58.67 kg | 11 | bioimpedance, 07:36 — **+0.35 kg în 6 zile**. Masa de grăsime calculată: **16.54 kg (−0.01 kg, practic neschimbată)**. **Mușchiul a crescut 0.34 kg — prima creștere după trei scăderi consecutive.** Prima măsurătoare de după reluarea sălii pe 09-20 (prima ședință din ultimele 3 săptămâni). Vezi analiza de mai jos. |
+| 2026-09-28 | **78.90 kg** | 21.1 % | 59.04 kg | 11 | bioimpedance, 05:23 — **+0.50 kg în 4 zile**. Masa de grăsime calculată: **16.65 kg (+0.11 kg, sub pragul de zgomot BIA — practic neschimbată)**. **Mușchiul a crescut încă 0.37 kg — a doua creștere consecutivă.** Măsurătoare făcută la o zi după o masă foarte densă caloric și sărată (mici, cartofi prăjiți cu cașcaval, muștar — vezi log 2026-09-27); creșterea de greutate e aproape sigur apă/glicogen/sodiu, nu grăsime — masa de grăsime confirmă. A doua sesiune de sală (09-26) e al doilea data point pentru ipoteza revenirii mușchiului odată cu reluarea antrenamentelor. |
 
 ## Waist log
 
