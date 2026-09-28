@@ -163,10 +163,12 @@ what matters, not the fat percentage.
 | Tartă de casă cu spanac, brânză și măsline (aluat fără unt, puține măsline) | 230 | 7.5 | 24 | 10 | 2.0 | 2.0 | 0 | 200 g (1 bucată generoasă) | ca, vitC | estimate |
 | Tartă de casă cu spanac, brânză și legume (fără măsline) | 210 | 7.0 | 25.0 | 8.5 | 2.2 | 2.5 | 0 | 150 g (1 bucată) | ca, vitC | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
+| Pâine de casă cu semințe (est.) | 270 | 9.0 | 48.0 | 4.5 | 3.5 | 3.0 | 0 | 90 g (1 felie groasă) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
 | Bread with potato (pâine cu cartofi) | 250 | 7 | 47 | 3.0 | 2.5 | 3 | 0 | 50 g (1 felie) | — | estimate |
 | Borș de văcuță (restaurant) | 65 | 5.0 | 3.4 | 3.3 | 0.55 | 1.1 | 0 | 400 ml (1 bol) | iron, k, b12, zn | estimate |
 | Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
+| Conopidă, fiartă, simplă (est.) | 25 | 1.9 | 5.0 | 0.3 | 2.0 | 2.4 | 0 | 150 g | vitC, k | estimate |
 | Broccoli & cauliflower, la abur cu unt (restaurant) | 55 | 2.2 | 6.1 | 3.0 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
 | Vegetables, grilled, light oil (ardei, dovlecel, vinete) | 49 | 1.5 | 6.0 | 2.3 | 2.25 | 3.5 | 0 | 200 g | vitC, k, mg | estimate |
