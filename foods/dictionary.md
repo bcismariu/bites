@@ -363,6 +363,7 @@ what matters, not the fat percentage.
 | Pulpă de pui dezosată, la grătar (fără piele) | 209 | 26 | 0 | 11 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
 | Pulpă de pui dezosată, cu piele, la grătar | 250 | 25 | 0 | 17 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
+| Sarmale de pui, homemade, fără ulei (est.) | 125 | 11.0 | 9.0 | 6.0 | 1.5 | 2.0 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Sarmăluțe în foi de viță (bufet eveniment) | 180 | 9 | 10 | 12 | 1.0 | 1.5 | 0 | 150 g (~5 buc mici) | — | estimate |
 | Smântână | 200 | 2.5 | 3.0 | 20 | 0 | 3.0 | 0 | 30 g (2 linguri) | — | estimate |
 | Ardei murat (gogonele/ardei iute) | 20 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 40 g | — | estimate |
