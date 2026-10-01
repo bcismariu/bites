@@ -282,6 +282,7 @@ what matters, not the fat percentage.
 | Crutoane de pâine (pentru supă) | 400 | 10 | 55 | 15 | 2.0 | 3.0 | 0 | 20 g (garnitură) | — | estimate |
 | Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
+| Dovleac copt, simplu (est.) | 40 | 1.0 | 9.0 | 0.2 | 1.5 | 4.0 | 0 | 100 g (câteva felii) | vitC, k | estimate |
 | Gogoașă (cu zahăr) | 340 | 5.0 | 41 | 17 | 1.2 | 15 | 12 | 80 g (1 buc) | — | estimate |
 | Înghețată la vafă, vanilie (50 g) | 198 | 2.8 | 27.9 | 8.3 | 0.2 | 20.8 | 17 | 50 g (1 buc) | — | [label](labels/inghetata-vafa-vanilie-50g.md) |
 | Înghețată Betty Blue, cupă mică, vanilie (est.) | 200 | 3.5 | 23.0 | 11.0 | 0 | 21.0 | 18.0 | 60 g (1 cupă, 100 ml) | — | estimate |
