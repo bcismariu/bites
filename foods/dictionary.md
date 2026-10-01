@@ -164,6 +164,7 @@ what matters, not the fat percentage.
 | Tartă de casă cu spanac, brânză și legume (fără măsline) | 210 | 7.0 | 25.0 | 8.5 | 2.2 | 2.5 | 0 | 150 g (1 bucată) | ca, vitC | estimate |
 | Bread, homemade white | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 40 g (1 felie) | — | estimate |
 | Pâine de casă cu semințe (est.) | 270 | 9.0 | 48.0 | 4.5 | 3.5 | 3.0 | 0 | 90 g (1 felie groasă) | — | estimate |
+| Coș cu pâine (restaurant, mix felii) (est.) | 300 | 8.0 | 45.0 | 9.0 | 2.5 | 2.0 | 0 | 80 g (~3 felii) | — | estimate |
 | Bread, multigrain | 250 | 9 | 43 | 3.5 | 4.0 | 3 | 0 | 45 g (1 felie) | — | estimate |
 | Bread with potato (pâine cu cartofi) | 250 | 7 | 47 | 3.0 | 2.5 | 3 | 0 | 50 g (1 felie) | — | estimate |
 | Borș de văcuță (restaurant) | 65 | 5.0 | 3.4 | 3.3 | 0.55 | 1.1 | 0 | 400 ml (1 bol) | iron, k, b12, zn | estimate |
@@ -194,6 +195,7 @@ what matters, not the fat percentage.
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
+| Ciorbă de văcuță (restaurant) (est., valoarea de pe meniu 217kcal/100g pare o eroare — recalculat din ingrediente) | 55 | 4.0 | 4.5 | 2.3 | 0.8 | 1.3 | 0 | 400 ml (1 bol) | iron, b12, vitC | estimate |
 | Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
 | Goffră din aluat de banana bread, fără zahăr (homemade) | 270 | 6.0 | 35 | 11 | 2.0 | 6.0 | 0 | 70 g (1 buc mică) | k | estimate |
 | Biscuite banana bread (comercial) | 460 | 5.0 | 60 | 22 | 2.0 | 28 | 20 | 30 g (1 buc) | — | estimate |
@@ -365,6 +367,7 @@ what matters, not the fat percentage.
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Sarmale de pui, homemade, fără ulei (est.) | 125 | 11.0 | 9.0 | 6.0 | 1.5 | 2.0 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Sarmăluțe în foi de viță (bufet eveniment) | 180 | 9 | 10 | 12 | 1.0 | 1.5 | 0 | 150 g (~5 buc mici) | — | estimate |
+| Sărmăluțe în foi de ștevie, pulpă de porc (restaurant) (est.) | 244 | 9.0 | 8.0 | 19.6 | 1.5 | 1.2 | 0 | 250 g (1 porție) | b12, zn, iron | estimate |
 | Smântână | 200 | 2.5 | 3.0 | 20 | 0 | 3.0 | 0 | 30 g (2 linguri) | — | estimate |
 | Ardei murat (gogonele/ardei iute) | 20 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 40 g | — | estimate |
 | Shawarma chicken | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 100 g | b12, zn | estimate |
