@@ -353,6 +353,7 @@ what matters, not the fat percentage.
 | Pilaf cu legume | 145 | 3.0 | 24 | 4.5 | 1.5 | 1.0 | 0 | 200 g | k | estimate |
 | Lasagna (carne, béchamel, cașcaval) | 165 | 9.0 | 13 | 8.4 | 1.0 | 2.5 | 0.3 | 350 g (1 porție) | iron, ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
+| Pizza (30 cm, întreagă, blat, sos, cașcaval) (est.) | 265 | 11.0 | 30.0 | 10.0 | 2.0 | 3.0 | 0.8 | 500 g (1 pizza întreagă) | ca | estimate |
 | Pizza (Jerry's), blat subțire, mozzarella, ardei, măsline, pui | 220 | 12 | 22 | 9.0 | 1.5 | 2.5 | 0.5 | 250 g (jumătate pizza medie) | ca, vitC | estimate |
 | Șnițel de pui, pané, prăjit (fast-food) | 270 | 15 | 15 | 15 | 1.0 | 0.5 | 0 | 50 g | b12 | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
