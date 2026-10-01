@@ -300,6 +300,7 @@ what matters, not the fat percentage.
 | Chiftea de pui, homemade, coaptă/la abur (fără ulei) | 180 | 20.0 | 4.0 | 9.0 | 0.3 | 0.5 | 0 | 80 g (1 buc) | b12, zn | estimate |
 | Morcov și păstârnac la cuptor (puțin ulei) | 78 | 1.0 | 13.5 | 2.5 | 3.8 | 4.6 | 0 | 200 g (porție) | k | estimate |
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
+| Plăcintă cu gem și crumble (restaurant) (est.) | 380 | 4.5 | 48.0 | 18.0 | 1.5 | 28.0 | 25.0 | 130 g (1 felie) | — | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Mozzarella, bucățele (ciliegine) | 280 | 18 | 2.2 | 22 | 0 | 1.0 | 0 | 30 g (3 bucățele) | ca | estimate |
