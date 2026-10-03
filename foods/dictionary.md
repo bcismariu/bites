@@ -402,3 +402,5 @@ what matters, not the fat percentage.
 | Gulie, crudă | 27 | 1.7 | 6.2 | 0.1 | 3.6 | 2.6 | 0 | 100 g | vitC | estimate |
 | Gofră homemade (simplă) | 250 | 6.0 | 30 | 11 | 1.5 | 5.0 | 0 | 70 g (1 buc) | — | estimate |
 | Covrigei Solaris (semințe: floarea-soarelui, tărâțe grâu, muștar, soia, nuci, susan) | 380 | 12.4 | 68 | 4.6 | 8.4 | 5.1 | 0 | 100 g (1 pungă) | — | [label](labels/covrigei-solaris.md) |
+| Gulaș de vită (est.) | 150 | 11.0 | 9.0 | 9.0 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
+| Quesadilla cu pui și cașcaval (est.) | 280 | 12.0 | 28.0 | 14.0 | 2.0 | 2.0 | 0 | 180 g (1 buc) | ca | estimate |
