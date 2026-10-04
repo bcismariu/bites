@@ -195,6 +195,7 @@ what matters, not the fat percentage.
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
+| Ciorbă de pui cu cartofi (est.) | 50 | 3.0 | 7.0 | 1.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
 | Ciorbă de văcuță (restaurant) (est., valoarea de pe meniu 217kcal/100g pare o eroare — recalculat din ingrediente) | 55 | 4.0 | 4.5 | 2.3 | 0.8 | 1.3 | 0 | 400 ml (1 bol) | iron, b12, vitC | estimate |
 | Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
 | Goffră din aluat de banana bread, fără zahăr (homemade) | 270 | 6.0 | 35 | 11 | 2.0 | 6.0 | 0 | 70 g (1 buc mică) | k | estimate |
