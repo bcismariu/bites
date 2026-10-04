@@ -222,6 +222,8 @@ what matters, not the fat percentage.
 | Focaccia (restaurant) | 290 | 8.0 | 45 | 8.0 | 2.0 | 2.0 | 0 | 17 g (1 felie triunghi mic, ~7-8 cm latură) | — | estimate |
 | Lemonade, restaurant, puțin zahăr | 20 | 0 | 5.0 | 0 | 0 | 4.5 | 4.5 | 400 ml (1 pahar) | — | estimate |
 | Legume crude, mix (roșii, castraveți) | 20 | 1.0 | 4.0 | 0.2 | 1.2 | 2.5 | 0 | 100 g | vitC | estimate |
+| Salată de legume (mix) (est.) | 20 | 1.0 | 4.0 | 0.2 | 1.2 | 2.5 | 0 | 150 g | vitC | estimate |
+| Legume la cuptor (morcov, cartof, puțin ulei) (est.) | 110 | 2.0 | 18.0 | 3.0 | 2.5 | 4.0 | 0 | 200 g (porție) | vitC, k | estimate |
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
 | Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
 | Ton alb în suc propriu (Frinsa) | 142 | 29 | 0 | 2.9 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-alb-suc-propriu.md) |
@@ -234,6 +236,7 @@ what matters, not the fat percentage.
 | Mâncărică de pipote cu ciuperci și ardei (sos de roșii) | 115 | 15 | 6.0 | 3.5 | 1.5 | 3.0 | 0 | 250 g (1 porție) | iron, zn, b12, vitC | estimate |
 | Chicken drumstick, roasted, skin-on | 205 | 24 | 0 | 12 | 0 | 0 | 0 | 130 g (1 pulpă) | b12, zn | estimate |
 | Eggs, fried in a little oil (ochiuri) | 184 | 12.5 | 1.0 | 14.6 | 0 | 1.0 | 0 | 125 g (2 ochiuri) | b12, vitD | estimate |
+| Ouă ochiuri, fără ulei (est.) | 155 | 13.0 | 1.1 | 10.6 | 0 | 1.1 | 0 | 100 g (2 ochiuri) | b12, vitD | estimate |
 | Flatbread (lipie) | 280 | 8 | 52 | 3.5 | 2.5 | 2 | 0 | 70 g (1 buc) | — | estimate |
 | Greek yogurt 0% (Olympus) | 48 | 8 | 4.0 | 0 | 0 | 4.0 | 0 | 150 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-0.md) |
 | Greek yogurt 2% (Olympus) | 65 | 8 | 3.8 | 2.0 | 0 | 3.8 | 0 | 200 g | ca, b12 | [label](labels/olympus-iaurt-grecesc-2.md) |
