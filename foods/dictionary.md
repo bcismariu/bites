@@ -225,6 +225,7 @@ what matters, not the fat percentage.
 | Salată de legume (mix) (est.) | 20 | 1.0 | 4.0 | 0.2 | 1.2 | 2.5 | 0 | 150 g | vitC | estimate |
 | Legume la cuptor (morcov, cartof, puțin ulei) (est.) | 110 | 2.0 | 18.0 | 3.0 | 2.5 | 4.0 | 0 | 200 g (porție) | vitC, k | estimate |
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
+| Ton în suc propriu (Rio Mare, 3x80g) | 101 | 24 | 0 | 0.5 | 0 | 0 | 0 | 56 g (1 cutie scursă) | ω3, b12 | [label](labels/rio-mare-ton-suc-propriu-3x80g.md) |
 | Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
 | Ton alb în suc propriu (Frinsa) | 142 | 29 | 0 | 2.9 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-alb-suc-propriu.md) |
 | Ton bucăți în suc propriu (MSC, 5949065046835) | 102 | 24 | 0 | 0.7 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-bucati-msc-5949065046835.md) |
