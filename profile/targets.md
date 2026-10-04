@@ -72,6 +72,7 @@ eating. Always measure at the same place.
 | 2026-08-15 | **91 cm** | **0.487** | baseline, at the navel |
 | 2026-08-24 | **93 cm** | **0.497** | +2 cm în 9 zile — probabil aceeași contaminare ca la cântar (o zi după team building, sare și glicogen); de reconfirmat la remăsurătoarea din septembrie, nu tratată ca trend real |
 | 2026-09-16 | **90 cm** | **0.481** | prima remăsurătoare curată de la baseline — **−1 cm față de 15 august** (32 zile). Confirmă ipoteza: măsurătoarea de 93cm din 24 august a fost apă/glicogen, nu grăsime reală — talia a coborât sub baseline, nu doar s-a întors la ea. Progres real, consistent cu scăderea de grăsime de pe cântar. |
+| 2026-10-04 | **91 cm** | **0.487** | +1 cm față de 16 septembrie (18 zile) — contrazice scăderea de grăsime calculată pe cântar din aceeași zi (−1.05 kg în 6 zile). Probabil zgomot de măsurătoare (oră/postură diferită, sau balonare după ziua cu pizza din 10-01), nu un reversal real — grăsimea corporală % și masa de grăsime arată ambele în scădere. De remăsurat la următoarea verificare lunară pentru confirmare. |
 
 Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
 increased. The simple rule is waist under half your height — 0.5 for 187 cm
