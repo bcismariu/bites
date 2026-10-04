@@ -228,6 +228,7 @@ what matters, not the fat percentage.
 | Ton în suc propriu (Rio Mare, 3x80g) | 101 | 24 | 0 | 0.5 | 0 | 0 | 0 | 56 g (1 cutie scursă) | ω3, b12 | [label](labels/rio-mare-ton-suc-propriu-3x80g.md) |
 | Ton bucăți (Siblou, 185g) | 116 | 26 | 0 | 1.0 | 0 | 0 | 0 | 130 g (1 cutie scursă) | ω3, b12 | [label](labels/siblou-ton-bucati-185g.md) |
 | Ton bucăți în sos natur (Calvo, 80g) | 76 | 18 | 0.7 | 0.2 | 0 | 0 | 0 | 56 g (1 cutie scursă) | ω3, b12 | [label](labels/calvo-ton-bucati-sos-natur-80g.md) |
+| Ton bucăți (Giana) | 80 | 19 | 0.5 | 0.5 | 0 | 0 | 0 | 100 g (mărime cutie neclară) | ω3, b12 | [label](labels/giana-ton.md) |
 | Ton albacora în suc propriu (Frinsa) | 117 | 28 | 0 | 0.6 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-albacora-suc-propriu.md) |
 | Ton alb în suc propriu (Frinsa) | 142 | 29 | 0 | 2.9 | 0 | 0 | 0 | 120 g (1 cutie scursă) | ω3, b12 | [label](labels/frinsa-ton-alb-suc-propriu.md) |
 | Ton bucăți în suc propriu (MSC, 5949065046835) | 102 | 24 | 0 | 0.7 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-bucati-msc-5949065046835.md) |
