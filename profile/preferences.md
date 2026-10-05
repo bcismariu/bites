@@ -34,6 +34,14 @@ gets recorded here so it is never asked twice.
 - **Piele de pui/pasăre**: de obicei o evită și o lasă în farfurie — dacă
   apare pui cu piele într-o poză, presupune că nu e mâncată integral (doar
   carnea), decât dacă spune explicit contrariul.
+- **Gătitul de acasă e implicit fără ulei sau cu foarte puțin** (confirmat
+  2026-10-05) — mai ales dimineața, seara și în weekend. Când raportează o
+  mâncare de acasă fără alte precizări, presupune varianta „fără ulei"/cu
+  ulei minim din dictionar (ex. „Chiftea de pui, homemade, coaptă, fără
+  ulei", nu versiunea „cu sos"/prăjită), nu adăuga ulei de gătit în estimare
+  decât dacă spune explicit („prăjit", „cu ulei", etc.). Mâncarea de la
+  restaurant sau cea grasă e excepția și o menționează el explicit — nu
+  mai trebuie întrebat de fiecare dată dacă a folosit ulei acasă.
 - **Raportează în timp real** (confirmat 2026-08-19): ce spune că a mâncat sau
   a făcut, tocmai s-a întâmplat. Deci ceasul e o dovadă bună despre *când* —
   verifică-l de fiecare dată când contează (mese, antrenamente, saună), nu
