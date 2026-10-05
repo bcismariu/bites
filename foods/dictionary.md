@@ -403,6 +403,7 @@ what matters, not the fat percentage.
 | Piftie de găină, de casă | 140 | 12 | 2.0 | 9.0 | 0 | 0 | 0 | 150 g (1 bucată) | b12, zn | estimate |
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
 | Varză călită | 85 | 1.5 | 8.0 | 5.0 | 2.5 | 3.0 | 0 | 250 g | vitC, k | estimate |
+| Mâncare de varză, fără ulei (est.) | 60 | 1.5 | 10.0 | 0.3 | 2.5 | 4.0 | 0 | 170 g (porție) | vitC, k | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
 | Mix de alune/nuci | 600 | 18 | 15 | 52 | 8.0 | 4.0 | 0 | 30 g (1 mână) | mg | estimate |
 | Budincă de ovăz cu lapte de migdale (blender, fără zahăr) | 90 | 3.5 | 14 | 2.5 | 2.0 | 1.0 | 0 | 250 g (1 porție) | — | estimate |
