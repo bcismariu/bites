@@ -368,6 +368,7 @@ what matters, not the fat percentage.
 | Pizza (Jerry's), blat subțire, mozzarella, ardei, măsline, pui | 220 | 12 | 22 | 9.0 | 1.5 | 2.5 | 0.5 | 250 g (jumătate pizza medie) | ca, vitC | estimate |
 | Șnițel de pui, pané, prăjit (fast-food) | 270 | 15 | 15 | 15 | 1.0 | 0.5 | 0 | 50 g | b12 | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
+| Cataif cu cașcaval (sirop) (est.) | 380 | 8.0 | 45.0 | 18.0 | 1.0 | 30.0 | 28.0 | 120 g (1 bucată) | ca | estimate |
 | Psyllium (coji măcinate) | 186 | 2.5 | 0 | 0.5 | 78 | 0 | 0 | 5 g (1 linguriță) | — | [label](labels/psyllium.md) |
 | Rice with vegetables | 140 | 3.0 | 25 | 3.0 | 1.5 | 1.5 | 0 | 200 g | vitC, k | estimate |
 | Piure de conopidă cu broccoli | 55 | 3.0 | 5.5 | 2.5 | 3.0 | 2.0 | 0 | 150 g | vitC, k | estimate |
