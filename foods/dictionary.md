@@ -300,6 +300,8 @@ what matters, not the fat percentage.
 | Mustard, sweet (muștar dulce) | 130 | 4.0 | 15 | 6.0 | 0.8 | 10 | 8.0 | 30 g | — | estimate |
 | Coleslaw (varză și morcov) | 95 | 1.0 | 8.0 | 6.5 | 1.8 | 5.0 | 0 | 150 g | vitC | estimate |
 | Salată de varză (cu ulei) | 50 | 1.2 | 4.5 | 3.3 | 2.0 | 2.5 | 0 | 150 g | vitC | estimate |
+| Ciorbă de perișoare (restaurant/catering) (est.) | 70 | 4.5 | 7.0 | 2.5 | 1.0 | 2.0 | 0 | 350 ml (1 bol) | iron, b12 | estimate |
+| Chiftelute de porc marinate, cu sos (restaurant/catering) (est.) | 200 | 14.0 | 6.0 | 13.0 | 0.5 | 3.0 | 0 | 150 g (6 buc) | b12, zn | estimate |
 | Pui la grătar (bufet eveniment) | 200 | 25 | 0 | 11 | 0 | 0 | 0 | 150 g (1 pulpă/piept) | b12, zn | estimate |
 | Costiță de porc la grătar | 320 | 20 | 0 | 26 | 0 | 0 | 0 | 150 g (1 porție) | b12, zn | estimate |
 | Cartofi copți/prăjiți (garnitură bufet) | 140 | 2.0 | 20 | 5.0 | 2.0 | 1.0 | 0 | 150 g | — | estimate |
