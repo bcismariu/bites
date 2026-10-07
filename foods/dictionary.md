@@ -312,6 +312,8 @@ what matters, not the fat percentage.
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
 | Chiftea de pui, homemade, coaptă/la abur (fără ulei) | 180 | 20.0 | 4.0 | 9.0 | 0.3 | 0.5 | 0 | 80 g (1 buc) | b12, zn | estimate |
+| Cuscus, fiert, simplu (est.) | 112 | 3.8 | 23.0 | 0.2 | 1.4 | 0 | 0 | 150 g | — | estimate |
+| Tzatziki (est.) | 75 | 3.5 | 3.5 | 5.5 | 0.5 | 2.5 | 0 | 60 g (garnitură) | ca | estimate |
 | Morcov și păstârnac la cuptor (puțin ulei) | 78 | 1.0 | 13.5 | 2.5 | 3.8 | 4.6 | 0 | 200 g (porție) | k | estimate |
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
 | Plăcintă cu gem și crumble (restaurant) (est., blat fărâmicios cu mult unt, nu foarte dulce) | 365 | 4.5 | 42.0 | 19.0 | 1.5 | 18.0 | 15.0 | 130 g (1 felie) | — | estimate |
