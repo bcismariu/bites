@@ -417,3 +417,4 @@ what matters, not the fat percentage.
 | Covrigei Solaris (semințe: floarea-soarelui, tărâțe grâu, muștar, soia, nuci, susan) | 380 | 12.4 | 68 | 4.6 | 8.4 | 5.1 | 0 | 100 g (1 pungă) | — | [label](labels/covrigei-solaris.md) |
 | Gulaș de vită (est.) | 150 | 11.0 | 9.0 | 9.0 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
 | Quesadilla cu pui și cașcaval (est.) | 280 | 12.0 | 28.0 | 14.0 | 2.0 | 2.0 | 0 | 180 g (1 buc) | ca | estimate |
+| Salată Caesar cu pui (restaurant) (est.) | 181 | 17.5 | 1.6 | 11.6 | 0.4 | 0.4 | 0 | 235 g (1 bol) | b12, ca | estimate |
