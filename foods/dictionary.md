@@ -289,6 +289,8 @@ what matters, not the fat percentage.
 | Lentil cream soup (supă cremă de linte roșie) | 85 | 3.5 | 11 | 3.0 | 2.5 | 1.4 | 0 | 350 ml (1 bol) | iron, mg, k | estimate |
 | Supă de linte (turcească, mercimek) | 47 | 2.6 | 7.2 | 1.0 | 1.6 | 0.5 | 0 | 350 ml (1 bol) | iron | estimate |
 | Crutoane de pâine (pentru supă) | 400 | 10 | 55 | 15 | 2.0 | 3.0 | 0 | 20 g (garnitură) | — | estimate |
+| Cornet cu vanilie și migdale (patiserie) (est.) | 420 | 5.0 | 38.0 | 27.0 | 1.5 | 18.0 | 16.0 | 90 g (1 buc) | — | estimate |
+| Sărățea cu chimen (patiserie) (est.) | 450 | 8.0 | 42.0 | 27.0 | 1.5 | 2.0 | 0 | 18 g (1 buc) | — | estimate |
 | Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
 | Dovleac copt, simplu (est.) | 40 | 1.0 | 9.0 | 0.2 | 1.5 | 4.0 | 0 | 100 g (câteva felii) | vitC, k | estimate |
