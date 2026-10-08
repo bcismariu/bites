@@ -371,6 +371,8 @@ what matters, not the fat percentage.
 | Pizza (30 cm, întreagă, blat, sos, cașcaval) (est.) | 265 | 11.0 | 30.0 | 10.0 | 2.0 | 3.0 | 0.8 | 500 g (1 pizza întreagă) | ca | estimate |
 | Pizza (Jerry's), blat subțire, mozzarella, ardei, măsline, pui | 220 | 12 | 22 | 9.0 | 1.5 | 2.5 | 0.5 | 250 g (jumătate pizza medie) | ca, vitC | estimate |
 | Șnițel de pui, pané, prăjit (fast-food) | 270 | 15 | 15 | 15 | 1.0 | 0.5 | 0 | 50 g | b12 | estimate |
+| Șnițel de porc, pané, prăjit (restaurant) (est.) | 290 | 18.0 | 15.0 | 18.0 | 0.8 | 1.0 | 0 | 210 g (1 porție) | b12, zn | estimate |
+| Orez chinezesc (prăjit, cu ou/porumb, sos soia) (restaurant) (est.) | 180 | 4.0 | 30.0 | 5.0 | 1.0 | 2.0 | 0 | 220 g (porție) | — | estimate |
 | Portokalopita, homemade (less sweet) | 290 | 4.5 | 38 | 14 | 1.2 | 20 | 17 | 100 g (1 bucată) | — | estimate |
 | Cataif cu cașcaval (sirop) (est.) | 380 | 8.0 | 45.0 | 18.0 | 1.0 | 30.0 | 28.0 | 120 g (1 bucată) | ca | estimate |
 | Psyllium (coji măcinate) | 186 | 2.5 | 0 | 0.5 | 78 | 0 | 0 | 5 g (1 linguriță) | — | [label](labels/psyllium.md) |
