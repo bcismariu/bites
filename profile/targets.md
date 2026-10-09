@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **77.25 kg** _(measured 2026-10-04, 09:01, morning)_ |
-| BMI | 22.1 — healthy range |
-| Body fat | **~20.2 %** _(bioimpedance scale, 2026-10-04)_ → fat ~15.60 kg, lean ~61.65 kg |
-| Muscle mass | **58.50 kg** _(2026-10-04)_ — **down 0.54 kg since 09-28, after two consecutive increases**, see note below |
+| Weight | **76.60 kg** _(measured 2026-10-09, 06:59, morning)_ |
+| BMI | 21.9 — healthy range |
+| Body fat | **~20.4 %** _(bioimpedance scale, 2026-10-09)_ → fat ~15.63 kg, lean ~60.97 kg |
+| Muscle mass | **57.85 kg** _(2026-10-09)_ — **down 0.65 kg since 10-04, second consecutive drop**, see note below |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -61,6 +61,7 @@ is too aggressive or protein is too low.
 | 2026-09-24 | **78.40 kg** | 21.1 % | 58.67 kg | 11 | bioimpedance, 07:36 — **+0.35 kg în 6 zile**. Masa de grăsime calculată: **16.54 kg (−0.01 kg, practic neschimbată)**. **Mușchiul a crescut 0.34 kg — prima creștere după trei scăderi consecutive.** Prima măsurătoare de după reluarea sălii pe 09-20 (prima ședință din ultimele 3 săptămâni). Vezi analiza de mai jos. |
 | 2026-09-28 | **78.90 kg** | 21.1 % | 59.04 kg | 11 | bioimpedance, 05:23 — **+0.50 kg în 4 zile**. Masa de grăsime calculată: **16.65 kg (+0.11 kg, sub pragul de zgomot BIA — practic neschimbată)**. **Mușchiul a crescut încă 0.37 kg — a doua creștere consecutivă.** Măsurătoare făcută la o zi după o masă foarte densă caloric și sărată (mici, cartofi prăjiți cu cașcaval, muștar — vezi log 2026-09-27); creșterea de greutate e aproape sigur apă/glicogen/sodiu, nu grăsime — masa de grăsime confirmă. A doua sesiune de sală (09-26) e al doilea data point pentru ipoteza revenirii mușchiului odată cu reluarea antrenamentelor. |
 | 2026-10-04 | **77.25 kg** | 20.2 % | 58.50 kg | 11 | bioimpedance, 09:01 — **−1.65 kg în 6 zile**. Masa de grăsime calculată: **15.60 kg (−1.05 kg) — cea mai mare scădere de grăsime dintr-o fereastră de câteva zile de până acum**, consistentă cu ziua foarte deficitară de 2026-09-30 (1466 kcal) și cele două zile de recuperare controlată (10-02, 10-03) după excesul de 10-01 (pizza întreagă, +1624 kcal peste target). **Mușchiul a scăzut 0.54 kg — a treia scădere din cinci măsurători**, după două creșteri consecutive (09-24, 09-28). Diferit de episoadele anterioare de scădere musculară (proteină cronic scăzută + sală absentă): săptămâna a avut proteină medie bună și o sesiune de sală (09-26), dar și **trei nopți de somn scurt/slab la rând** (30→01: 5h30, 2.5/5; 28→29 și 29→30: ~6h aprox, 3/5; 03→04: 4h, 2/5) — somn insuficient cronic poate crește cortizolul și afecta direct sinteza musculară, independent de proteină. De urmărit dacă scăderea persistă sau e zgomot BIA amplificat de somn slab/hidratare (Water 54.7%, ușor sub precedent). |
+| 2026-10-09 | **76.60 kg** | 20.4 % | 57.85 kg | 11 | bioimpedance, 06:59 — **−0.65 kg în 5 zile**. Masa de grăsime calculată: **15.63 kg (+0.02 kg, practic neschimbată — zgomot)**. **Mușchiul a scăzut încă 0.65 kg — a doua scădere consecutivă**, cea mai mare dintre cele patru scăderi observate până acum. Nicio sesiune de sală raportată în această fereastră (ultima: 09-26) — ipoteza „sală absentă" revine ca factor plauzibil, pe lângă somnul tot inconsistent (04→05 și 05→06 bune, 9h/8h, 4/5, dar 06→07 doar 5h și 07→08 doar 4h, 3/5). Proteina zilnică a fost per total rezonabilă, deci nu pare principalul vinovat de data asta. Două scăderi consecutive de mușchi (−1.19 kg în 10 zile) depășesc clar pragul de zgomot BIA — merită reluată sala curând pentru a testa ipoteza. |
 
 ## Waist log
 
