@@ -347,6 +347,7 @@ what matters, not the fat percentage.
 | Mămăligă (simplă, fără unt) | 85 | 2.0 | 18 | 0.5 | 1.0 | 0 | 0 | 220 g (1 porție) | — | estimate |
 | Mazăre cu carne de porc | 147 | 8.9 | 10.3 | 7.7 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Mazăre cu carne de pui | 115 | 10.0 | 10.3 | 4.0 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
+| Pui cu mazăre și cartofi, homemade, fără ulei | 113 | 12.0 | 10.1 | 2.4 | 2.0 | 2.1 | 0 | 350 g (1 porție) | iron, k, b12, zn | estimate |
 | Mazăre boabe, fiartă, simplă | 90 | 5.0 | 15 | 2.0 | 5.0 | 6.0 | 0 | 300 g (1 porție) | iron, k | estimate |
 | Gogonele murate (roșii verzi murate) | 18 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 150 g | — | estimate |
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
