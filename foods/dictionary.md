@@ -282,6 +282,7 @@ what matters, not the fat percentage.
 | Kürtőskalács (colac secuiesc) | 380 | 7 | 55 | 14 | 1.5 | 25 | 23 | 180 g (1 buc) | — | estimate |
 | Kürtőskalács, fără zahăr | 330 | 8 | 45 | 14 | 1.8 | 5 | 3 | 180 g (1 buc) | — | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
+| Bere de ghimbir (ginger beer, răcoritoare îndulcită, fără alcool) | 40 | 0 | 10.0 | 0 | 0 | 10.0 | 10.0 | 330 ml (1 sticlă/doză) | — | estimate |
 | Ayran | 36 | 1.6 | 2.0 | 2.0 | 0 | 2.0 | 0 | 250 ml (1 pahar) | ca | estimate |
 | Iskender kebab de vită, porție mare (cu pâine, sos roșii, unt topit, iaurt) | 173 | 11.9 | 11.6 | 9.1 | 0.4 | 1.1 | 0 | 550 g (1 porție mare) | iron, ca, b12, zn | estimate |
 | Vită Dristor cu sos de roșii, iaurt gras 10 %, roșii și murături | 128 | 12.1 | 2.9 | 7.3 | 0.3 | 2.0 | 0 | 565 g (1 porție, fără pâine — vezi rândul de mai jos) | iron, ca, b12, zn, vitC | estimate |
