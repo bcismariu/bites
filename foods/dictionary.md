@@ -317,6 +317,7 @@ what matters, not the fat percentage.
 | Morcov și păstârnac la cuptor (puțin ulei) | 78 | 1.0 | 13.5 | 2.5 | 3.8 | 4.6 | 0 | 200 g (porție) | k | estimate |
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
 | Plăcintă cu gem și crumble (restaurant) (est., blat fărâmicios cu mult unt, nu foarte dulce) | 365 | 4.5 | 42.0 | 19.0 | 1.5 | 18.0 | 15.0 | 130 g (1 felie) | — | estimate |
+| Negresă de casă | 400 | 5.5 | 50.0 | 20.0 | 2.5 | 32.0 | 30.0 | 70 g (1 bucată) | — | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Mozzarella, bucățele (ciliegine) | 280 | 18 | 2.2 | 22 | 0 | 1.0 | 0 | 30 g (3 bucățele) | ca | estimate |
