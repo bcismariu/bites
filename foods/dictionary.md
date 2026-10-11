@@ -172,6 +172,7 @@ what matters, not the fat percentage.
 | Conopidă, fiartă, simplă (est.) | 25 | 1.9 | 5.0 | 0.3 | 2.0 | 2.4 | 0 | 150 g | vitC, k | estimate |
 | Broccoli & cauliflower, la abur cu unt (restaurant) | 55 | 2.2 | 6.1 | 3.0 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
+| Varză de Bruxelles, fiartă/la abur | 36 | 2.5 | 7.1 | 0.5 | 2.6 | 1.7 | 0 | 100 g | vitC, k | estimate |
 | Vegetables, grilled, light oil (ardei, dovlecel, vinete) | 49 | 1.5 | 6.0 | 2.3 | 2.25 | 3.5 | 0 | 200 g | vitC, k, mg | estimate |
 | Vegetables, la tigaie, fără ulei (ardei, dovlecel, ceapă) | 35 | 1.5 | 6.5 | 0.3 | 2.5 | 3.5 | 0 | 200 g | vitC, k | estimate |
 | Chicken breast, la tigaie, fără ulei | 165 | 31 | 0 | 3.6 | 0 | 0 | 0 | 180 g (1 piept) | b12, zn | estimate |
