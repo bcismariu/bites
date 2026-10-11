@@ -385,6 +385,7 @@ what matters, not the fat percentage.
 | Potatoes, home-fried, light oil | 130 | 2.0 | 17.5 | 6.1 | 1.8 | 0.8 | 0 | 200 g | k, vitC | estimate |
 | Trout, cooked | 168 | 24 | 0 | 7.5 | 0 | 0 | 0 | 180 g (carne de la 1 păstrăv) | ω3, vitD, b12 | estimate |
 | Rice, white, cooked | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 180 g | — | estimate |
+| Doradă, la grătar/cuptor (carne, fără os) | 135 | 24 | 0 | 4.5 | 0 | 0 | 0 | 200 g (carnea de la 1 pește) | ω3, b12 | estimate |
 | Ceafă de porc la grătar | 290 | 26 | 0 | 21 | 0 | 0 | 0 | 170 g (1 porție restaurant) | b12, zn | estimate |
 | Pulpă de pui dezosată, la grătar (fără piele) | 209 | 26 | 0 | 11 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
 | Pulpă de pui dezosată, cu piele, la grătar | 250 | 25 | 0 | 17 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
