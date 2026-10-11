@@ -183,6 +183,7 @@ what matters, not the fat percentage.
 | Castravete murat | 11 | 0.5 | 2.2 | 0.1 | 0.7 | 1.1 | 0 | 100 g (1 buc) | — | estimate |
 | Covrig cu semințe de floarea-soarelui | 330 | 11.5 | 45 | 12 | 3.5 | 2.0 | 0 | 130 g (1 covrig mare) | mg | estimate |
 | Covrig simplu (cu ou) | 300 | 10 | 59 | 3.1 | 2.0 | 2.0 | 0 | 80 g (1 buc) | — | estimate |
+| Covrig cu vanilie (umplut cu cremă) | 320 | 7.5 | 55 | 7.5 | 2.0 | 15 | 13 | 110 g (1 buc) | — | estimate |
 | Pear (pară) | 57 | 0.4 | 15.2 | 0.1 | 3.1 | 9.8 | 0 | 130 g (1 mică) | — | estimate |
 | Plums (prune) | 46 | 0.7 | 11.4 | 0.3 | 1.4 | 9.9 | 0 | 70 g (1 mare) | vitC, k | estimate |
 | Strudel de mere | 274 | 3.3 | 37.5 | 12.5 | 2.0 | 16.7 | 10 | 120 g (1 porție) | — | estimate |
