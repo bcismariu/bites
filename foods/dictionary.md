@@ -367,6 +367,7 @@ what matters, not the fat percentage.
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
 | Coajă de psyllium | 300 | 0 | 88 | 0 | 85 | 0 | 0 | 10 g (1 linguriță) | — | estimate |
 | Dulceață de casă fără zahăr | 60 | 0.4 | 14 | 0.2 | 1.5 | 12 | 0 | 20 g (strat pe o felie) | — | estimate |
+| Dulceață de casă (cu zahăr) | 250 | 0.4 | 62 | 0.1 | 1.0 | 58 | 50 | 20 g (strat pe o felie) | — | estimate |
 | Zacuscă de vinete (homemade) | 100 | 1.8 | 8 | 7 | 3.0 | 4.5 | 0 | 30 g (strat pe o felie) | — | estimate |
 | Paste cu ton (conservă în ulei, scursă) | 148 | 10.2 | 14.7 | 3.3 | 0.8 | 0.7 | 0 | 300 g (1 porție) | ω3, b12 | estimate |
 | Paste cu brânză (cașcaval) | 188 | 6.3 | 22.9 | 7.3 | 0.3 | 0.3 | 0 | 185 g (porție) | ca | estimate |
