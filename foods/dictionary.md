@@ -357,6 +357,7 @@ what matters, not the fat percentage.
 | Gogonele murate (roșii verzi murate) | 18 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 150 g | — | estimate |
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
 | Piept de pui la tigaie cu sparanghel, mozzarella și cheddar (restaurant) | 164 | 21.5 | 1.1 | 8.3 | 0.6 | 0.5 | 0 | 335 g (1 porție) | b12, zn, ca | estimate |
+| Sparanghel la grătar (puțin ulei, restaurant) | 45 | 2.4 | 4.0 | 3.0 | 2.1 | 1.9 | 0 | 150 g (garnitură) | iron | estimate |
 | Salată de rucola cu roșii cherry și glazură de balsamic (restaurant) | 54 | 1.5 | 11.1 | 0.4 | 1.2 | 9.8 | 4.3 | 35 g (garnitură) | vitC | estimate |
 | Glazură de balsamic (reducție dulce-acrișoară) (est.) | 250 | 0.5 | 60.0 | 0 | 0 | 55.0 | 30.0 | 10 g (drizzle) | — | estimate |
 | Mâncare de năut cu piept de pui (cartof, dovlecel, roșii, puțin ulei) | 99 | 9.2 | 9.6 | 2.5 | 2.2 | 1.4 | 0 | 415 g (1 porție) | iron, b12, zn, k | estimate |
