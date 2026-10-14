@@ -397,6 +397,8 @@ what matters, not the fat percentage.
 | Pulpă de pui dezosată, cu piele, la grătar | 250 | 25 | 0 | 17 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
 | Sarmale (pork & rice, with sauce) | 165 | 8 | 8 | 10 | 1.2 | 1.5 | 0 | 300 g (3 buc) | b12, zn | estimate |
 | Sarmale de pui, homemade, fără ulei (est.) | 125 | 11.0 | 9.0 | 6.0 | 1.5 | 2.0 | 0 | 300 g (3 buc) | b12, zn | estimate |
+| Mâncare de ardei cu pui, homemade, fără ulei | 85 | 9.0 | 5.0 | 3.0 | 1.5 | 3.5 | 0 | 200 g (porție) | vitC, k, b12, zn | estimate |
+| Kefir (2% grăsime) | 45 | 3.2 | 4.0 | 2.0 | 0 | 4.0 | 0 | 250 ml (1 pahar) | ca, b12 | estimate |
 | Sarmăluțe în foi de viță (bufet eveniment) | 180 | 9 | 10 | 12 | 1.0 | 1.5 | 0 | 150 g (~5 buc mici) | — | estimate |
 | Sărmăluțe în foi de ștevie, pulpă de porc (restaurant) (est.) | 244 | 9.0 | 8.0 | 19.6 | 1.5 | 1.2 | 0 | 250 g (1 porție) | b12, zn, iron | estimate |
 | Smântână | 200 | 2.5 | 3.0 | 20 | 0 | 3.0 | 0 | 30 g (2 linguri) | — | estimate |
