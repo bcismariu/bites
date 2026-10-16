@@ -228,6 +228,7 @@ what matters, not the fat percentage.
 | Legume crude, mix (roșii, castraveți) | 20 | 1.0 | 4.0 | 0.2 | 1.2 | 2.5 | 0 | 100 g | vitC | estimate |
 | Salată de legume (mix) (est.) | 20 | 1.0 | 4.0 | 0.2 | 1.2 | 2.5 | 0 | 150 g | vitC | estimate |
 | Legume la cuptor (morcov, cartof, puțin ulei) (est.) | 110 | 2.0 | 18.0 | 3.0 | 2.5 | 4.0 | 0 | 200 g (porție) | vitC, k | estimate |
+| Legume sote mix (morcov, ardei, fasole verde, cartof, dovlecel), puțin ulei | 70 | 1.8 | 9.5 | 3.0 | 2.8 | 3.5 | 0 | 250 g (porție) | vitC, k | estimate |
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
 | Ton în suc propriu (Rio Mare, 3x80g) | 101 | 24 | 0 | 0.5 | 0 | 0 | 0 | 56 g (1 cutie scursă) | ω3, b12 | [label](labels/rio-mare-ton-suc-propriu-3x80g.md) |
 | Ton bucăți (Siblou, 185g) | 116 | 26 | 0 | 1.0 | 0 | 0 | 0 | 130 g (1 cutie scursă) | ω3, b12 | [label](labels/siblou-ton-bucati-185g.md) |
