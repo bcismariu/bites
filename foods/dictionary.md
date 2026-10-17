@@ -232,6 +232,7 @@ what matters, not the fat percentage.
 | Tuna, canned in olive oil, drained (Rio Mare) | 192 | 25 | 0 | 10 | 0 | 0 | 0 | 55 g (1 cutie mică scursă) | ω3, b12 | estimate |
 | Ton în suc propriu (Rio Mare, 3x80g) | 101 | 24 | 0 | 0.5 | 0 | 0 | 0 | 56 g (1 cutie scursă) | ω3, b12 | [label](labels/rio-mare-ton-suc-propriu-3x80g.md) |
 | Fileuri de ton dungat în suc propriu (Lidl, 3x80g) | 111 | 26 | 0 | 0.7 | 0 | 0 | 0 | 56 g (1 cutie scursă, est.) | ω3, b12 | [label](labels/lidl-fileuri-ton-dungat-suc-propriu-3x80g.md) |
+| Fileuri de ton dungat în suc propriu (Lidl, 195g, Vietnam) | 83 | 18.2 | 0 | 1.1 | 0 | 0 | 0 | 150 g (1 cutie scursă) | ω3, b12 | [label](labels/lidl-fileuri-ton-dungat-suc-propriu-195g.md) |
 | Ton mărunțit în suc propriu (Nixe/Lidl, 160g) | 91 | 16 | 0 | 3.0 | 0 | 0 | 0 | 112 g (1 cutie scursă, est.) | ω3, b12 | [label](labels/nixe-ton-maruntit-suc-propriu-160g.md) |
 | Ton bucăți (Siblou, 185g) | 116 | 26 | 0 | 1.0 | 0 | 0 | 0 | 130 g (1 cutie scursă) | ω3, b12 | [label](labels/siblou-ton-bucati-185g.md) |
 | Ton bucăți în sos natur (Calvo, 80g) | 76 | 18 | 0.7 | 0.2 | 0 | 0 | 0 | 56 g (1 cutie scursă) | ω3, b12 | [label](labels/calvo-ton-bucati-sos-natur-80g.md) |
