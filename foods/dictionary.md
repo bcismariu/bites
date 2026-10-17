@@ -298,6 +298,8 @@ what matters, not the fat percentage.
 | Sărățea cu chimen (patiserie) (est.) | 450 | 8.0 | 42.0 | 27.0 | 1.5 | 2.0 | 0 | 18 g (1 buc) | — | estimate |
 | Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
+| Cornflakes (generic, cu zahăr/malț) | 378 | 7.0 | 84.0 | 0.9 | 3.0 | 8.0 | 7.0 | 40 g (1 bol) | — | estimate |
+| Orez expandat, simplu | 385 | 7.0 | 84.0 | 2.0 | 1.5 | 0.5 | 0 | 5 g (1 lingură) | — | estimate |
 | Dovleac copt, simplu (est.) | 40 | 1.0 | 9.0 | 0.2 | 1.5 | 4.0 | 0 | 100 g (câteva felii) | vitC, k | estimate |
 | Gogoașă (cu zahăr) | 340 | 5.0 | 41 | 17 | 1.2 | 15 | 12 | 80 g (1 buc) | — | estimate |
 | Înghețată la vafă, vanilie (50 g) | 198 | 2.8 | 27.9 | 8.3 | 0.2 | 20.8 | 17 | 50 g (1 buc) | — | [label](labels/inghetata-vafa-vanilie-50g.md) |
