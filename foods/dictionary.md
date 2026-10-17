@@ -283,7 +283,6 @@ what matters, not the fat percentage.
 | Tocăniță de pipote de curcan cu cartofi | 122 | 10.3 | 9.7 | 4.5 | 1.2 | 1.7 | 0 | 300 g (1 bol) | iron, zn, b12, k | estimate |
 | Ficăței de pui, la tigaie (simpli) | 165 | 24 | 1.0 | 6.0 | 0 | 0 | 0 | 160 g (porție) | iron, b12, zn | estimate |
 | Orez cu morcov și ardei (pilaf) | 150 | 3.0 | 26 | 3.5 | 1.0 | 2.0 | 0 | 220 g (porție) | vitC, k | estimate |
-| Pilaf de casă (orez cu legume), fără ulei | 125 | 2.8 | 27.0 | 0.4 | 0.8 | 1.0 | 0 | 200 g (porție) | — | estimate |
 | Kürtőskalács (colac secuiesc) | 380 | 7 | 55 | 14 | 1.5 | 25 | 23 | 180 g (1 buc) | — | estimate |
 | Kürtőskalács, fără zahăr | 330 | 8 | 45 | 14 | 1.8 | 5 | 3 | 180 g (1 buc) | — | estimate |
 | Lemonade, mint & ginger, sweetened | 28 | 0.1 | 7.0 | 0 | 0.1 | 6.8 | 6.8 | 400 ml (1 pahar mare) | — | estimate |
