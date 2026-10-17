@@ -335,6 +335,7 @@ what matters, not the fat percentage.
 | Honey (miere) | 304 | 0 | 82 | 0 | 0 | 82 | 82 | 20 g (1 lingură) | — | estimate |
 | OSHEE Multifruit, izotonică | 18 | 0 | 4.1 | 0 | 0 | 4.0 | 4.0 | 750 ml (1 sticlă) | — | [label](labels/oshee-multifruit-izotonic.md) |
 | OSHEE baton cu arahide, fistic și ciocolată neagră | 551 | 22.1 | 17.4 | 43.7 | 6.8 | 7.4 | 7.0 | 40 g (1 baton) | mg | [label](labels/oshee-baton-arahide-fistic-ciocolata.md) |
+| Baton de ovăz cu ciocolată, merișoare și nucă | 430 | 6.5 | 54.4 | 19.6 | 4.9 | 28.3 | 26.0 | 60 g (1 baton) | — | [label](labels/baton-ovaz-merisoare-nuca-ciocolata.md) |
 | Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
 | Sandviș IKEA cu ou ochi, mezeluri și chiflă, cu puțin sos | 241 | 10.2 | 23.3 | 11.8 | 0.8 | 2.3 | 0.4 | 165 g (1 sandviș) | b12 | estimate |
 | Prăjitură tip cheesecake, puțin dulce (necunoscută) | 370 | 6.0 | 29.0 | 25.0 | 0.5 | 19.0 | 16.0 | 85 g (1 bucată) | ca | estimate |
