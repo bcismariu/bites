@@ -280,6 +280,7 @@ what matters, not the fat percentage.
 | Fasole bătută, fără ceapă caramelizată (restaurant) | 150 | 5.4 | 16.0 | 6.0 | 4.6 | 3.0 | 0 | 140 g (1 bol) | iron, mg | estimate |
 | Mâncare de urzici (cu usturoi, puțin ulei) | 70 | 3.0 | 7.0 | 3.5 | 2.5 | 0.5 | 0 | 150 g (porție) | iron, ca, k | estimate |
 | Salmon, grilled | 208 | 20 | 0 | 13 | 0 | 0 | 0 | 150 g (1 file) | vitD, ω3, b12 | estimate |
+| Pește alb la cuptor cu legume (morcov, ardei, ceapă, țelină), fără ulei | 70 | 12.3 | 2.6 | 1.1 | 0.8 | 1.5 | 0 | 320 g (2 bucăți file + legume) | b12, vitC | estimate |
 | Chiflă (pâine albă) | 270 | 9 | 52 | 3.0 | 2.0 | 3.0 | 0 | 35 g (1 buc) | — | estimate |
 | Ravioli de casă cu piept de pui, sos de roșii | 180 | 10.0 | 22.0 | 6.0 | 1.5 | 3.0 | 0 | 350 g (1 porție) | vitC, b12, zn | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
