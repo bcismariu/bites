@@ -50,6 +50,10 @@ gets recorded here so it is never asked twice.
 ## Workout routine
 
 Full-body on machines, 2× per week, ~40 min. "My usual workout" means this.
+
+**Abonamentul la sală a expirat (2026-10-21)** — până la reînnoire se
+antrenează acasă; rutina de aparate de mai jos rămâne referința pentru
+greutăți și progresie.
 The two pulling exercises are the priority — they counteract the desk job.
 
 | # | Exercise | Sets × reps | Working weight (2026-10-17) | Next |
