@@ -331,6 +331,7 @@ what matters, not the fat percentage.
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
 | Plăcintă cu gem și crumble (restaurant) (est., blat fărâmicios cu mult unt, nu foarte dulce) | 365 | 4.5 | 42.0 | 19.0 | 1.5 | 18.0 | 15.0 | 130 g (1 felie) | — | estimate |
 | Plăcintă cu dovleac (restaurant, foi, cu zahăr pudră) | 230 | 3.5 | 33.0 | 9.5 | 2.0 | 16.0 | 12.0 | 150 g (1 felie) | k | estimate |
+| Plăcintă cu dovleac de casă | 220 | 3.5 | 32.0 | 8.5 | 2.0 | 14.0 | 10.0 | 80 g (bucată mică) | k | estimate |
 | Negresă de casă | 400 | 5.5 | 50.0 | 20.0 | 2.5 | 32.0 | 30.0 | 70 g (1 bucată) | — | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
