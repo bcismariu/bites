@@ -376,6 +376,8 @@ what matters, not the fat percentage.
 | Mâncare de năut cu piept de pui (cartof, dovlecel, roșii, puțin ulei) | 99 | 9.2 | 9.6 | 2.5 | 2.2 | 1.4 | 0 | 415 g (1 porție) | iron, b12, zn, k | estimate |
 | Mâncare de năut cu piept de pui și spanac (cartof, dovlecel, roșii, puțin ulei) | 96 | 9.0 | 9.3 | 2.4 | 2.2 | 1.3 | 0 | 435 g (1 porție) | iron, b12, zn, k | estimate |
 | Musaca de casă (pui, puțin ulei) | 130 | 8.0 | 13 | 5.0 | 1.5 | 2.0 | 0 | 350 g (1 porție) | b12, zn | estimate |
+| Salată de icre (de crap/știucă, cu ulei) | 450 | 6.0 | 4.0 | 46.0 | 0 | 1.0 | 0 | 15 g (strat pe o felie) | ω3, b12 | estimate |
+| Pandișpan cu fructe, de casă (plăcintă) | 260 | 5.0 | 43.0 | 7.5 | 1.2 | 26.0 | 20.0 | 100 g (1 bucată) | — | estimate |
 | Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
