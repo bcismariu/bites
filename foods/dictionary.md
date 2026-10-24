@@ -185,6 +185,8 @@ what matters, not the fat percentage.
 | Covrig cu semințe de floarea-soarelui | 330 | 11.5 | 45 | 12 | 3.5 | 2.0 | 0 | 130 g (1 covrig mare) | mg | estimate |
 | Covrig simplu (cu ou) | 300 | 10 | 59 | 3.1 | 2.0 | 2.0 | 0 | 80 g (1 buc) | — | estimate |
 | Covrig cu vanilie (umplut cu cremă) | 320 | 7.5 | 55 | 7.5 | 2.0 | 15 | 13 | 110 g (1 buc) | — | estimate |
+| Covrig umplut cu prune și nucă | 330 | 7.0 | 55 | 9.0 | 2.5 | 20 | 16 | 110 g (1 buc) | — | estimate |
+| Covrig umplut cu ciocolată | 360 | 7.0 | 56 | 12.0 | 2.5 | 22 | 19 | 110 g (1 buc) | — | estimate |
 | Pear (pară) | 57 | 0.4 | 15.2 | 0.1 | 3.1 | 9.8 | 0 | 130 g (1 mică) | — | estimate |
 | Plums (prune) | 46 | 0.7 | 11.4 | 0.3 | 1.4 | 9.9 | 0 | 70 g (1 mare) | vitC, k | estimate |
 | Strudel de mere | 274 | 3.3 | 37.5 | 12.5 | 2.0 | 16.7 | 10 | 120 g (1 porție) | — | estimate |
@@ -436,6 +438,7 @@ what matters, not the fat percentage.
 | Piftie de găină, de casă | 140 | 12 | 2.0 | 9.0 | 0 | 0 | 0 | 150 g (1 bucată) | b12, zn | estimate |
 | Urdă de vacă | 145 | 15 | 2.5 | 8 | 0 | 2.5 | 0 | 50 g | ca | estimate |
 | Varză călită | 85 | 1.5 | 8.0 | 5.0 | 2.5 | 3.0 | 0 | 250 g | vitC, k | estimate |
+| Varză călită cu carne de porc | 120 | 7.0 | 6.0 | 8.0 | 2.2 | 3.0 | 0 | 300 g (porție) | vitC, k, b12, zn | estimate |
 | Mâncare de varză, fără ulei (est.) | 60 | 1.5 | 10.0 | 0.3 | 2.5 | 4.0 | 0 | 170 g (porție) | vitC, k | estimate |
 | Walnuts (AB) | 708 | 17 | 5.4 | 68 | 6.7 | 2.4 | 0 | 30 g (1 mână) | mg, ω3 | [label](labels/ab-miez-de-nuca.md) (fibre est.) |
 | Mix de alune/nuci | 600 | 18 | 15 | 52 | 8.0 | 4.0 | 0 | 30 g (1 mână) | mg | estimate |
