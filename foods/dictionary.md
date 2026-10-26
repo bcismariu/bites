@@ -201,6 +201,7 @@ what matters, not the fat percentage.
 | Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
 | Ciorbă de pui cu cartofi (est.) | 50 | 3.0 | 7.0 | 1.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
+| Ciorbă de burtă (restaurant, cu smântână și gălbenuș) | 90 | 5.0 | 2.0 | 7.0 | 0.2 | 0.5 | 0 | 350 ml (1 bol) | b12, zn | estimate |
 | Supă chinezească de pui (tăiței, ou, ciuperci, legume) | 60 | 4.5 | 6.0 | 2.0 | 0.6 | 1.0 | 0.5 | 400 ml (1 bol) | b12 | estimate |
 | Ciorbă de văcuță (restaurant) (est., valoarea de pe meniu 217kcal/100g pare o eroare — recalculat din ingrediente) | 55 | 4.0 | 4.5 | 2.3 | 0.8 | 1.3 | 0 | 400 ml (1 bol) | iron, b12, vitC | estimate |
 | Clătită, homemade, no sugar | 210 | 6 | 27 | 8.5 | 1.0 | 2 | 0 | 60 g (1 buc) | — | estimate |
@@ -285,6 +286,7 @@ what matters, not the fat percentage.
 | Salmon, grilled | 208 | 20 | 0 | 13 | 0 | 0 | 0 | 150 g (1 file) | vitD, ω3, b12 | estimate |
 | Pește alb la cuptor cu legume (morcov, ardei, ceapă, țelină), fără ulei | 70 | 12.3 | 2.6 | 1.1 | 0.8 | 1.5 | 0 | 320 g (2 bucăți file + legume) | b12, vitC | estimate |
 | Chiflă (pâine albă) | 270 | 9 | 52 | 3.0 | 2.0 | 3.0 | 0 | 35 g (1 buc) | — | estimate |
+| Cașcaval pane (prăjit) | 320 | 16.0 | 18.0 | 21.0 | 0.8 | 1.0 | 0 | 65 g (1 felie panată) | ca | estimate |
 | Ravioli de casă cu piept de pui, sos de roșii | 180 | 10.0 | 22.0 | 6.0 | 1.5 | 3.0 | 0 | 350 g (1 porție) | vitC, b12, zn | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
 | Tigaie picantă cu pipote de curcan (ardei, morcov) | 128 | 11.4 | 6.0 | 6.3 | 1.2 | 2.8 | 0 | 250 g (1 bol) | iron, zn, b12, k, vitC | estimate |
