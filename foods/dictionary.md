@@ -146,6 +146,8 @@ what matters, not the fat percentage.
 | Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 0 | 120 g (1 medium, peeled) | — | estimate |
 | Bar, vegetable protein & coffee, 40 g | 366 | 23.6 | 26.3 | 16.3 | 20.1 | 1.2 | 0 | 40 g (1 baton) | — | [label](labels/baton-proteine-vegetale-cafea.md) |
 | Anchovies, fried whole (hamsii) | 265 | 20 | 3.0 | 18 | 0 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
+| Mujdei (usturoi, apă, puțin ulei) | 120 | 1.0 | 5.0 | 11.0 | 0.5 | 1.0 | 0 | 30 g (castronel) | — | estimate |
+| Ciulama de pui (sos alb cu făină, unt/smântână) | 140 | 12.0 | 5.0 | 8.0 | 0.3 | 1.5 | 0 | 250 g (porție) | b12, zn | estimate |
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
 | Burger de vită, cu cheese și sos (restaurant) | 252 | 13.7 | 14.1 | 14.8 | 0.7 | 2.2 | 1.2 | 270 g (1 burger) | b12, zn | estimate |
 | Coke zero zero | 0.2 | 0 | 0 | 0 | 0 | 0 | 0 | 330 ml (1 doză) | — | [label](labels/coca-cola-zero-zero.md) |
