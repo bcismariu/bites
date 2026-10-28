@@ -270,6 +270,7 @@ what matters, not the fat percentage.
 | Frigăruie de pui cu legume la cuptor | 129 | 12.8 | 7.9 | 4.9 | 1.2 | 1.4 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Grapes | 69 | 0.7 | 18 | 0.2 | 0.9 | 16 | 0 | 100 g | k | estimate |
 | Sărățele (biscuiți sărați) | 450 | 10 | 65 | 15 | 2.0 | 2.0 | 0 | 10 g (2 buc) | — | estimate |
+| Plăcintă cu brânză (patiserie, foi/foietaj) | 300 | 9.0 | 28.0 | 17.0 | 1.0 | 2.0 | 0 | 150 g (1 bucată) | ca | estimate |
 | Pineapple (ananas) | 50 | 0.5 | 13 | 0.1 | 1.4 | 10 | 0 | 80 g (1 felie) | vitC | estimate |
 | Hrișcă înăbușită cu roșii și morcov | 100 | 3.5 | 20 | 1.5 | 3.0 | 2.5 | 0 | 220 g (porție) | vitC, k | estimate |
 | Piept de pui cu legume la tigaie, fără ulei (dovlecel, morcov, roșii cherry) | 90 | 12 | 6.0 | 1.5 | 1.5 | 3.0 | 0 | 200 g (porție) | vitC, k, b12, zn | estimate |
