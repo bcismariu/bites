@@ -196,6 +196,7 @@ what matters, not the fat percentage.
 | Peach (piersică) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 150 g (1 medie) | vitC, k | estimate |
 | Peach, flat (piersică plată) | 39 | 0.9 | 9.5 | 0.3 | 1.5 | 8.4 | 0 | 120 g (1 buc) | vitC | estimate |
 | Cheese, telemea | 250 | 17 | 1 | 20 | 0 | 1 | 0 | 40 g | ca | estimate |
+| Brânză de vacă proaspătă, puțin sărată | 210 | 16.0 | 2.0 | 15.0 | 0 | 2.0 | 0 | 100 g | ca, b12 | estimate |
 | Dovlecel la grătar | 35 | 1.2 | 4.0 | 1.8 | 1.2 | 2.5 | 0 | 110 g (1/2 buc) | vitC, k | estimate |
 | Humus de conopidă | 120 | 3.0 | 6.0 | 9.0 | 2.5 | 2.0 | 0 | 50 g (strat pe pâine) | vitC | estimate |
 | Ciorbă de ciolan cu tarhon (cu smântână/ou) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
