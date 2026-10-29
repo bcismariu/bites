@@ -172,6 +172,7 @@ what matters, not the fat percentage.
 | Borș de văcuță (restaurant) | 65 | 5.0 | 3.4 | 3.3 | 0.55 | 1.1 | 0 | 400 ml (1 bol) | iron, k, b12, zn | estimate |
 | Broccoli & cauliflower, steamed | 30 | 2.2 | 6.1 | 0.4 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Conopidă, fiartă, simplă (est.) | 25 | 1.9 | 5.0 | 0.3 | 2.0 | 2.4 | 0 | 150 g | vitC, k | estimate |
+| Conopidă la cuptor, fără ulei | 30 | 2.0 | 5.5 | 0.3 | 2.2 | 2.4 | 0 | 150 g | vitC, k | estimate |
 | Broccoli & cauliflower, la abur cu unt (restaurant) | 55 | 2.2 | 6.1 | 3.0 | 2.9 | 1.8 | 0 | 250 g | vitC, k | estimate |
 | Broccoli, steamed | 35 | 2.4 | 7.2 | 0.4 | 3.3 | 1.4 | 0 | 150 g | vitC, k | estimate |
 | Varză de Bruxelles, fiartă/la abur | 36 | 2.5 | 7.1 | 0.5 | 2.6 | 1.7 | 0 | 100 g | vitC, k | estimate |
@@ -202,6 +203,8 @@ what matters, not the fat percentage.
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
+| Mâncare de cartofi cu pui, homemade, fără ulei | 95 | 7.0 | 12.0 | 2.0 | 1.5 | 1.5 | 0 | 300 g (porție) | k, b12, zn | estimate |
+| Aripioară de pui la cuptor (fără piele, carne) | 200 | 30.0 | 0 | 8.5 | 0 | 0 | 0 | 40 g (1 aripioară, partea comestibilă) | b12, zn | estimate |
 | Ciorbă de pui cu cartofi (est.) | 50 | 3.0 | 7.0 | 1.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
 | Ciorbă de burtă (restaurant, cu smântână și gălbenuș) | 90 | 5.0 | 2.0 | 7.0 | 0.2 | 0.5 | 0 | 350 ml (1 bol) | b12, zn | estimate |
 | Supă chinezească de pui (tăiței, ou, ciuperci, legume) | 60 | 4.5 | 6.0 | 2.0 | 0.6 | 1.0 | 0.5 | 400 ml (1 bol) | b12 | estimate |
