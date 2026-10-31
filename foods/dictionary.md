@@ -360,6 +360,7 @@ what matters, not the fat percentage.
 | Sandviș IKEA cu ou ochi, mezeluri și chiflă, cu puțin sos | 241 | 10.2 | 23.3 | 11.8 | 0.8 | 2.3 | 0.4 | 165 g (1 sandviș) | b12 | estimate |
 | Prăjitură tip cheesecake, puțin dulce (necunoscută) | 370 | 6.0 | 29.0 | 25.0 | 0.5 | 19.0 | 16.0 | 85 g (1 bucată) | ca | estimate |
 | Prăjitură de cofetărie cu cremă (generic) | 380 | 5.0 | 45.0 | 20.0 | 1.0 | 28.0 | 24.0 | 80 g (1 bucată) | — | estimate |
+| Prăjitură turcească cu sirop (tip baclava) | 430 | 6.0 | 50.0 | 23.0 | 2.0 | 30.0 | 28.0 | 70 g (1 bucată) | — | estimate |
 | Chiftele marinate de porc (în sos de roșii, restaurant) | 190 | 11.0 | 8.0 | 12.5 | 1.0 | 3.0 | 0.5 | 300 g (3 chiftele + sos) | b12, zn, iron | estimate |
 | Ciuperci gratinate cu brânză | 160 | 8.0 | 4.0 | 12.0 | 1.5 | 1.0 | 0 | 120 g (porție bufet) | — | estimate |
 | Pâine albă (bufet eveniment) | 265 | 9 | 49 | 3.2 | 2.7 | 3 | 0 | 60 g (~1.5 felii) | — | estimate |
