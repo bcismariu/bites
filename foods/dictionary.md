@@ -207,6 +207,7 @@ what matters, not the fat percentage.
 | Mâncare de cartofi cu pui, homemade, fără ulei | 95 | 7.0 | 12.0 | 2.0 | 1.5 | 1.5 | 0 | 300 g (porție) | k, b12, zn | estimate |
 | Aripioară de pui la cuptor (fără piele, carne) | 200 | 30.0 | 0 | 8.5 | 0 | 0 | 0 | 40 g (1 aripioară, partea comestibilă) | b12, zn | estimate |
 | Ciorbă de pui cu cartofi (est.) | 50 | 3.0 | 7.0 | 1.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
+| Ciorbă de curcan (cu cartofi și legume) | 55 | 4.0 | 6.0 | 1.8 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, zn | estimate |
 | Ciorbă de burtă (restaurant, cu smântână și gălbenuș) | 90 | 5.0 | 2.0 | 7.0 | 0.2 | 0.5 | 0 | 350 ml (1 bol) | b12, zn | estimate |
 | Supă chinezească de pui (tăiței, ou, ciuperci, legume) | 60 | 4.5 | 6.0 | 2.0 | 0.6 | 1.0 | 0.5 | 400 ml (1 bol) | b12 | estimate |
 | Ciorbă de văcuță (restaurant) (est., valoarea de pe meniu 217kcal/100g pare o eroare — recalculat din ingrediente) | 55 | 4.0 | 4.5 | 2.3 | 0.8 | 1.3 | 0 | 400 ml (1 bol) | iron, b12, vitC | estimate |
