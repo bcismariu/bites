@@ -396,6 +396,7 @@ what matters, not the fat percentage.
 | Pandișpan cu fructe, de casă (plăcintă) | 260 | 5.0 | 43.0 | 7.5 | 1.2 | 26.0 | 20.0 | 100 g (1 bucată) | — | estimate |
 | Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
+| Portocală | 47 | 0.9 | 11.8 | 0.1 | 2.4 | 9.4 | 0 | 180 g (1 medie, fără coajă) | vitC, k | estimate |
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
 | Ceai (neîndulcit) | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Coajă de psyllium | 300 | 0 | 88 | 0 | 85 | 0 | 0 | 10 g (1 linguriță) | — | estimate |
