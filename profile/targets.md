@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **76.85 kg** _(measured 2026-10-28, 05:30, morning)_ |
-| BMI | 22.0 — healthy range |
-| Body fat | **~20.0 %** _(bioimpedance scale, 2026-10-28)_ → fat ~15.37 kg, lean ~61.48 kg |
-| Muscle mass | **58.29 kg** _(2026-10-28)_ — **stable/up two weigh-ins in a row** (57.85 → 57.94 → 58.29): the decline stopped, see weight log |
+| Weight | **76.55 kg** _(measured 2026-11-05, 07:38, morning)_ |
+| BMI | 21.9 — healthy range |
+| Body fat | **~20.0 %** _(bioimpedance scale, 2026-11-05)_ → fat ~15.31 kg, lean ~61.24 kg |
+| Muscle mass | **58.06 kg** _(2026-11-05)_ — **stable** (57.85 → 57.94 → 58.29 → 58.06): the decline of early October has not returned, see weight log |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -64,6 +64,7 @@ is too aggressive or protein is too low.
 | 2026-10-09 | **76.60 kg** | 20.4 % | 57.85 kg | 11 | bioimpedance, 06:59 — **−0.65 kg în 5 zile**. Masa de grăsime calculată: **15.63 kg (+0.02 kg, practic neschimbată — zgomot)**. **Mușchiul a scăzut încă 0.65 kg — a doua scădere consecutivă**, cea mai mare dintre cele patru scăderi observate până acum. Nicio sesiune de sală raportată în această fereastră (ultima: 09-26) — ipoteza „sală absentă" revine ca factor plauzibil, pe lângă somnul tot inconsistent (04→05 și 05→06 bune, 9h/8h, 4/5, dar 06→07 doar 5h și 07→08 doar 4h, 3/5). Proteina zilnică a fost per total rezonabilă, deci nu pare principalul vinovat de data asta. Două scăderi consecutive de mușchi (−1.19 kg în 10 zile) depășesc clar pragul de zgomot BIA — merită reluată sala curând pentru a testa ipoteza. |
 | 2026-10-21 | **76.20 kg** | 19.8 % | 57.94 kg | 11 | bioimpedance, 06:58 — **−0.40 kg în 12 zile**. Masa de grăsime calculată: **15.09 kg (−0.54 kg)**. **Mușchiul s-a oprit din scădere: +0.09 kg** (sub pragul de zgomot — practic stabil), după două scăderi consecutive. Fereastra 10-09→10-20: aport mediu **2273 kcal/zi** (deficit ~127/zi ≈ 1525 kcal ≈ −0.20 kg grăsime prezis — măsurat −0.54, diferența în marja BIA/TDEE), **proteină medie 158 g/zi — prima fereastră întreagă pe target**, o ședință de sală (10-17, prima după 3 săptămâni), somn tot scurt (~6–7 h, o noapte de 3 h 30). Prima măsurătoare din perioada de observație de 2 săptămâni (decizie pe ~10-23). |
 | 2026-10-28 | **76.85 kg** | 20.0 % | 58.29 kg | 11 | bioimpedance, 05:30 — **+0.65 kg în 7 zile**. Masa de grăsime calculată: **15.37 kg (+0.28 kg)**. **Mușchiul +0.35 kg** — a doua măsurătoare la rând fără scădere. Fereastra 10-21→10-27: aport mediu **~2231 kcal/zi** (10-27 fără cină, 1208 kcal; deficit ~170/zi ≈ −0.15 kg grăsime prezis), cu weekend mare (10-24: 4169 kcal, 10-23: 2593) și prânz sărat în ajun (hamsii, mujdei) — creșterea de greutate e aproape sigur apă/glicogen/sare, ca la 09-28. **Talia a scăzut în aceeași dimineață la 88 cm (−2 cm)**, ceea ce contrazice o creștere reală de grăsime. Proteină medie ~119 g/zi; mișcare: doar 20 de genuflexiuni (10-23), abonamentul la sală expirat pe 10-21. Somn mai bun la final (25→26: 8 h 4/5, 26→27: 6 h 4/5), dar noaptea dinaintea cântăririi doar 4 h 15 (trezit la 03:15). |
+| 2026-11-05 | **76.55 kg** | 20.0 % | 58.06 kg | 11 | bioimpedance, 07:38 — **−0.30 kg în 8 zile** (apa de după weekendul din 10-24 a plecat). Masa de grăsime calculată: **15.31 kg (−0.06 kg, practic neschimbată)**. **Mușchi −0.23 kg** — în zgomotul BIA, tot peste nivelul din 10-09/10-21. Fereastra 10-28→11-04: aport mediu **~2473 kcal/zi** (surplus ~70/zi ≈ +0.07 kg grăsime prezis — măsurătoarea confirmă: practic menținere), cu vizita mamei (10-29→10-31: 3275, 3225, 2847 kcal). Proteină medie ~142 g/zi. Zero antrenament (abonament expirat, rutina de acasă neîncepută). Somn mult mai bun: 6 din ultimele 7 nopți la 4/5, culcare ~23:00. **A patra săptămână consecutivă practic la menținere.** |
 
 ## Waist log
 
@@ -78,6 +79,7 @@ eating. Always measure at the same place.
 | 2026-10-04 | **91 cm** | **0.487** | +1 cm față de 16 septembrie (18 zile) — contrazice scăderea de grăsime calculată pe cântar din aceeași zi (−1.05 kg în 6 zile). Probabil zgomot de măsurătoare (oră/postură diferită, sau balonare după ziua cu pizza din 10-01), nu un reversal real — grăsimea corporală % și masa de grăsime arată ambele în scădere. De remăsurat la următoarea verificare lunară pentru confirmare. |
 | 2026-10-21 | **90 cm** | **0.481** | −1 cm față de 10-04, înapoi la minimul din 16 septembrie — confirmă că 91 cm din 10-04 a fost zgomot. Consistent cu masa de grăsime calculată din aceeași dimineață (−0.54 kg față de 10-09). −1 cm față de baseline-ul din august. |
 | 2026-10-28 | **88 cm** | **0.471** | −2 cm în 7 zile — cel mai mic de până acum, −3 cm față de baseline-ul din august. Măsurat în aceeași dimineață cu cântarul care arăta +0.65 kg — sprijină ipoteza că plusul de pe cântar e apă, nu grăsime. O singură măsurătoare; de confirmat la următoarea. |
+| 2026-11-05 | **88 cm** | **0.471** | neschimbat față de 10-28 — confirmă că 88 cm nu a fost o măsurătoare izolată. Consistent cu masa de grăsime stabilă (săptămână la menținere). |
 
 Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
 increased. The simple rule is waist under half your height — 0.5 for 187 cm
