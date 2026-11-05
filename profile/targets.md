@@ -24,27 +24,34 @@ Revisit once the gym habit has a few weeks of history.
 
 ## Daily targets
 
-Cutting phase from 2026-08-08: TDEE ~2400 minus a ~500 kcal deficit, i.e.
-about **0.5 kg of fat per week**. Protein goes *up*, not down — in a deficit
-it is what protects muscle from being burned alongside the fat.
+**Recomposition phase from 2026-11-05** (decided after four weeks that were
+in practice at maintenance, with muscle stable and the waist down to 88 cm;
+the user felt the scale was dropping too far for 187 cm). The goal is no
+longer a lower scale weight but a different body at roughly the same weight:
+lose fat slowly while building muscle. A small deficit (~250 kcal under the
+~2400 TDEE) plus **strength training 3× per week** — the training is the
+non-negotiable part; without it recomposition does not happen.
 
 | Daily target | Value |
 |---|---|
-| Calories | 1900 kcal |
-| Protein | 160 g (~2.0 g/kg) |
-| Carbs | 170 g |
-| Fat | 65 g |
+| Calories | 2150 kcal |
+| Protein | 160 g (~2.1 g/kg) |
+| Carbs | 220 g |
+| Fat | 70 g |
 | Fiber | 35 g |
 | Added sugar | < 35 g (limit) |
 
-Stated precisely, the whole plan is one sentence:
+Expected pace: fat −0.3–0.5 kg/month, muscle +0.2–0.4 kg/month, scale
+roughly flat (~76–77 kg). Because the scale barely moves, progress is read
+from **waist** (target ~84–85 cm in 3–4 months), **muscle mass trend** and
+**strength** (reps/weights in the workout log). Next review: 2026-11-11, then
+monthly.
 
-> **Fat: 18.3 kg → ~8.5 kg. Muscle: 59.5 kg → 59.5 kg.**
-
-That lands at ~71–72 kg and ~12 % body fat, roughly **4–5 months** at this
-pace. Fat loss is not linear — weeks where the scale stalls are normal and
-not a reason to cut further. If muscle mass falls with the fat, the deficit
-is too aggressive or protein is too low.
+_Previous phase (2026-08-08 → 2026-11-04): cut at 1900 kcal / 160 g protein /
+170 g carbs / 65 g fat, aimed at "Fat 18.3 → ~8.5 kg, muscle held at 59.5 kg".
+Result: weight 81.0 → 76.55 kg, waist 91 → 88 cm, calculated fat ~18.3 →
+~15.3 kg; muscle dropped in the weeks without gym and recovered when training
+and protein were both in place._
 
 ## Weight log
 

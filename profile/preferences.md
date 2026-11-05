@@ -49,11 +49,28 @@ gets recorded here so it is never asked twice.
 
 ## Workout routine
 
-Full-body on machines, 2× per week, ~40 min. "My usual workout" means this.
+Full-body, **3× per week** (from 2026-11-05, recomposition phase), ~25–40 min.
+"My usual workout" means this.
 
 **Abonamentul la sală a expirat (2026-10-21)** — până la reînnoire se
 antrenează acasă; rutina de aparate de mai jos rămâne referința pentru
 greutăți și progresie. Echipament acasă: **benzi elastice**.
+
+**Rutina de acasă** (benzi elastice + greutatea corpului), echivalentul
+rutinei de aparate:
+
+| # | Exercițiu | Seturi × rep | Înlocuiește |
+|---|---|---|---|
+| 0 | Încălzire (marș pe loc, scări) | 5 min | banda de alergare |
+| 1 | Genuflexiuni → lente → cu rucsac → bulgărești | 3 × 12 | leg press |
+| 2 | Flotări (înclinate pe canapea → pe podea) | 3 × 8–12 | chest press |
+| 3 | **Ramat cu banda** (șezând, banda pe sub tălpi) | 3 × 12 | seated row |
+| 4 | **Tras de sus cu banda** (ancoră sus pe ușă, în genunchi) | 3 × 12 | lat pulldown |
+| 5 | Împins deasupra capului cu banda | 3 × 12 | shoulder press |
+| 6 | Plank | 3 × 40 sec | plank |
+
+Progresie la benzi: bandă mai groasă, distanță mai mare de ancoră, bandă
+dublată.
 The two pulling exercises are the priority — they counteract the desk job.
 
 | # | Exercise | Sets × reps | Working weight (2026-10-17) | Next |
