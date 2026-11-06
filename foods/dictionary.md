@@ -320,6 +320,7 @@ what matters, not the fat percentage.
 | Cornflakes (generic, cu zahăr/malț) | 378 | 7.0 | 84.0 | 0.9 | 3.0 | 8.0 | 7.0 | 40 g (1 bol) | — | estimate |
 | Orez expandat, simplu | 385 | 7.0 | 84.0 | 2.0 | 1.5 | 0.5 | 0 | 5 g (1 lingură) | — | estimate |
 | Rondele de orez expandat (rice cakes) | 387 | 8.0 | 81.0 | 3.0 | 4.0 | 0.5 | 0 | 8 g (1 rondea) | mg | estimate |
+| ETI Puf (biscuite cu bezea și granule colorate) | 402 | 3.2 | 78.0 | 8.2 | 1.3 | 50.0 | 48.0 | 18 g (1 bucată) | — | [label](labels/eti-puf-18g.md) |
 | Dovleac copt, simplu (est.) | 40 | 1.0 | 9.0 | 0.2 | 1.5 | 4.0 | 0 | 100 g (câteva felii) | vitC, k | estimate |
 | Gogoașă (cu zahăr) | 340 | 5.0 | 41 | 17 | 1.2 | 15 | 12 | 80 g (1 buc) | — | estimate |
 | Înghețată la vafă, vanilie (50 g) | 198 | 2.8 | 27.9 | 8.3 | 0.2 | 20.8 | 17 | 50 g (1 buc) | — | [label](labels/inghetata-vafa-vanilie-50g.md) |
