@@ -160,6 +160,7 @@ what matters, not the fat percentage.
 | Salam de biscuiți | 470 | 5.5 | 52 | 24 | 2.0 | 32 | 28 | 60 g (1 felie) | — | estimate |
 | Salam de biscuiți (mai gras, restaurant) | 490 | 5.0 | 48 | 30 | 2.0 | 30 | 26 | 60 g (1 felie subțire) | — | estimate |
 | Sardines in tomato sauce (Fish Market) | 140 | 19 | 0.8 | 6.7 | 0 | 0.7 | 0 | 120 g (1 cutie) | ω3, ca, vitD, b12 | [label](labels/fish-market-sardine-sos-tomate.md) |
+| Sardine în ulei de măsline (conservă, scurse) | 210 | 24.0 | 0 | 12.5 | 0 | 0 | 0 | 90 g (1 cutie scursă) | ω3, ca, vitD, b12 | estimate |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
 | Sfeclă roșie, fiartă, simplă | 44 | 1.7 | 10 | 0.2 | 2.0 | 7.0 | 0 | 150 g | iron, k | estimate |
 | Tartă de casă cu spanac, brânză și măsline (aluat fără unt, puține măsline) | 230 | 7.5 | 24 | 10 | 2.0 | 2.0 | 0 | 200 g (1 bucată generoasă) | ca, vitC | estimate |
@@ -318,6 +319,7 @@ what matters, not the fat percentage.
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
 | Cornflakes (generic, cu zahăr/malț) | 378 | 7.0 | 84.0 | 0.9 | 3.0 | 8.0 | 7.0 | 40 g (1 bol) | — | estimate |
 | Orez expandat, simplu | 385 | 7.0 | 84.0 | 2.0 | 1.5 | 0.5 | 0 | 5 g (1 lingură) | — | estimate |
+| Rondele de orez expandat (rice cakes) | 387 | 8.0 | 81.0 | 3.0 | 4.0 | 0.5 | 0 | 8 g (1 rondea) | mg | estimate |
 | Dovleac copt, simplu (est.) | 40 | 1.0 | 9.0 | 0.2 | 1.5 | 4.0 | 0 | 100 g (câteva felii) | vitC, k | estimate |
 | Gogoașă (cu zahăr) | 340 | 5.0 | 41 | 17 | 1.2 | 15 | 12 | 80 g (1 buc) | — | estimate |
 | Înghețată la vafă, vanilie (50 g) | 198 | 2.8 | 27.9 | 8.3 | 0.2 | 20.8 | 17 | 50 g (1 buc) | — | [label](labels/inghetata-vafa-vanilie-50g.md) |
