@@ -474,3 +474,5 @@ what matters, not the fat percentage.
 | Gulaș de vită (est.) | 150 | 11.0 | 9.0 | 9.0 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
 | Quesadilla cu pui și cașcaval (est.) | 280 | 12.0 | 28.0 | 14.0 | 2.0 | 2.0 | 0 | 180 g (1 buc) | ca | estimate |
 | Salată Caesar cu pui (restaurant) (est.) | 181 | 17.5 | 1.6 | 11.6 | 0.4 | 0.4 | 0 | 235 g (1 bol) | b12, ca | estimate |
+| Risotto cu parmezan (restaurant) | 150 | 4.0 | 20.0 | 6.0 | 0.5 | 0.5 | 0 | 300 g (1 porție) | ca | estimate |
+| Sos de salată (dressing cu ulei, generic) | 400 | 0.5 | 6.0 | 42.0 | 0 | 5.0 | 3.0 | 15 g (1 lingură) | — | estimate |
