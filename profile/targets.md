@@ -88,6 +88,7 @@ eating. Always measure at the same place.
 | 2026-10-21 | **90 cm** | **0.481** | −1 cm față de 10-04, înapoi la minimul din 16 septembrie — confirmă că 91 cm din 10-04 a fost zgomot. Consistent cu masa de grăsime calculată din aceeași dimineață (−0.54 kg față de 10-09). −1 cm față de baseline-ul din august. |
 | 2026-10-28 | **88 cm** | **0.471** | −2 cm în 7 zile — cel mai mic de până acum, −3 cm față de baseline-ul din august. Măsurat în aceeași dimineață cu cântarul care arăta +0.65 kg — sprijină ipoteza că plusul de pe cântar e apă, nu grăsime. O singură măsurătoare; de confirmat la următoarea. |
 | 2026-11-05 | **88 cm** | **0.471** | neschimbat față de 10-28 — confirmă că 88 cm nu a fost o măsurătoare izolată. Consistent cu masa de grăsime stabilă (săptămână la menținere). |
+| 2026-11-11 | **88 cm** | **0.471** | a treia măsurătoare la rând la 88 cm — plafon stabil; masa de grăsime calculată a scăzut în aceeași săptămână (−0.36 kg), dar sub ce poate arăta banda (~1 cm ≈ 0.7–1 kg de grăsime). |
 
 Men's thresholds: **<94 cm low risk**, 94–102 increased, >102 substantially
 increased. The simple rule is waist under half your height — 0.5 for 187 cm
