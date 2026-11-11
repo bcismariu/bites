@@ -6,10 +6,10 @@
 |---|---|
 | Born | 1984-09-09 (41) |
 | Height | 187 cm |
-| Weight | **76.55 kg** _(measured 2026-11-05, 07:38, morning)_ |
-| BMI | 21.9 — healthy range |
-| Body fat | **~20.0 %** _(bioimpedance scale, 2026-11-05)_ → fat ~15.31 kg, lean ~61.24 kg |
-| Muscle mass | **58.06 kg** _(2026-11-05)_ — **stable** (57.85 → 57.94 → 58.29 → 58.06): the decline of early October has not returned, see weight log |
+| Weight | **76.25 kg** _(measured 2026-11-11, 08:04, morning)_ |
+| BMI | 21.8 — healthy range |
+| Body fat | **~19.6 %** _(bioimpedance scale, 2026-11-11)_ → fat ~14.95 kg, lean ~61.30 kg |
+| Muscle mass | **58.13 kg** _(2026-11-11)_ — **stable** (57.85 → 57.94 → 58.29 → 58.06 → 58.13): the decline of early October has not returned, see weight log |
 | Visceral fat | 11 (scale index; 1–9 normal, 10–14 elevated) — baseline to watch |
 | Goal | **lose fat** — visible abs. Phase 1 target ~12 % body fat (~71–73 kg), then reassess. |
 
@@ -72,6 +72,7 @@ and protein were both in place._
 | 2026-10-21 | **76.20 kg** | 19.8 % | 57.94 kg | 11 | bioimpedance, 06:58 — **−0.40 kg în 12 zile**. Masa de grăsime calculată: **15.09 kg (−0.54 kg)**. **Mușchiul s-a oprit din scădere: +0.09 kg** (sub pragul de zgomot — practic stabil), după două scăderi consecutive. Fereastra 10-09→10-20: aport mediu **2273 kcal/zi** (deficit ~127/zi ≈ 1525 kcal ≈ −0.20 kg grăsime prezis — măsurat −0.54, diferența în marja BIA/TDEE), **proteină medie 158 g/zi — prima fereastră întreagă pe target**, o ședință de sală (10-17, prima după 3 săptămâni), somn tot scurt (~6–7 h, o noapte de 3 h 30). Prima măsurătoare din perioada de observație de 2 săptămâni (decizie pe ~10-23). |
 | 2026-10-28 | **76.85 kg** | 20.0 % | 58.29 kg | 11 | bioimpedance, 05:30 — **+0.65 kg în 7 zile**. Masa de grăsime calculată: **15.37 kg (+0.28 kg)**. **Mușchiul +0.35 kg** — a doua măsurătoare la rând fără scădere. Fereastra 10-21→10-27: aport mediu **~2231 kcal/zi** (10-27 fără cină, 1208 kcal; deficit ~170/zi ≈ −0.15 kg grăsime prezis), cu weekend mare (10-24: 4169 kcal, 10-23: 2593) și prânz sărat în ajun (hamsii, mujdei) — creșterea de greutate e aproape sigur apă/glicogen/sare, ca la 09-28. **Talia a scăzut în aceeași dimineață la 88 cm (−2 cm)**, ceea ce contrazice o creștere reală de grăsime. Proteină medie ~119 g/zi; mișcare: doar 20 de genuflexiuni (10-23), abonamentul la sală expirat pe 10-21. Somn mai bun la final (25→26: 8 h 4/5, 26→27: 6 h 4/5), dar noaptea dinaintea cântăririi doar 4 h 15 (trezit la 03:15). |
 | 2026-11-05 | **76.55 kg** | 20.0 % | 58.06 kg | 11 | bioimpedance, 07:38 — **−0.30 kg în 8 zile** (apa de după weekendul din 10-24 a plecat). Masa de grăsime calculată: **15.31 kg (−0.06 kg, practic neschimbată)**. **Mușchi −0.23 kg** — în zgomotul BIA, tot peste nivelul din 10-09/10-21. Fereastra 10-28→11-04: aport mediu **~2473 kcal/zi** (surplus ~70/zi ≈ +0.07 kg grăsime prezis — măsurătoarea confirmă: practic menținere), cu vizita mamei (10-29→10-31: 3275, 3225, 2847 kcal). Proteină medie ~142 g/zi. Zero antrenament (abonament expirat, rutina de acasă neîncepută). Somn mult mai bun: 6 din ultimele 7 nopți la 4/5, culcare ~23:00. **A patra săptămână consecutivă practic la menținere.** |
+| 2026-11-11 | **76.25 kg** | 19.6 % | 58.13 kg | 11 | bioimpedance, 08:04 — **−0.30 kg în 6 zile**. Masa de grăsime calculată: **14.95 kg (−0.36 kg)** — prima dată sub 15 kg. Mușchi +0.07 kg (stabil). Prima săptămână din faza de recompoziție (țintă 2150): aport mediu 11-05→11-10 **~1876 kcal/zi** (deficit ~520/zi ≈ 3140 kcal ≈ **−0.41 kg grăsime prezis — măsurat −0.36, potrivire foarte bună**). Proteină medie ~123 g/zi (sub 160). **Zero antrenamente** (planul cere 3/săpt.). Somn: 4 nopți la rând cu culcare 01:00–03:00 (3 h 30–5 h 30), apoi 7 h 30. Cântărire la ~9 h după o gustare de ~700 kcal la 23:00. |
 
 ## Waist log
 
