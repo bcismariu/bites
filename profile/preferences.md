@@ -157,3 +157,10 @@ new food, an unusual duration.
 ## Allergies & hard avoids
 
 - _(never suggest, ever)_
+
+**Intoleranță la lactoză (test de acum câțiva ani)** — confirmat 2026-11-12.
+Nu e o alergie și nu e un „avoid": tolerează fără simptome iaurtul de băut
+Olympus (~12 g lactoză/sticlă) și cana de lapte de la micul dejun. Nu
+sugera produse lactate în cantități mari dintr-odată (ex. 2 Olympus + lapte
+la aceeași masă); dacă apar simptome, variantele fără lactoză sau iaurtul
+grecesc la cutie (mai puțină lactoză) sunt alternativele.
