@@ -232,6 +232,7 @@ what matters, not the fat percentage.
 | Cucumber, peeled | 12 | 0.6 | 2.2 | 0.1 | 0.7 | 1.4 | 0 | 100 g (1 small) | — | estimate |
 | Seared tuna salad (avocado, roșii, portocală, migdale, glazură balsamică) | 134 | 11.2 | 7.1 | 7.3 | 2.5 | 3.4 | 1.4 | 350 g (1 porție) | vitC, k, b12, ω3 | estimate |
 | Salată cu ton, sos caesar (restaurant) | 180 | 9.0 | 8.0 | 13 | 1.5 | 2.0 | 0 | 300 g (1 porție) | b12 | estimate |
+| Salată cu ton și legume (caserolă 240 g) | 84 | 7.2 | 4.6 | 3.7 | 1.5 | 2.1 | 0.3 | 240 g (1 caserolă) | b12, ω3, vitC, k | [label](labels/salata-ton-legume-240g.md) |
 | Fritto misto (restaurant) | 280 | 12 | 20 | 18 | 1.0 | 1.0 | 0 | 150 g (10 bucăți) | b12 | estimate |
 | Sweet chili sauce | 200 | 0.5 | 48 | 0 | 0.5 | 45 | 40 | 20 g (garnitură) | — | estimate |
 | Supă cremă de roșii cu crutoane (restaurant) | 65 | 1.5 | 7.0 | 3.5 | 1.0 | 4.0 | 0 | 300 ml (1 bol) | vitC | estimate |
