@@ -142,6 +142,7 @@ what matters, not the fat percentage.
 |---|---|---|---|---|---|---|---|---|---|---|
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
 | Suc de mere (Ana Are, 100% fruct) | 52 | 0.01 | 12.7 | 0.1 | 0 | 11.7 | 11.7 | 250 ml (1 pahar) | — | [label](labels/ana-are-suc-mere.md) |
+| Suc de portocale (100%, fără zahăr adăugat) | 45 | 0.7 | 10.4 | 0.2 | 0.2 | 8.4 | 8.4 | 250 ml (1 pahar) | vitC, k | estimate |
 | Avocado | 160 | 2.0 | 8.5 | 15 | 6.7 | 0.7 | 0 | 30 g (1 felie) | k, mg | estimate |
 | Banana | 89 | 1.1 | 23 | 0.3 | 2.6 | 12 | 0 | 120 g (1 medium, peeled) | — | estimate |
 | Bar, vegetable protein & coffee, 40 g | 366 | 23.6 | 26.3 | 16.3 | 20.1 | 1.2 | 0 | 40 g (1 baton) | — | [label](labels/baton-proteine-vegetale-cafea.md) |
@@ -416,6 +417,7 @@ what matters, not the fat percentage.
 | Lasagna de pui, de casă | 150 | 10.0 | 13.0 | 6.5 | 1.0 | 2.5 | 0.3 | 250 g (bucată medie) | ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
 | Pizza vegetariană, felie (legume, cașcaval) | 230 | 9.0 | 30.0 | 8.0 | 2.5 | 3.5 | 0.5 | 130 g (1 felie) | ca, vitC | estimate |
+| Pizza quattro formaggi | 290 | 13.0 | 27.0 | 14.0 | 1.5 | 2.0 | 0.3 | 350 g (1 pizza mică, ~26 cm) | ca | estimate |
 | Pizza (30 cm, întreagă, blat, sos, cașcaval) (est.) | 265 | 11.0 | 30.0 | 10.0 | 2.0 | 3.0 | 0.8 | 500 g (1 pizza întreagă) | ca | estimate |
 | Pizza (Jerry's), blat subțire, mozzarella, ardei, măsline, pui | 220 | 12 | 22 | 9.0 | 1.5 | 2.5 | 0.5 | 250 g (jumătate pizza medie) | ca, vitC | estimate |
 | Șnițel de pui, pané, prăjit (fast-food) | 270 | 15 | 15 | 15 | 1.0 | 0.5 | 0 | 50 g | b12 | estimate |
