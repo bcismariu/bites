@@ -415,6 +415,7 @@ what matters, not the fat percentage.
 | Lasagna (carne, béchamel, cașcaval) | 165 | 9.0 | 13 | 8.4 | 1.0 | 2.5 | 0.3 | 350 g (1 porție) | iron, ca, b12, zn | estimate |
 | Lasagna de pui, de casă | 150 | 10.0 | 13.0 | 6.5 | 1.0 | 2.5 | 0.3 | 250 g (bucată medie) | ca, b12, zn | estimate |
 | Pizza, felie (blat, sos, cașcaval) | 265 | 11 | 30 | 10 | 2.0 | 3.0 | 0.8 | 130 g (1 felie din 32 cm) | ca | estimate |
+| Pizza vegetariană, felie (legume, cașcaval) | 230 | 9.0 | 30.0 | 8.0 | 2.5 | 3.5 | 0.5 | 130 g (1 felie) | ca, vitC | estimate |
 | Pizza (30 cm, întreagă, blat, sos, cașcaval) (est.) | 265 | 11.0 | 30.0 | 10.0 | 2.0 | 3.0 | 0.8 | 500 g (1 pizza întreagă) | ca | estimate |
 | Pizza (Jerry's), blat subțire, mozzarella, ardei, măsline, pui | 220 | 12 | 22 | 9.0 | 1.5 | 2.5 | 0.5 | 250 g (jumătate pizza medie) | ca, vitC | estimate |
 | Șnițel de pui, pané, prăjit (fast-food) | 270 | 15 | 15 | 15 | 1.0 | 0.5 | 0 | 50 g | b12 | estimate |
@@ -465,6 +466,7 @@ what matters, not the fat percentage.
 | Mix de alune/nuci | 600 | 18 | 15 | 52 | 8.0 | 4.0 | 0 | 30 g (1 mână) | mg | estimate |
 | Budincă de ovăz cu lapte de migdale (blender, fără zahăr) | 90 | 3.5 | 14 | 2.5 | 2.0 | 1.0 | 0 | 250 g (1 porție) | — | estimate |
 | Mini ecler cu vanilie (cofetărie) | 350 | 5.0 | 35 | 20 | 0.5 | 20 | 16 | 30 g (1 buc) | — | estimate |
+| Ecler mare cu cremă de vanilie și glazură de ciocolată | 340 | 5.0 | 36.0 | 19.0 | 0.8 | 22.0 | 18.0 | 100 g (1 buc mare) | — | estimate |
 | Foietaj cu cremă de vanilie și zahăr pudră (tip cremșnit, cantină) | 290 | 4.5 | 33.0 | 15.5 | 0.7 | 16.0 | 13.0 | 75 g (1 bucată) | — | estimate |
 | Macaron (cofetărie) | 420 | 6.0 | 58 | 18 | 2.0 | 50 | 45 | 10 g (1 buc) | — | estimate |
 | Chiftelute de pui cu sos, homemade | 180 | 18 | 6.0 | 9.0 | 0.5 | 3.0 | 0 | 150 g (porție) | b12, zn | estimate |
