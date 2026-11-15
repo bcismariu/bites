@@ -320,6 +320,7 @@ what matters, not the fat percentage.
 | Sărățea cu chimen (patiserie) (est.) | 450 | 8.0 | 42.0 | 27.0 | 1.5 | 2.0 | 0 | 18 g (1 buc) | — | estimate |
 | Mici (grătar, carne tocată) | 290 | 15 | 1.0 | 25 | 0 | 0 | 0 | 160 g (2 buc zdraveni) | b12, zn, iron | estimate |
 | Milk, semi-skimmed | 50 | 3.4 | 4.8 | 1.8 | 0 | 4.8 | 0 | 250 ml (1 cană) | ca, b12 | estimate |
+| Lapte de vacă integral nestandardizat (Lăptăria cu Caimac) | 68 | 3.4 | 4.3 | 4.0 | 0 | 3.2 | 0 | 250 ml (1 cană) | ca, b12 | [label](labels/laptaria-cu-caimac-lapte-vaca-integral.md) |
 | Cornflakes (generic, cu zahăr/malț) | 378 | 7.0 | 84.0 | 0.9 | 3.0 | 8.0 | 7.0 | 40 g (1 bol) | — | estimate |
 | Orez expandat, simplu | 385 | 7.0 | 84.0 | 2.0 | 1.5 | 0.5 | 0 | 5 g (1 lingură) | — | estimate |
 | Rondele de orez expandat (rice cakes) | 387 | 8.0 | 81.0 | 3.0 | 4.0 | 0.5 | 0 | 8 g (1 rondea) | mg | estimate |
