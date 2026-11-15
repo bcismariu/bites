@@ -11,6 +11,7 @@ gets recorded here so it is never asked twice.
 | „chia" | Semințe de chia Solaris | **1 linguriță (~5 g)** — porție ținută mic voit: chia are 30,8 g grăsime / 100 g și mănâncă din bugetul de calorii. Nu presupune lingura de 20 g. |
 | „cola neagră" | **Coke zero zero** (nu Coca-Cola normală!) | 330 ml (1 doză) — „neagră" descrie doza (culoarea cutiei), nu conținutul de zahăr. |
 | „zuzu stors" | Iaurt Zuzu 2 %, lactoză redusă | 1 pahar (150 g) |
+| „lapte" / „o cană de lapte" | **Lapte integral** (~4 % grăsime): Lăptăria cu Caimac sau Artesana — practic identice nutrițional; se loghează pe intrarea Lăptăria cu Caimac (label). Nu semidegresat. (confirmat 2026-11-15) | 1 cană (250 ml) |
 
 ## Habits & routine
 
