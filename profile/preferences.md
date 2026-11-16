@@ -165,3 +165,9 @@ Olympus (~12 g lactoză/sticlă) și cana de lapte de la micul dejun. Nu
 sugera produse lactate în cantități mari dintr-odată (ex. 2 Olympus + lapte
 la aceeași masă); dacă apar simptome, variantele fără lactoză sau iaurtul
 grecesc la cutie (mai puțină lactoză) sunt alternativele.
+
+**Test acasă 2026-11-15:** 750 ml lapte integral (~24 g lactoză, doza unui
+test clinic) la o singură masă → doar o ușoară balonare, neclar dacă de la
+lapte; niciun simptom serios. La testul inițial reacția fusese severă.
+Concluzie practică: tolerează bine lactoza în cantitățile obișnuite, chiar
+și ~24 g deodată. Restricția de mai sus rămâne doar o precauție blândă.
