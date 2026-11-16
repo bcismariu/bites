@@ -141,6 +141,7 @@ what matters, not the fat percentage.
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
+| Kiwi | 61 | 1.1 | 14.7 | 0.5 | 3.0 | 9.0 | 0 | 75 g (1 buc) | vitC, k | estimate |
 | Suc de mere (Ana Are, 100% fruct) | 52 | 0.01 | 12.7 | 0.1 | 0 | 11.7 | 11.7 | 250 ml (1 pahar) | — | [label](labels/ana-are-suc-mere.md) |
 | Suc de portocale (100%, fără zahăr adăugat) | 45 | 0.7 | 10.4 | 0.2 | 0.2 | 8.4 | 8.4 | 250 ml (1 pahar) | vitC, k | estimate |
 | Avocado | 160 | 2.0 | 8.5 | 15 | 6.7 | 0.7 | 0 | 30 g (1 felie) | k, mg | estimate |
@@ -389,6 +390,7 @@ what matters, not the fat percentage.
 | Mazăre cu carne de porc | 147 | 8.9 | 10.3 | 7.7 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Mazăre cu carne de pui | 115 | 10.0 | 10.3 | 4.0 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Pui cu mazăre și cartofi, homemade, fără ulei | 113 | 12.0 | 10.1 | 2.4 | 2.0 | 2.1 | 0 | 350 g (1 porție) | iron, k, b12, zn | estimate |
+| Orez cu mazăre, porumb și pui, homemade | 130 | 10.0 | 18.0 | 2.0 | 1.5 | 1.5 | 0 | 300 g (1 porție) | b12, zn, k | estimate |
 | Mazăre boabe, fiartă, simplă | 90 | 5.0 | 15 | 2.0 | 5.0 | 6.0 | 0 | 300 g (1 porție) | iron, k | estimate |
 | Gogonele murate (roșii verzi murate) | 18 | 0.8 | 3.5 | 0.1 | 1.0 | 2.0 | 0 | 150 g | — | estimate |
 | Musaca (cartofi, carne tocată, sos alb) | 185 | 8.5 | 13 | 11.5 | 1.3 | 2.5 | 0 | 350 g (1 porție) | iron, b12, zn | estimate |
