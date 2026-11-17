@@ -162,6 +162,7 @@ what matters, not the fat percentage.
 | Salată de ardei copți (cu oțet) | 60 | 1.0 | 6.0 | 3.5 | 2.0 | 3.3 | 0 | 120 g | vitC | estimate |
 | Salam de biscuiți | 470 | 5.5 | 52 | 24 | 2.0 | 32 | 28 | 60 g (1 felie) | — | estimate |
 | Salam de biscuiți (mai gras, restaurant) | 490 | 5.0 | 48 | 30 | 2.0 | 30 | 26 | 60 g (1 felie subțire) | — | estimate |
+| Tort de biscuiți cu cremă de cacao și sos de ciocolată (restaurant) | 340 | 5.0 | 46 | 15 | 1.5 | 30 | 26 | 225 g (1 felie mare) | — | estimate |
 | Sardines in tomato sauce (Fish Market) | 140 | 19 | 0.8 | 6.7 | 0 | 0.7 | 0 | 120 g (1 cutie) | ω3, ca, vitD, b12 | [label](labels/fish-market-sardine-sos-tomate.md) |
 | Sardine în ulei de măsline (conservă, scurse) | 210 | 24.0 | 0 | 12.5 | 0 | 0 | 0 | 90 g (1 cutie scursă) | ω3, ca, vitD, b12 | estimate |
 | Beetroot salad, dressed | 60 | 1.6 | 10 | 1.5 | 2.8 | 7.5 | 1.0 | 200 g | iron, k | estimate |
