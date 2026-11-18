@@ -350,6 +350,7 @@ what matters, not the fat percentage.
 | Chiftele prăjite (restaurant, carne tocată mixtă) | 260 | 16.0 | 9.0 | 17.0 | 0.5 | 1.0 | 0 | 90 g (1 buc mare) | b12, zn, iron | estimate |
 | Cuscus, fiert, simplu (est.) | 112 | 3.8 | 23.0 | 0.2 | 1.4 | 0 | 0 | 150 g | — | estimate |
 | Tzatziki (est.) | 75 | 3.5 | 3.5 | 5.5 | 0.5 | 2.5 | 0 | 60 g (garnitură) | ca | estimate |
+| Orez cu lapte (caserolă, cu scorțișoară) | 130 | 3.5 | 22 | 3.0 | 0.3 | 12 | 8 | 150 g (1 caserolă) | ca, b12 | estimate |
 | Morcov și păstârnac la cuptor (puțin ulei) | 78 | 1.0 | 13.5 | 2.5 | 3.8 | 4.6 | 0 | 200 g (porție) | k | estimate |
 | Prăjitură (tartă mică) cu cremă dulce și zmeură | 450 | 4.0 | 45 | 28 | 1.0 | 25 | 22 | 40 g (1 buc) | — | estimate |
 | Plăcintă cu gem și crumble (restaurant) (est., blat fărâmicios cu mult unt, nu foarte dulce) | 365 | 4.5 | 42.0 | 19.0 | 1.5 | 18.0 | 15.0 | 130 g (1 felie) | — | estimate |
