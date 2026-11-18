@@ -303,6 +303,7 @@ what matters, not the fat percentage.
 | Cașcaval pane (prăjit) | 320 | 16.0 | 18.0 | 21.0 | 0.8 | 1.0 | 0 | 65 g (1 felie panată) | ca | estimate |
 | Ravioli de casă cu piept de pui, sos de roșii | 180 | 10.0 | 22.0 | 6.0 | 1.5 | 3.0 | 0 | 350 g (1 porție) | vitC, b12, zn | estimate |
 | Iahnie de fasole (white bean stew) | 110 | 5.5 | 16 | 2.5 | 5.0 | 1.0 | 0 | 250 g | iron, mg, k | estimate |
+| Cârnați de porc afumați, la grătar (subțiri, lungi) | 300 | 14.0 | 2.0 | 26.0 | 0 | 1.0 | 0 | 120 g (2 buc) | b12, zn | estimate |
 | Tigaie picantă cu pipote de curcan (ardei, morcov) | 128 | 11.4 | 6.0 | 6.3 | 1.2 | 2.8 | 0 | 250 g (1 bol) | iron, zn, b12, k, vitC | estimate |
 | Tocăniță de pipote de curcan cu cartofi | 122 | 10.3 | 9.7 | 4.5 | 1.2 | 1.7 | 0 | 300 g (1 bol) | iron, zn, b12, k | estimate |
 | Ficăței de pui, la tigaie (simpli) | 165 | 24 | 1.0 | 6.0 | 0 | 0 | 0 | 160 g (porție) | iron, b12, zn | estimate |
