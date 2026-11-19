@@ -360,6 +360,7 @@ what matters, not the fat percentage.
 | Negresă de casă | 400 | 5.5 | 50.0 | 20.0 | 2.5 | 32.0 | 30.0 | 70 g (1 bucată) | — | estimate |
 | Șnițel de pui (pane, prăjit) | 230 | 20.0 | 10.0 | 12.0 | 0.5 | 0.5 | 0 | 150 g (1 bucată) | b12, zn | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
+| Sandviș curcan pulled (baghetă cu susan, sos remoulade, castravete murat, salată verde) | 222 | 11.5 | 27.5 | 7.7 | 1.3 | 3.8 | 1.6 | 280 g (1 sandviș lung, ~25 cm) | b12, zn | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Mozzarella, bucățele (ciliegine) | 280 | 18 | 2.2 | 22 | 0 | 1.0 | 0 | 30 g (3 bucățele) | ca | estimate |
 | Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
