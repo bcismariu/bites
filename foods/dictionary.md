@@ -141,6 +141,7 @@ what matters, not the fat percentage.
 | Food | kcal | Protein | Carbs | Fat | Fiber | Sugar | Added | Usual portion | Key micros | Source |
 |---|---|---|---|---|---|---|---|---|---|---|
 | Apple, red | 52 | 0.3 | 14 | 0.2 | 2.4 | 10 | 0 | 180 g (1 medium) | — | estimate |
+| Mandarină | 53 | 0.8 | 13.3 | 0.3 | 1.8 | 10.6 | 0 | 80 g (1 buc, decojită) | vitC | estimate |
 | Kiwi | 61 | 1.1 | 14.7 | 0.5 | 3.0 | 9.0 | 0 | 75 g (1 buc) | vitC, k | estimate |
 | Suc de mere (Ana Are, 100% fruct) | 52 | 0.01 | 12.7 | 0.1 | 0 | 11.7 | 11.7 | 250 ml (1 pahar) | — | [label](labels/ana-are-suc-mere.md) |
 | Suc de portocale (100%, fără zahăr adăugat) | 45 | 0.7 | 10.4 | 0.2 | 0.2 | 8.4 | 8.4 | 250 ml (1 pahar) | vitC, k | estimate |
@@ -439,6 +440,8 @@ what matters, not the fat percentage.
 | Trout, cooked | 168 | 24 | 0 | 7.5 | 0 | 0 | 0 | 180 g (carne de la 1 păstrăv) | ω3, vitD, b12 | estimate |
 | Rice, white, cooked | 130 | 2.7 | 28 | 0.3 | 0.4 | 0.1 | 0 | 180 g | — | estimate |
 | Doradă, la grătar/cuptor (carne, fără os) | 135 | 24 | 0 | 4.5 | 0 | 0 | 0 | 200 g (carnea de la 1 pește) | ω3, b12 | estimate |
+| Pește alb, file, la cuptor/fiert, fără ulei (generic) | 105 | 22.0 | 0 | 1.5 | 0 | 0 | 0 | 100 g | b12 | estimate |
+| Ton afumat, file feliat | 120 | 26.0 | 0 | 1.5 | 0 | 0 | 0 | 30 g (1 felie) | ω3, b12 | estimate |
 | Ceafă de porc la grătar | 290 | 26 | 0 | 21 | 0 | 0 | 0 | 170 g (1 porție restaurant) | b12, zn | estimate |
 | Pulpă de pui dezosată, la grătar (fără piele) | 209 | 26 | 0 | 11 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
 | Pulpă de pui dezosată, cu piele, la grătar | 250 | 25 | 0 | 17 | 0 | 0 | 0 | 170 g (1 porție) | b12, zn | estimate |
