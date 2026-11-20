@@ -262,6 +262,7 @@ what matters, not the fat percentage.
 | Ton bucăți în suc propriu (skipjack, Vietnam) | 108 | 24.4 | 0 | 1.2 | 0 | 0 | 0 | 112 g (componentă solidă, cutie) | ω3, b12 | [label](labels/ton-bucati-suc-propriu-vietnam-skipjack.md) |
 | Ton mărunțit în suc propriu (Darinne) | 86 | 18.5 | 0 | 1.3 | 0 | 0 | 0 | 100 g scurs | ω3, b12 | [label](labels/ton-maruntit-darinne.md) |
 | Eggplant salad (salată de vinete) | 190 | 1.2 | 5.0 | 18 | 3.0 | 2.5 | 0 | 60 g | k | estimate |
+| Salată de boeuf (legume fierte, carne, murături, maioneză) | 200 | 5.0 | 10.0 | 16.0 | 2.0 | 3.0 | 0.5 | 100 g (2–3 linguri) | — | estimate |
 | Mâncare de ficăței de pui (cu ardei, roșii) | 151 | 17.0 | 5.3 | 7.0 | 0.7 | 2.0 | 0 | 150 g (porție) | iron, b12, vitC, zn | estimate |
 | Tocană de vinete cu ardei | 105 | 2.0 | 8.0 | 7.5 | 2.8 | 4.5 | 0 | 150 g (garnitură) | vitC, k | estimate |
 | Mâncărică de pipote cu ciuperci și ardei (sos de roșii) | 115 | 15 | 6.0 | 3.5 | 1.5 | 3.0 | 0 | 250 g (1 porție) | iron, zn, b12, vitC | estimate |
@@ -374,6 +375,7 @@ what matters, not the fat percentage.
 | Sandviș IKEA cu ou ochi, mezeluri și chiflă, cu puțin sos | 241 | 10.2 | 23.3 | 11.8 | 0.8 | 2.3 | 0.4 | 165 g (1 sandviș) | b12 | estimate |
 | Prăjitură tip cheesecake, puțin dulce (necunoscută) | 370 | 6.0 | 29.0 | 25.0 | 0.5 | 19.0 | 16.0 | 85 g (1 bucată) | ca | estimate |
 | Prăjitură de cofetărie cu cremă (generic) | 380 | 5.0 | 45.0 | 20.0 | 1.0 | 28.0 | 24.0 | 80 g (1 bucată) | — | estimate |
+| Cozonac (cu nucă/cacao sau rahat) | 360 | 8.0 | 52.0 | 13.0 | 2.0 | 22.0 | 18.0 | 60 g (1 felie) | — | estimate |
 | Prăjitură turcească cu sirop (tip baclava) | 430 | 6.0 | 50.0 | 23.0 | 2.0 | 30.0 | 28.0 | 70 g (1 bucată) | — | estimate |
 | Chiftele marinate de porc (în sos de roșii, restaurant) | 190 | 11.0 | 8.0 | 12.5 | 1.0 | 3.0 | 0.5 | 300 g (3 chiftele + sos) | b12, zn, iron | estimate |
 | Ciuperci gratinate cu brânză | 160 | 8.0 | 4.0 | 12.0 | 1.5 | 1.0 | 0 | 120 g (porție bufet) | — | estimate |
