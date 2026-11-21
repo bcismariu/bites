@@ -363,6 +363,7 @@ what matters, not the fat percentage.
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
 | Sandviș curcan pulled (baghetă cu susan, sos remoulade, castravete murat, salată verde) | 222 | 11.5 | 27.5 | 7.7 | 1.3 | 3.8 | 1.6 | 280 g (1 sandviș lung, ~25 cm) | b12, zn | estimate |
 | Sandviș șnițel de pui (baghetă cu susan, sos remoulade, castravete murat, salată verde) | 236 | 10.8 | 27.3 | 9.2 | 1.5 | 2.4 | 0.3 | 300 g (1 sandviș lung, ~25 cm) | b12, zn | estimate |
+| Sandviș piept de pui copt (baghetă cu susan, sos remoulade, piept slow-cooked, sfeclă roșie murată, salată verde) | 220 | 14.1 | 25.2 | 6.6 | 1.4 | 3.1 | 0.7 | 285 g (1 sandviș lung, ~25 cm) | b12, zn | estimate |
 | Eggs, boiled | 155 | 13 | 1.1 | 10.6 | 0 | 1.1 | 0 | 110 g (2 ouă) | b12, vitD | estimate |
 | Mozzarella, bucățele (ciliegine) | 280 | 18 | 2.2 | 22 | 0 | 1.0 | 0 | 30 g (3 bucățele) | ca | estimate |
 | Crenvurst de pui | 230 | 12 | 2.0 | 19 | 0 | 1.0 | 0 | 70 g (1 buc mare) | — | estimate |
