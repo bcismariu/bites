@@ -93,7 +93,10 @@ session 5 (09-20) 70 / 35 / 23.5 / 16.5 / 10 kg, toate 3 × 12 curat, plank săr
 greutăți ținute voit conservator la revenire, nu s-a încercat urcarea →
 session 6 (09-26) 70 / 35 / — / 16.5 / 10 kg, seated row sărit (ocupat) →
 **pauză de 3 săptămâni** →
-session 7 (10-17) 55 / 35 / 23.5 (2 × 12) / 16.5 / 10 kg._
+session 7 (10-17) 55 / 35 / 23.5 (2 × 12) / 16.5 / 10 kg →
+**pauză de 5 săptămâni** (abonament expirat) →
+session 8 (11-21) 50 / 30 / 20 / 15 (12+12+10) / 7.5 kg, plank sărit —
+reluare cu greutăți reduse voit._
 
 **Pașii aparatelor:** seated row urcă 20 → **23.5** (nu 22.5). Nu prescrie
 greutăți care nu există pe placă.
