@@ -212,6 +212,7 @@ what matters, not the fat percentage.
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
 | Mâncare de cartofi cu pui, homemade, fără ulei | 95 | 7.0 | 12.0 | 2.0 | 1.5 | 1.5 | 0 | 300 g (porție) | k, b12, zn | estimate |
 | Aripioară de pui la cuptor (fără piele, carne) | 200 | 30.0 | 0 | 8.5 | 0 | 0 | 0 | 40 g (1 aripioară, partea comestibilă) | b12, zn | estimate |
+| Ciorbă de aripioare de pui | 60 | 3.5 | 6.0 | 2.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
 | Ciorbă de pui cu cartofi (est.) | 50 | 3.0 | 7.0 | 1.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
 | Ciorbă de curcan (cu cartofi și legume) | 55 | 4.0 | 6.0 | 1.8 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, zn | estimate |
 | Ciorbă de burtă (restaurant, cu smântână și gălbenuș) | 90 | 5.0 | 2.0 | 7.0 | 0.2 | 0.5 | 0 | 350 ml (1 bol) | b12, zn | estimate |
@@ -377,6 +378,7 @@ what matters, not the fat percentage.
 | Sandviș IKEA cu ou ochi, mezeluri și chiflă, cu puțin sos | 241 | 10.2 | 23.3 | 11.8 | 0.8 | 2.3 | 0.4 | 165 g (1 sandviș) | b12 | estimate |
 | Prăjitură tip cheesecake, puțin dulce (necunoscută) | 370 | 6.0 | 29.0 | 25.0 | 0.5 | 19.0 | 16.0 | 85 g (1 bucată) | ca | estimate |
 | Prăjitură de cofetărie cu cremă (generic) | 380 | 5.0 | 45.0 | 20.0 | 1.0 | 28.0 | 24.0 | 80 g (1 bucată) | — | estimate |
+| Plăcintă cu mere de casă (aluat, mere, zahăr) | 260 | 3.5 | 38.0 | 10.0 | 1.5 | 16.0 | 10.0 | 70 g (1 bucată) | — | estimate |
 | Cozonac (cu nucă/cacao sau rahat) | 360 | 8.0 | 52.0 | 13.0 | 2.0 | 22.0 | 18.0 | 60 g (1 felie) | — | estimate |
 | Prăjitură turcească cu sirop (tip baclava) | 430 | 6.0 | 50.0 | 23.0 | 2.0 | 30.0 | 28.0 | 70 g (1 bucată) | — | estimate |
 | Chiftele marinate de porc (în sos de roșii, restaurant) | 190 | 11.0 | 8.0 | 12.5 | 1.0 | 3.0 | 0.5 | 300 g (3 chiftele + sos) | b12, zn, iron | estimate |
@@ -398,6 +400,7 @@ what matters, not the fat percentage.
 | Mămăligă (simplă, fără unt) | 85 | 2.0 | 18 | 0.5 | 1.0 | 0 | 0 | 220 g (1 porție) | — | estimate |
 | Mazăre cu carne de porc | 147 | 8.9 | 10.3 | 7.7 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Mazăre cu carne de pui | 115 | 10.0 | 10.3 | 4.0 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
+| Mazăre cu aripioare de pui | 135 | 9.5 | 10.3 | 6.0 | 3.7 | 3.8 | 0 | 300 g (1 porție) | iron, k, b12, zn | estimate |
 | Pui cu mazăre și cartofi, homemade, fără ulei | 113 | 12.0 | 10.1 | 2.4 | 2.0 | 2.1 | 0 | 350 g (1 porție) | iron, k, b12, zn | estimate |
 | Orez cu mazăre, porumb și pui, homemade | 130 | 10.0 | 18.0 | 2.0 | 1.5 | 1.5 | 0 | 300 g (1 porție) | b12, zn, k | estimate |
 | Mazăre boabe, fiartă, simplă | 90 | 5.0 | 15 | 2.0 | 5.0 | 6.0 | 0 | 300 g (1 porție) | iron, k | estimate |
