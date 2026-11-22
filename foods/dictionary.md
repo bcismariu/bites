@@ -212,6 +212,7 @@ what matters, not the fat percentage.
 | Ciorbă de pui cu găluște | 55 | 3.0 | 6.0 | 1.8 | 0.5 | 0.4 | 0 | 400 ml (1 bol) | b12 | estimate |
 | Mâncare de cartofi cu pui, homemade, fără ulei | 95 | 7.0 | 12.0 | 2.0 | 1.5 | 1.5 | 0 | 300 g (porție) | k, b12, zn | estimate |
 | Aripioară de pui la cuptor (fără piele, carne) | 200 | 30.0 | 0 | 8.5 | 0 | 0 | 0 | 40 g (1 aripioară, partea comestibilă) | b12, zn | estimate |
+| Aripioare de pui la cuptor, cu piele (partea comestibilă) | 250 | 24.0 | 0 | 17.0 | 0 | 0 | 0 | 40 g (1 aripioară) | b12, zn | estimate |
 | Ciorbă de aripioare de pui | 60 | 3.5 | 6.0 | 2.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
 | Ciorbă de pui cu cartofi (est.) | 50 | 3.0 | 7.0 | 1.5 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, k | estimate |
 | Ciorbă de curcan (cu cartofi și legume) | 55 | 4.0 | 6.0 | 1.8 | 0.8 | 1.0 | 0 | 400 ml (1 bol) | b12, zn | estimate |
