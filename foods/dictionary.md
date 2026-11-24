@@ -206,6 +206,7 @@ what matters, not the fat percentage.
 | Dovlecel la grătar | 35 | 1.2 | 4.0 | 1.8 | 1.2 | 2.5 | 0 | 110 g (1/2 buc) | vitC, k | estimate |
 | Humus de conopidă | 120 | 3.0 | 6.0 | 9.0 | 2.5 | 2.0 | 0 | 50 g (strat pe pâine) | vitC | estimate |
 | Ciorbă de ciolan cu tarhon (cu smântână/ou) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
+| Ciorbă de afumătură cu tarhon (cu smântână/ou, restaurant) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
