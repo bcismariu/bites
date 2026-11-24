@@ -64,6 +64,8 @@ When the user reports eating something (e.g. *"I had two apples and a yogurt"*):
    two turns can be five minutes or five hours apart and look identical.
    Check the clock whenever a timestamp matters: meals, workouts, sauna,
    anything feeding the sleep analysis.
+   Photo filenames like `20261124_093702.jpeg` carry the time in **UTC**,
+   not Romanian time — add 2 h (winter) / 3 h (summer) before using them.
 4. **Write the day file** `log/YYYY/MM/YYYY-MM-DD.md` (create directories as
    needed), following the template below. Recompute the **Day totals** section
    on every edit.
