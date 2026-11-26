@@ -208,6 +208,7 @@ what matters, not the fat percentage.
 | Humus de conopidă | 120 | 3.0 | 6.0 | 9.0 | 2.5 | 2.0 | 0 | 50 g (strat pe pâine) | vitC | estimate |
 | Ciorbă de ciolan cu tarhon (cu smântână/ou) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
 | Ciorbă de afumătură cu tarhon (cu smântână/ou, restaurant) | 75 | 5.0 | 4.0 | 4.5 | 0.5 | 1.0 | 0 | 400 ml (1 bol) | iron, zn, b12, k | estimate |
+| Ciorbă de legume cu cârnați afumați (restaurant) | 55 | 3.0 | 6.0 | 2.0 | 1.5 | 2.0 | 0 | 400 ml (1 bol) | vitC, k, b12 | estimate |
 | Ciorbă de fasole albă (fără carne) | 85 | 4.5 | 13 | 2.0 | 4.0 | 1.0 | 0 | 350 g (1 bol) | iron, mg, k | estimate |
 | Ghiveci de legume cu pui | 95 | 7.0 | 8.0 | 4.0 | 2.0 | 3.0 | 0 | 350 g (1 porție) | vitC, k, b12, zn | estimate |
 | Supă de roșii cu fidea, cartofi și legume | 45 | 1.5 | 8.0 | 1.0 | 1.0 | 2.0 | 0 | 400 ml (1 bol) | vitC, k | estimate |
@@ -351,6 +352,7 @@ what matters, not the fat percentage.
 | Cartofi copți/prăjiți (garnitură bufet) | 140 | 2.0 | 20 | 5.0 | 2.0 | 1.0 | 0 | 150 g | — | estimate |
 | Cartofi prăjiți cu parmezan (restaurant) | 308 | 6.0 | 35.4 | 15.2 | 2.8 | 0.5 | 0 | 195 g (1 porție) | ca | estimate |
 | Cartofi prăjiți, tăiați gros (cartofi țărănești, restaurant) (est.) | 200 | 3.0 | 28.0 | 8.5 | 2.8 | 1.0 | 0 | 300 g (1 porție) | — | estimate |
+| Cartofi prăjiți (pai/felii cu coajă, prăjiți în ulei, restaurant) | 280 | 3.5 | 35.0 | 14.0 | 3.2 | 0.5 | 0 | 175 g (1 porție) | k | estimate |
 | Mint tea, unsweetened | 1 | 0 | 0.2 | 0 | 0 | 0 | 0 | 250 ml (1 cană) | — | estimate |
 | Guacamole | 150 | 2.0 | 8.0 | 14.0 | 6.0 | 1.0 | 0 | 50 g | — | estimate |
 | Chiftea de pui, homemade, coaptă/la abur (fără ulei) | 180 | 20.0 | 4.0 | 9.0 | 0.3 | 0.5 | 0 | 80 g (1 buc) | b12, zn | estimate |
