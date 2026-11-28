@@ -151,6 +151,7 @@ what matters, not the fat percentage.
 | Anchovies, fried whole (hamsii) | 265 | 20 | 3.0 | 18 | 0 | 0 | 0 | 150 g (1 porție) | ω3, vitD, ca, b12 | estimate |
 | Mujdei (usturoi, apă, puțin ulei) | 120 | 1.0 | 5.0 | 11.0 | 0.5 | 1.0 | 0 | 30 g (castronel) | — | estimate |
 | Ciulama de inimi și pipote de pui (sos alb cu făină, unt/smântână) | 145 | 13.0 | 5.0 | 8.5 | 0.3 | 1.5 | 0 | 250 g (porție) | iron, zn, b12 | estimate |
+| Ciulama de ciuperci (sos alb cu unt/smântână) | 120 | 2.5 | 6.0 | 9.5 | 1.0 | 1.5 | 0 | 60 g (2 linguri) | k | estimate |
 | Ostropel de pui (sos de roșii cu usturoi, de casă, puțin ulei) | 130 | 14.0 | 5.0 | 6.0 | 0.8 | 2.5 | 0 | 250 g (porție) | b12, zn | estimate |
 | Pui cu sos de roșii și ciuperci (restaurant) | 130 | 14.0 | 4.0 | 6.0 | 1.0 | 2.5 | 0 | 200 g (porție) | b12, zn, k | estimate |
 | Beer, non-alcoholic | 25 | 0.3 | 5.0 | 0 | 0 | 2.5 | 0 | 330 ml | — | estimate |
@@ -382,6 +383,7 @@ what matters, not the fat percentage.
 | OSHEE baton cu arahide, fistic și ciocolată neagră | 551 | 22.1 | 17.4 | 43.7 | 6.8 | 7.4 | 7.0 | 40 g (1 baton) | mg | [label](labels/oshee-baton-arahide-fistic-ciocolata.md) |
 | Baton de ovăz cu ciocolată, merișoare și nucă | 430 | 6.5 | 54.4 | 19.6 | 4.9 | 28.3 | 26.0 | 60 g (1 baton) | — | [label](labels/baton-ovaz-merisoare-nuca-ciocolata.md) |
 | Mezeluri (salam/șuncă), felii | 250 | 12 | 2.0 | 22 | 0 | 1.0 | 0 | 90 g (6 felii) | — | estimate |
+| Șuncă prăjită (felii, la tigaie) | 220 | 18.0 | 1.5 | 16.0 | 0 | 1.0 | 0 | 60 g (4 felii) | b12, zn | estimate |
 | Sandviș IKEA cu ou ochi, mezeluri și chiflă, cu puțin sos | 241 | 10.2 | 23.3 | 11.8 | 0.8 | 2.3 | 0.4 | 165 g (1 sandviș) | b12 | estimate |
 | Prăjitură tip cheesecake, puțin dulce (necunoscută) | 370 | 6.0 | 29.0 | 25.0 | 0.5 | 19.0 | 16.0 | 85 g (1 bucată) | ca | estimate |
 | Prăjitură de cofetărie cu cremă (generic) | 380 | 5.0 | 45.0 | 20.0 | 1.0 | 28.0 | 24.0 | 80 g (1 bucată) | — | estimate |
