@@ -365,6 +365,7 @@ what matters, not the fat percentage.
 | Plăcintă cu gem și crumble (restaurant) (est., blat fărâmicios cu mult unt, nu foarte dulce) | 365 | 4.5 | 42.0 | 19.0 | 1.5 | 18.0 | 15.0 | 130 g (1 felie) | — | estimate |
 | Plăcintă cu dovleac (restaurant, foi, cu zahăr pudră) | 230 | 3.5 | 33.0 | 9.5 | 2.0 | 16.0 | 12.0 | 150 g (1 felie) | k | estimate |
 | Plăcintă cu dovleac de casă | 220 | 3.5 | 32.0 | 8.5 | 2.0 | 14.0 | 10.0 | 80 g (bucată mică) | k | estimate |
+| Prăjitură cu brânză de vaci, de casă | 300 | 8.0 | 38.0 | 12.0 | 0.8 | 20.0 | 16.0 | 60 g (bucată mică) | ca | estimate |
 | Negresă de casă | 400 | 5.5 | 50.0 | 20.0 | 2.5 | 32.0 | 30.0 | 70 g (1 bucată) | — | estimate |
 | Șnițel de pui (pane, prăjit) | 230 | 20.0 | 10.0 | 12.0 | 0.5 | 0.5 | 0 | 150 g (1 bucată) | b12, zn | estimate |
 | Sandwich cu șnițel de pui (chiflă, cașcaval, sos, legume) | 254 | 10.1 | 24.9 | 12.2 | 0.9 | 1.1 | 0 | 280 g (1 sandwich) | — | estimate |
@@ -422,6 +423,7 @@ what matters, not the fat percentage.
 | Salată de icre (de crap/știucă, cu ulei) | 450 | 6.0 | 4.0 | 46.0 | 0 | 1.0 | 0 | 15 g (strat pe o felie) | ω3, b12 | estimate |
 | Pandișpan cu fructe, de casă (plăcintă) | 260 | 5.0 | 43.0 | 7.5 | 1.2 | 26.0 | 20.0 | 100 g (1 bucată) | — | estimate |
 | Ardei umplut cu pui, de casă (puțin ulei) | 95 | 6.0 | 11 | 3.0 | 1.5 | 3.0 | 0 | 250 g (1-2 buc) | vitC, k, b12, zn | estimate |
+| Smântână 20 % | 205 | 2.5 | 3.5 | 20.0 | 0 | 3.5 | 0 | 30 g (1 lingură mare) | ca | estimate |
 | Peanut butter | 588 | 25 | 20 | 50 | 6 | 9 | 0 | 20 g (1 lingură) | mg | estimate |
 | Portocală | 47 | 0.9 | 11.8 | 0.1 | 2.4 | 9.4 | 0 | 180 g (1 medie, fără coajă) | vitC, k | estimate |
 | Butter (unt) | 740 | 0.7 | 0.6 | 82 | 0 | 0.6 | 0 | 10 g (strat pe o felie) | — | estimate |
